@@ -1,0 +1,40 @@
+{
+  "source": "cysec-cif-karteikarten.pdf",
+  "sha256": "e08b90c81b6fab44b4af0f159348eb7e04e86cc0959c01cc26a33f0cbac13baf",
+  "pages": 82,
+  "pymupdf_version": "1.27.2.3",
+  "clean_numbered_entries": 190,
+  "unique_clean_ids": 190,
+  "missing_clean_ids": [
+    56,
+    57,
+    109,
+    110,
+    111,
+    121,
+    122,
+    123,
+    187,
+    188,
+    189
+  ],
+  "duplicate_clean_ids": [],
+  "unexpected_clean_ids": [],
+  "malformed_clean_ids": [],
+  "missing_even_in_all_text_traces": [
+    56,
+    57
+  ],
+  "missing_clean_but_present_in_corrupted_layer": [
+    109,
+    110,
+    111,
+    121,
+    122,
+    123,
+    187,
+    188,
+    189
+  ],
+  "passed": false
+}

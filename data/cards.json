@@ -1,0 +1,2472 @@
+[
+  {
+    "id": 1,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "As part of its actions in governing the provision of investment services by authorised firms CySEC is responsible for ensuring:",
+    "options": [
+      "that all CIF authorisations, rejections and revocations are communicated to the European Central Bank",
+      "the compliant arrangements of all ACIs",
+      "the sound and prudent management of all CIFs",
+      "that the strategies and processes implemented by CIFs are reviewed every 2 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Ensuring the sound and prudent management of Cypriot Investment Firms (CIFs) is a core supervisory responsibility of CySEC under the Investment Services Law.\n\n• Why A is wrong: Notifications regarding CIF authorizations/revocations are sent to ESMA (European Securities and Markets Authority), not the ECB.\n\n• Why B is wrong: ACIs (Authorized Credit Institutions/Banks) are supervised by the Central Bank of Cyprus (CBC), not CySEC.\n\n• Why D is wrong: Strategies and processes must be reviewed at least annually, not every 2 years."
+  },
+  {
+    "id": 2,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "CySEC discovered that a foreign firm which is NOT subject to the regulator's supervision is carrying out an act contrary to EC regulations. As well as notifying the competent authority of the relevant member state, what other action MUST the regulator take?",
+    "options": [
+      "Freeze any local assets held by the firm",
+      "Inform European Securities and Markets Authority",
+      "Publish a referral statement in the national press",
+      "Issue a statutory warning notice to the firm"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Under cooperation agreements, if a regulator suspects an entity not under its supervision is breaking rules, it must notify the entity's home regulator AND ESMA.\n\n• Why A, C, D are wrong: These are enforcement actions that usually require the firm to be under CySEC's supervision or require specific legal proceedings. The immediate mandatory administrative action is notification to ESMA."
+  },
+  {
+    "id": 3,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "CySEC may legitimately refuse to cooperate with an investigation by another competent authority if it:",
+    "options": [
+      "involves the sharing of confidential information",
+      "might adversely affect market stability",
+      "involves the sharing of price sensitive information",
+      "might adversely affect public order"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: There are only three specific grounds for refusal to cooperate: 1) It affects sovereignty, security, or public order; 2) Judicial proceedings have already been initiated for the same actions; 3) A final judgment has already been delivered (double jeopardy).\n\n• Why A, B, C are wrong: Confidentiality or market sensitivity are not valid grounds for refusal. Regulators are legally required to exchange confidential information, provided the receiver maintains professional secrecy."
+  },
+  {
+    "id": 4,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "CySEC must ensure that any person acting on behalf of a CIF is:",
+    "options": [
+      "over the age of 21",
+      "sufficiently knowledgeable",
+      "reasonably solvent",
+      "under the age of 60"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: CySEC maintains a public register of certified persons. To be registered, individuals must be of \"good repute\" and possess \"appropriate general, commercial and professional knowledge\" (proven by passing the exam).\n\n• Why A, C, D are wrong: Specific age limits (other than being a legal adult) or personal solvency are not the primary statutory criteria listed for certification in this context."
+  },
+  {
+    "id": 5,
+    "topic": "Банковский надзор и CBC",
+    "question": "If there are regulatory concerns about the operation of a particular credit institution in Cyprus, which body will normally act as the designated contact point for the purpose of exchanging information?",
+    "options": [
+      "Central Bank of Cyprus",
+      "Cyprus Securities and Exchange Commission",
+      "Authority for the Supervision and Development of Co-operative Societies",
+      "Cyprus Stock Exchange"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A \"Credit Institution\" is a bank. The Central Bank of Cyprus (CBC) is the competent supervisory authority for banks.\n\n• Why B is wrong: CySEC regulates Investment Firms (CIFs).\n\n• Why D is wrong: The CSE is a market operator, not the primary regulator for banking supervision."
+  },
+  {
+    "id": 6,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Law 87(I)/2017 applies to CIFs and:",
+    "options": [
+      "pension funds",
+      "data reporting service providers",
+      "insurance firms",
+      "members of the European System of Central Banks"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Law 87(I)/2017 (The Investment Services Law) applies to CIFs, Market Operators, Third-Country Firms (with branches), and Data Reporting Service Providers (DRSPs).\n\n• Why A, C, D are wrong: These entities (Pension funds, Insurance firms, Central Banks) are explicitly exempt from the scope of Law 87(I)/2017 because they have their own specific legislation."
+  },
+  {
+    "id": 7,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Law 87(I)/2017 only applies to third-country firms if they:",
+    "options": [
+      "deal on their own account",
+      "engage in high frequency trading",
+      "have a branch within the Republic",
+      "undertake insurance activities"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The scope of the Law extends to third-country (non-EU) firms providing investment services through the establishment of a branch in the Republic.\n\n• Why A & B are wrong: These are types of activities, not the condition that triggers the law's jurisdiction over a non-EU firm.\n\n• Why D is wrong: Insurance activities are exempt from this law."
+  },
+  {
+    "id": 8,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Once a CIF obtains authorisation from the regulator, in which other territories will the authorisation automatically be valid?",
+    "options": [
+      "Greece and Turkey only",
+      "Greece only",
+      "Euro-denominated countries only",
+      "All EU member states"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: This refers to the \"Single Passport\" principle under MiFID II. An authorization granted by the competent authority of one Member State (like CySEC in Cyprus) is valid for the entire European Union, allowing the firm to provide services across the EU without needing separate licenses for each country.\n\n• Why A, B, C are wrong: The validity is not restricted to specific countries or currency zones; it applies to the entire EU bloc."
+  },
+  {
+    "id": 9,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "When competent authorities require access to data relating to financial instrument orders processed through trading firms, which body is responsible for facilitating this?",
+    "options": [
+      "ECB",
+      "IOSCO",
+      "EBA",
+      "ESMA"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: ESMA (European Securities and Markets Authority) is the EU body responsible for facilitating and accelerating cooperation and the exchange of information between competent authorities (like CySEC) regarding financial instrument orders.\n\n• Why A, B, C are wrong: The ECB deals with banking supervision/monetary policy. IOSCO is a global standard-setter, not an EU operational body. EBA deals with banking regulations, not specifically financial instrument trading data coordination in this context."
+  },
+  {
+    "id": 10,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Which body has primary responsibility for maintaining a public register of persons acting on behalf of investment firms established in another member state but operating in Cyprus?",
+    "options": [
+      "European Securities and Markets Authority",
+      "Central Bank of Cyprus",
+      "Cyprus Securities and Exchange Commission",
+      "Authority for the Supervision and Development of Co-operative Societies"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: CySEC is responsible for establishing, maintaining, and updating the public register of certified persons acting on behalf of CIFs or Investment Firms from other member states operating within the Republic of Cyprus.\n\n• Why A, B, D are wrong: While ESMA keeps EU-level registers, the local register for operations within Cyprus is maintained by the national regulator, CySEC."
+  },
+  {
+    "id": 11,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Which of the following are always exempt from the scope of Law 87(I)/2017?",
+    "options": [
+      "Cypriot investment firms",
+      "Insurance firms",
+      "Firms dealing on their own account",
+      "Third country firms"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Insurance undertakings (and reinsurance) are explicitly exempt from the Investment Services Law 87(I)/2017 because they are regulated under their own specific legislation (Solvency II).\n\n• Why A is wrong: CIFs are the primary subject of the law.\n\n• Why C is wrong: \"Dealing on own account\" is a regulated investment activity covered by the law.\n\n• Why D is wrong: Third-country firms are covered by the law if they establish a branch in the Republic."
+  },
+  {
+    "id": 12,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "A CIF can only treat a counterparty as an eligible counterparty if:",
+    "options": [
+      "the CIF ensures the arrangement is recorded on a public register",
+      "the CIF agrees to be unconditionally responsible for any action or omission by",
+      "the counterparty has given express confirmation",
+      "the counterparty discloses the capacity in which it is acting"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: To treat a client as an Eligible Counterparty (the category with the lowest protection), the CIF must obtain express confirmation from the prospective counterparty that it agrees to be treated as such. This can be a general agreement or transaction-specific.\n\n• Why A, B, D are wrong: These are not the specific legal conditions required to categorize a client as an Eligible Counterparty."
+  },
+  {
+    "id": 13,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "A CIF must have a MINIMUM of how many directors among its management?",
+    "options": [
+      "One in all cases",
+      "Two in all cases",
+      "Two if it holds client money, otherwise one",
+      "Two if it provides investment advice, otherwise one"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: According to the \"Four-Eyes Principle,\" the management of a CIF must be undertaken by at least two persons of sufficiently good repute and experience to ensure sound and prudent management. This applies regardless of the services offered."
+  },
+  {
+    "id": 14,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "A CIF was authorised three years ago but has NOT provided any investment services or activities for the last six months. As a consequence, the firm's:",
+    "options": [
+      "capital adequacy requirements will be reduced",
+      "board of directors must complete a legal undertaking",
+      "employees must undertake mandatory retraining",
+      "authorisation will automatically lapse"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: One of the specific grounds for the withdrawal of a CIF authorization is if the firm \"does not make use of the authorisation within 12 months\" OR \"has not provided investment services or activities for the preceding six months\".\n\n• Why A, B, C are wrong: These are not the statutory penalties for inactivity. Inactivity leads to the termination/withdrawal of the license."
+  },
+  {
+    "id": 15,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "A CIF's authorisation may be withdrawn in the event that they have NOT used their authorisation within:",
+    "options": [
+      "3 months of the date it was granted",
+      "6 months of the date it was granted",
+      "12 months of the date it was granted",
+      "24 months of the date it was granted"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: According to the Investment Services Law, CySEC may withdraw an authorization if the CIF does not make use of the authorisation within 12 months.\n\n• Distinction: Do not confuse this with the rule for ceasing activities (which is 6 months). Non-usage from the start allows for 12 months."
+  },
+  {
+    "id": 16,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "A regulated market is entitled to:",
+    "options": [
+      "impose higher fees on firms engaging in high-frequency trading",
+      "provide direct market access to any counterparty",
+      "allow trading for a CIF's account ahead of clients",
+      "justify market imbalance if it is caused by algorithmic trading"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: To manage the risks and load on the system associated with High- Frequency Trading (HFT), regulated markets are permitted to impose higher fees on market participants engaging in such algorithmic trading strategies.\n\n• Why C is wrong: \"Front-running\" (trading ahead of clients) is a serious market abuse offence/conflict of interest."
+  },
+  {
+    "id": 17,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "As part of its actions in governing the provision of investment services by authorised firms, CySEC must ensure that:",
+    "options": [
+      "all shareholders are identified",
+      "all rejections are communicated to the CBC",
+      "ESMA's information requests receive a response within 5 business days",
+      "ESMA receives monthly reports detailing all administrative penalties"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: CySEC must know the identity of the shareholders (specifically those with qualifying holdings) to assess their suitability and ensuring sound and prudent management.\n\n• Why B, C, D are wrong: These are incorrect procedural details. Rejections go to ESMA; there is no 5-day statutory limit for general information requests (it is \"without delay\"); penalty reports to ESMA are typically annual."
+  },
+  {
+    "id": 18,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "As part of their general organisational requirements all CIFs must:",
+    "options": [
+      "deliver true and fair financial reports in a timely manner",
+      "report transaction information as soon as reasonably practicable",
+      "enter significant sized orders into the order book as late as possible",
+      "make public pre-trade bid and offer prices for as long as possible"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: This relates to the general obligation for sound administrative and accounting procedures and internal control mechanisms to ensure financial accuracy and transparency.\n\n• Why B is wrong: Transaction reporting has a specific deadline (T+1), not just \"reasonably practicable\".\n\n• Why C & D are wrong: These relate to trading behaviors or market operator transparency rules, not general CIF organizational requirements."
+  },
+  {
+    "id": 19,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "CySEC will inform applicants to be authorised to provide professional investment services of their decision within:",
+    "options": [
+      "1 month of their application",
+      "3 months of their application",
+      "6 months of their application",
+      "12 months of their application"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: CySEC has a statutory period of 6 months from the submission of a complete application to inform the applicant whether authorization has been granted or refused."
+  },
+  {
+    "id": 20,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "If a counterparty wants to be treated as an eligible counterparty it must:",
+    "options": [
+      "register this publicly",
+      "expressly consent to do so",
+      "seek specific authorisation",
+      "cancel all relevant prior agreements"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: A CIF can only treat a client as an Eligible Counterparty (ECP) if it obtains express confirmation/consent from the client that they agree to be treated as such. This lowers their level of protection, so their explicit agreement is mandatory."
+  },
+  {
+    "id": 21,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "If a management company temporarily ceases the activity for which its licence has been granted, CySEC MUST revoke this licence after what period of inactivity?",
+    "options": [
+      "6 months",
+      "1 year",
+      "18 months",
+      "2 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: An authorization may be withdrawn if the firm \"has ceased the activity... for the preceding six months\".\n\n• Distinction: Remember: 12 months for never starting use of the license; 6 months for stopping activity."
+  },
+  {
+    "id": 22,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If a market operator makes an application for regulated market authorisation, CySEC must inform them of its decision within:",
+    "options": [
+      "3 months",
+      "6 months",
+      "12 months",
+      "18 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Similar to the authorization for a CIF, the authorization process for a Regulated Market (Market Operator) also requires CySEC to issue a decision within 6 months."
+  },
+  {
+    "id": 23,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If a market operator of a regulated market wants to make changes to the ownership levels of persons with significant influence, CySEC MUST issue notification of its decision to permit or prohibit this within:",
+    "options": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "12 months"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: According to the rules for Regulated Markets, any changes in the ownership levels of persons with significant influence must be reported to CySEC. CySEC then has one month to notify the regulated market of its decision to permit or prohibit the transfer.\n\n• Why B, C, D are wrong: 3 and 6 months are timelines often associated with authorization applications, not ownership changes for existing entities."
+  },
+  {
+    "id": 24,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If authorisation is withdrawn from a regulated market, within what MAXIMUM period following receipt of the regulator's decision must the operator settle all obligations arising from the activities it may no longer perform?",
+    "options": [
+      "1 month",
+      "2 months",
+      "3 months",
+      "4 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: When a license is revoked (for a Management Company or Market Operator), the entity must cease its activities immediately but is granted a period of 3 months to settle any outstanding obligations arising from those activities."
+  },
+  {
+    "id": 25,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "If there is a suspicion that behaviour has occurred that may be prohibited by MiFID then:",
+    "options": [
+      "a CIF must establish it has happened before reporting it to CySEC",
+      "CySEC must establish it has happened before reporting it to ESMA",
+      "a CIF must initiate disciplinary action before reporting it to CySEC",
+      "CySEC must initiate disciplinary action before reporting it to ESMA"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Regulatory cooperation rules generally require the Competent Authority (CySEC) to verify (\"establish\") that an infringement has occurred before formally notifying the European authority (ESMA) for centralized record-keeping or coordination.\n\n• Why A is wrong: CIFs must report suspicions immediately (e.g., STORs), often before they have established the full facts themselves."
+  },
+  {
+    "id": 26,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "In normal circumstances, what is the MAXIMUM number of non-executive directors allowed for members of the board of a CIF? (Note: This question refers to the number of directorships an individual can hold)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Under the governance rules for significant CIFs, a member of the management body can hold a maximum of 4 non-executive directorships (if they hold no executive ones). Alternatively, they can hold 1 executive + 2 non-executive.\n\n• Why A, C, D are wrong: 4 is the specific statutory limit for multiple directorships to ensure board members have sufficient time to dedicate to their duties."
+  },
+  {
+    "id": 27,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "In relation to the management body, which of the following count as a single directorship?",
+    "options": [
+      "Non-executive directorships in commercial and non-commercial organisations",
+      "Executive directorships held within institutions that are members of the same institutional protection scheme",
+      "Non-executive directorships held outside the same group",
+      "Executive directorships held outside the same group"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: When calculating the number of directorships a person holds (to check against the limits), executive or non-executive directorships held within the same group or within institutions that are members of the same institutional protection scheme count as a single directorship.\n\n• Why C & D are wrong: Directorships outside the group count individually."
+  },
+  {
+    "id": 28,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Issuers whose shares have been admitted to trading for LESS than three years are deemed to be a small and medium sized enterprise (SME) providing their market capitalisation is below:",
+    "options": [
+      "EUR50 million",
+      "EUR75 million",
+      "EUR100 million",
+      "EUR200 million"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: This is the specific definition for SME Growth Markets. An issuer is deemed an SME if its average market capitalization is less than €200 million (based on year-end quotes for the previous 3 years, or if admitted for less than 3 years, the current market cap)."
+  },
+  {
+    "id": 29,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "The continuous CIF obligations require CIFs to regularly review:",
+    "options": [
+      "risk",
+      "outsourcing arrangements",
+      "remuneration policy",
+      "strategy"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: As part of the governance arrangements, CIFs must establish a remuneration policy that encourages responsible business conduct and avoids conflict of interest. It is a specific requirement that this policy is reviewed periodically (at least annually) to ensure it complies with regulations.\n\n• Why A, B, D are wrong: While risk, outsourcing, and strategy are reviewed, the specific regulatory \"continuous obligation\" wording in the context of governance policies in this chapter often targets the Remuneration Policy or the Internal Capital Adequacy Assessment Process (ICAAP)."
+  },
+  {
+    "id": 30,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "The responsibility for monitoring tied agents sits with the:",
+    "options": [
+      "Cypriot Investment Firms",
+      "Cyprus Securities and Exchange Commission",
+      "European Securities and Markets Authority",
+      "European Supervisory Authority"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A CIF appoints a tied agent to act on its behalf. The law states that the CIF remains fully and unconditionally responsible for any action or omission on the part of the tied agent. Therefore, the CIF must monitor them.\n\n• Why B is wrong: CySEC maintains the register of tied agents, but the daily monitoring is the firm's job."
+  },
+  {
+    "id": 31,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "What is the MAXIMUM amount of time for approved reporting mechanisms (ARMs) to report transaction information?",
+    "options": [
+      "Within 15 minutes",
+      "Within 1 hour",
+      "By the close of business",
+      "By the close of the next business day"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: ARMs (Approved Reporting Mechanisms) are Data Reporting Service Providers used to report transactions to the regulator. The standard deadline for transaction reporting (under MiFIR) is T+1 (the close of the following working day)."
+  },
+  {
+    "id": 32,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "What is the MAXIMUM amount of time within which a consolidated tape provider MUST make published transactional information freely available?",
+    "options": [
+      "5 minutes",
+      "10 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: A Consolidated Tape Provider (CTP) collects trade data from various venues. They can charge for real-time data, but they MUST make the information available to the public free of charge 15 minutes after publication."
+  },
+  {
+    "id": 33,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Which of the following combinations of directorships would be acceptable for the board of directors of a CIF?",
+    "options": [
+      "1 executive and 3 non-executive directorships",
+      "4 executive directorships",
+      "3 executive and 1 non-executive directorships",
+      "4 non-executive directorships"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The \"Four-Eyes Principle\" requires that at least two persons effectively direct the business of the CIF (Executive Directors). Option C has 3 Executives, which meets the minimum requirement of 2.\n\n• Why A is wrong: It only has 1 executive director.\n\n• Why D is wrong: It has 0 executive directors."
+  },
+  {
+    "id": 34,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Which of the following is one of the criteria used to determine whether as issuer can be deemed to be an SME?",
+    "options": [
+      "Its total balance sheet does not exceed EUR50 million",
+      "Its average number of employees during the financial year is less than 250",
+      "Its market capitalisation is below EUR150 million",
+      "Its annual net turnover does not exceed EUR100 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: To be an SME (for SME Growth Market purposes), an issuer must meet criteria. One set of criteria (if not based on market cap) involves meeting 2 of 3 financial tests. The employee test is less than 250 employees.\n\n• Why A & D are wrong: The balance sheet limit is €43m (not €50m), and the turnover limit is €50m (not €100m).\n\n• Why C is wrong: The market capitalization limit is €200 million, not €150 million."
+  },
+  {
+    "id": 35,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "With respect to the effectiveness of the control environment, it is a regulatory requirement of the compliance function to issue a report to:",
+    "options": [
+      "CySEC on at least a monthly basis",
+      "CySEC on at least an annual basis",
+      "the management body on at least a monthly basis",
+      "the management body on at least an annual basis"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The Compliance Officer must report to the Board of Directors (Management Body) on the implementation and effectiveness of the control environment. This must happen at least annually.\n\n• Why A & B are wrong: The primary report goes to the Board, not directly to CySEC (though the Board then submits the Annual Report to CySEC)."
+  },
+  {
+    "id": 36,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Financial instruments can be admitted to trading on multiple regulated markets if the issuer:",
+    "options": [
+      "has been informed",
+      "has its head office in the Republic",
+      "has given consent",
+      "has adequate risk management processes"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A financial instrument can be traded on other markets without the issuer's permission (consent), but the issuer must be informed of this fact."
+  },
+  {
+    "id": 37,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "How do regulated markets meet their obligation to maintain transparency?",
+    "options": [
+      "By limiting market access to participant CIFs",
+      "By reporting a list of members to CySEC on a regular basis",
+      "By excluding remote participation",
+      "By reporting a list of members to ESMA on a regular basis"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Regulated markets must maintain transparent rules for membership and must communicate the list of their members/participants to their competent authority (CySEC)."
+  },
+  {
+    "id": 38,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If a regulated market permits direct electronic access then:",
+    "options": [
+      "suitability requirements no longer apply",
+      "participants are only permitted to provide these services if they are based in the Republic",
+      "members remain responsible for executed trades",
+      "risk management requirements no longer apply"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: When a regulated market allows Direct Electronic Access (DEA), the member or participant providing this access retains responsibility for the orders and trades executed using their trading code. They must have systems in place to monitor and control this access.\n\n• Why A & D are wrong: Allowing DEA actually increases the need for risk management controls (like pre-trade thresholds) and does not waive suitability (if applicable) or general conduct obligations."
+  },
+  {
+    "id": 39,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Regulated markets have membership obligations that require specific rules and procedures for:",
+    "options": [
+      "clearing and settlement",
+      "risk management",
+      "suitability and advice",
+      "investment management"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Regulated markets must establish transparent and non-discriminatory rules for membership. One of the mandatory components of these rules is specifying the procedures for the clearing and settlement of transactions concluded on that market to ensure orderly finalization of trades."
+  },
+  {
+    "id": 40,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Where there is a conflict of interest between a CIF and one of its clients, and the firm is unable to put arrangements in place to prevent the risk of damage to the client's interests, what specific action should the firm take to comply with the regulations?",
+    "options": [
+      "Make appropriate disclosures to the client",
+      "Notify the regulator as soon as possible",
+      "Limit activities with the client to execution only",
+      "Defer undertaking the business for a maximum of 28 days"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Disclosure is a \"measure of last resort.\" If the organizational arrangements to manage conflicts are not sufficient to ensure, with reasonable confidence, that the risk of damage will be prevented, the CIF must clearly disclose the general nature and/or sources of conflicts of interest to the client before undertaking business on their behalf."
+  },
+  {
+    "id": 41,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "The role of which member of a bank is subject to the specific regulatory requirement that their remuneration should be determined in a way that does NOT compromise their objectivity?",
+    "options": [
+      "Compliance officer",
+      "Finance director",
+      "Chief executive",
+      "Chairman"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: To ensure the independence of control functions (Compliance, Risk, Internal Audit), the regulations state that their remuneration must be based on the achievement of objectives linked to their functions, independent of the performance of the business areas they control, so that their objectivity is not compromised."
+  },
+  {
+    "id": 42,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Where a CIF requires relevant personnel to perform multiple functions, what do organisational requirements oblige them to ensure?",
+    "options": [
+      "Each separate function continues to be performed soundly and professionally",
+      "Each function is reported individually as if performed by independent personnel",
+      "The internal audit function verifies the soundness of the performance at least half-yearly",
+      "The business continuity plan guarantees the ability to maintain constant levels of service"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: While performing multiple functions is allowed (proportionality principle), the firm must ensure that this overlapping role does not prevent the person from discharging any particular function soundly, honestly, and professionally."
+  },
+  {
+    "id": 43,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "A bank is carefully reviewing the legitimacy of the free service it receives from a third party. The primary purpose of this review is likely to be to ensure compliance with the rules relating to:",
+    "options": [
+      "safeguarding of client assets",
+      "conflicts of interest",
+      "customer due diligence",
+      "client categorisation"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Receiving benefits (inducements), whether monetary or non-monetary (like free services), from third parties in relation to services provided to clients is a major source of Conflicts of Interest. The firm must review if these benefits are legitimate (i.e., they enhance the quality of service to the client) and do not impair the firm's duty to act in the client's best interest."
+  },
+  {
+    "id": 44,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "A bank is checking for any linkage between the remuneration some employees receive from one activity and the revenues received from another activity. The primary purpose of this action is to ensure compliance with the rules relating to:",
+    "options": [
+      "market manipulation",
+      "uncovered sales",
+      "third party outsourcing",
+      "conflicts of interest"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: One of the mandatory measures to manage Conflicts of Interest is removing any direct link between the remuneration of relevant persons principally engaged in one activity and the remuneration of different relevant persons principally engaged in another activity, where a conflict of interest may arise (e.g., linking an analyst's pay to investment banking revenue)."
+  },
+  {
+    "id": 45,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "A financial institution's obligations regarding best execution relate to:",
+    "options": [
+      "obtaining the best price",
+      "judging the best timing to place the order",
+      "advising the client on how to achieve the best result based on their stated needs",
+      "obtaining the best result based on the client's specific instructions"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: While firms generally must take \"all sufficient steps\" to obtain the best possible result, the regulations specify that if a client gives specific instructions relating to an order, the firm must execute the order following those instructions. By doing so, the firm is deemed to have satisfied its best execution obligation for that part of the trade.\n\n• Why A is less correct: Price is just one of many execution factors (along with cost, speed, likelihood, etc.), not the sole definition."
+  },
+  {
+    "id": 46,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "A firm MUST provide potential clients with comprehensive information about its:",
+    "options": [
+      "costs and charges",
+      "regulatory status",
+      "investment performance",
+      "use of third parties"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: To ensure Investor Protection, MiFID II/Law 87(I) requires firms to provide comprehensive information on costs and associated charges (both ex-ante and ex-post), including aggregation of costs, to help the client understand the impact on returns."
+  },
+  {
+    "id": 47,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "CIF X recommended that a client purchase a particular product and instructed CIF Y to carry out the necessary transaction. Who will therefore be responsible for the appropriateness of the recommendation?",
+    "options": [
+      "Firm X only",
+      "Firm Y only",
+      "Firms X and Y jointly and severally",
+      "Firms X and Y jointly in common"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Under the \"Reliance on Others\" rules, the instructing firm (Firm X), which has the direct relationship with the client and gave the advice, remains responsible for the suitability/appropriateness of the recommendation and the accuracy of client information.\n\n• Role of Firm Y: The receiving firm (Firm Y) is only responsible for concluding/executing the transaction based on the instructions."
+  },
+  {
+    "id": 48,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Firms must pay particular attention to whether a client order involves a securities financing transaction in order to comply with:",
+    "options": [
+      "best execution obligations",
+      "anti-money laundering requirements",
+      "order handling rules",
+      "market abuse laws"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: When executing client orders, the firm must take into account the characteristics of the client order, specifically including where the order involves a Securities Financing Transaction (SFT). This is a defined factor in the Best Execution criteria."
+  },
+  {
+    "id": 49,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "If a bank wishes to issue marketing material to retail clients regarding a fund established 25 years ago, any reference to past performance must cover at LEAST:",
+    "options": [
+      "3 years",
+      "5 years",
+      "10 years",
+      "20 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Marketing communications that contain performance information must cover the preceding 5 years (or the whole period the financial instrument has been offered if less than 5 years)."
+  },
+  {
+    "id": 50,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "If a firm provides portfolio management services through an automated system in association with a third party provider then the:",
+    "options": [
+      "responsibility to undertake a suitability assessment remains with the investment firm",
+      "firm may rely on a suitability assessment carried out by the third party",
+      "firm may assume that its clients have the necessary level of experience and knowledge",
+      "firm can only recommend financial instruments to professional clients"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Even if a firm uses an automated system (robo-advice) or partners with a third party, the regulatory responsibility for ensuring the suitability of the portfolio management service for the client cannot be delegated. The firm providing the service retains full liability ."
+  },
+  {
+    "id": 51,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "If a firm receives an instruction to provide investment services on behalf of a client through another firm then it:",
+    "options": [
+      "must make its own suitability assessment",
+      "may rely on client information provided by the instructing firm",
+      "must provide the client with a report outlining the suitability of its recommendations",
+      "assumes responsibility for the suitability of the service it provides"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: This relates to the \"Reliance on Others\" principle. The receiving firm (executing the order) can rely on the client information (KYC, knowledge, experience) passed to it by the instructing firm. The instructing firm remains responsible for the completeness and accuracy of that information."
+  },
+  {
+    "id": 52,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Under best execution requirements, firms:",
+    "options": [
+      "can apply different fees depending on the execution venue",
+      "are forbidden to receive inducements from execution venues",
+      "can choose one execution venue rather than another on the sole basis of the price policy applied by the firm",
+      "are forbidden to place significant reliance on any single execution venue"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Firms are allowed to charge different commissions or fees for different venues, provided that they do not structure or charge them in a way that discriminates unfairly between venues (i.e., steering a client to a venue just to charge a higher fee without a benefit)."
+  },
+  {
+    "id": 53,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Under client order handling rules, a firm may be allowed to aggregate client orders with own account transactions if:",
+    "options": [
+      "the client is a professional",
+      "it is disclosed to all parties",
+      "the firm's order preceeds the client order",
+      "it is disclosed to CySEC"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Aggregation of a client order with the firm's own account order is permitted only if: 1) It is unlikely to disadvantage the client; 2) It is disclosed to the client (and all parties involved); and 3) An order allocation policy is in place."
+  },
+  {
+    "id": 54,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Under the requirements regarding investment advice, firms:",
+    "options": [
+      "must provide a detailed explanation as to whether their investment advice qualifies as independent or non-independent",
+      "should give specific prominence to their independent investment advice services over non- independent advice",
+      "must assess the suitability of recommendations at least annually",
+      "should disclose the conditions that trigger a suitability assessment"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Firms must clearly inform clients about the nature of their advice— specifically, whether it is provided on an independent basis (assessing a broad range of instruments) or a non-independent basis (restricted range). They must explain why it qualifies as such."
+  },
+  {
+    "id": 55,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "When executing client orders, banks should normally:",
+    "options": [
+      "process the largest ones first",
+      "process the smallest ones first",
+      "carry out the transactions sequentially in line with when they are received",
+      "carry out the transactions in random order to prevent market abuse"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: This is a fundamental requirement of Client Order Handling rules. Firms must execute comparable client orders sequentially and promptly (first-come, first-served) unless the characteristics of the order or market conditions make it impracticable, or the client's interests require otherwise.\n\n• Why A, B, D are wrong: Prioritizing by size or randomizing execution would be unfair to clients and a breach of conduct rules."
+  },
+  {
+    "id": 58,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Where client information contains simulated past performance, this MUST:",
+    "options": [
+      "cover more than one financial index",
+      "include relevant links to future performance",
+      "be relevant to the date of disclosure",
+      "be spread over at least five years"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: According to the specific requirements for simulated past performance, it must be based on the actual past performance of one or more financial instruments or financial indices that are substantially the same as the instrument concerned.\n\n• Why D is wrong: The \"5-year rule\" applies to actual past performance."
+  },
+  {
+    "id": 59,
+    "topic": "Надзор CySEC и деятельность CIF",
+    "question": "Which of the following conditions MUST be met for a CIF to enter into an outsourcing agreement?",
+    "options": [
+      "There is clear agreement about which areas of responsibility sit with the service provider",
+      "The firm seeks prior approval from a competent authority",
+      "The relationship and obligations of the investment firm towards its clients is not altered",
+      "The firm is able to terminate the arrangement within six months' notice"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: A key principle of outsourcing is that the CIF remains fully responsible. The outsourcing arrangement must not alter the relationship and obligations the firm has towards its clients.\n\n• Why D is wrong: The firm must be able to terminate the arrangement where necessary, with immediate effect, not with a six-month notice period."
+  },
+  {
+    "id": 60,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Which of the following is TRUE in respect of client assets?",
+    "options": [
+      "CySEC must be informed when funds are held in an omnibus account by a third party",
+      "If it is impossible for client assets held by third parties to be identified separately then the firm should invoke set-off rights",
+      "The firm must inform clients before entering into securities financing transactions in relation to financial instruments held on their behalf",
+      "The firm must identify the responsibilities of every client under applicable national law for any third party acts or omissions"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Before using a client's financial instruments for Securities Financing Transactions (SFTs) (like stock lending), the firm must provide clear information on the terms and the risks involved and obtain prior express consent."
+  },
+  {
+    "id": 61,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Why is it important for market operators to ensure their systems for order pairing execute transactions fairly?",
+    "options": [
+      "To maximise liquidity",
+      "To minimise charges",
+      "To counter money laundering",
+      "To prevent manipulation"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Market operators (Regulated Markets/MTFs) must have transparent and non-discretionary rules for the execution of orders. Ensuring systems execute fairly is a key preventive measure against market manipulation and disorderly trading conditions.\n\n• Why A, B, C are wrong: While liquidity and cost are important, the regulatory requirement for fair execution systems is primarily a market integrity and conduct issue (preventing abuse)."
+  },
+  {
+    "id": 62,
+    "topic": "Работа с клиентами и наилучшее исполнение",
+    "question": "Firms should review their conflicts of interest policy at least:",
+    "options": [
+      "every month",
+      "every 6 months",
+      "every year",
+      "every 5 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Firms are required to review their Conflicts of Interest policy at least annually to ensure it remains effective and addresses any new potential conflicts that may have arisen."
+  },
+  {
+    "id": 63,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "A UCITS uses capital raised from the:",
+    "options": [
+      "public only",
+      "public and corporate bodies",
+      "public and government funds",
+      "public and other invested funds"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The defining characteristic of a UCITS (Undertaking for Collective Investment in Transferable Securities) is that it is an undertaking with the sole object of collective investment in transferable securities of capital raised from the public.\n\n• Note: While corporations can be part of \"the public,\" the specific legal definition distinguishes UCITS from funds that might raise capital privately or from restricted groups."
+  },
+  {
+    "id": 64,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Although a management company manages a UCITS in its home state, CySEC has rejected the company's application to manage a UCITS in the Republic. This rejection is likely where the company:",
+    "options": [
+      "only has authority in its home state to manage a different type of UCITS",
+      "only has UCITS management experience in its home state for three years or less",
+      "intends to provide its services without establishing a branch in the Republic",
+      "intends to proceed without appointing a director who is resident in the Republic"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Under cross-border passporting rules, CySEC can reject a management company's application if the company is not authorised by its home competent authority to manage the specific type of UCITS it is applying to manage in Cyprus.\n\n• Why C is wrong: Firms can provide services cross-border (freedom of services) without establishing a branch."
+  },
+  {
+    "id": 65,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "If a management company from another member state operating within the Republic has refused to comply with a request from CySEC, and CySEC has stopped the company from undertaking any other activity within the Republic, CySEC MUST first have:",
+    "options": [
+      "appointed an alternative management company",
+      "consulted with the European Securities and Markets Authority",
+      "ensured appropriate investor protection measures are in place",
+      "informed the competent authorities in the home member state"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Before taking unilateral action against a cross-border firm (like stopping its activity), the Host Authority (CySEC) must first inform the Home Authority and request them to take measures. If those measures are inadequate, CySEC can then act (after informing the Home Authority again)."
+  },
+  {
+    "id": 66,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "In order for an authorised UCITS from another member state to be able to market units in the Republic, CySEC:",
+    "options": [
+      "must have granted specific authorisation within the Republic",
+      "must have received a notification letter containing all relevant information from the competent authorities of the member state",
+      "must have been given the opportunity to request any additional information required from the competent authorities of the member state",
+      "must have received copies of all relevant marketing material and documentation translated into any language appropriate to the Republic"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: This is the \"Regulator-to-Regulator\" notification process. The UCITS notifies its Home regulator, which then transmits a complete notification letter to the Host regulator (CySEC). Marketing can begin once this notification is received by CySEC."
+  },
+  {
+    "id": 67,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "In order to be able to raise capital from other investors, a master UCITS must have at LEAST how many feeder UCITS?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: A Master UCITS that has at least two feeder UCITS is permitted to also raise capital from other (non-feeder) investors. If it has only one feeder, it is generally dedicated to that feeder."
+  },
+  {
+    "id": 68,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The depositary of a UCITS is permitted to delegate to a third party the function of ensuring that:",
+    "options": [
+      "units are correctly valued",
+      "profits are correctly distributed",
+      "redemptions and repurchases of units are correctly carried out",
+      "financial instruments are correctly registered in segregated accounts"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The depositary is responsible for the safekeeping of assets. The safekeeping function (holding and registering assets) can be delegated to a third party (a sub-custodian), provided specific conditions are met.\n\n• Why A, B, C are wrong: These are core oversight functions (valuation, distribution, redemption compliance). The law explicitly states that these oversight duties cannot be delegated."
+  },
+  {
+    "id": 69,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The MAXIMUM percentage limit for the investment of a UCITS assets in an OTC derivative transaction, when the counterparty is a credit institution, is:",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "30%"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The risk exposure to a counterparty in an OTC derivative transaction must not exceed 10% of the UCITS' assets if the counterparty is a credit institution (bank).\n\n• Additional Context: If the counterparty is not a credit institution, the limit drops to 5%."
+  },
+  {
+    "id": 70,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "To what MAXIMUM percentage holding may the normal limit be raised, where bonds used as assets for a UCITS are issued by a regulated and supervised credit institution in a member state?",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The standard single-issuer limit is 10%. However, this can be raised to 25% for certain covered bonds issued by a credit institution that is subject to special public supervision designed to protect bondholders.\n\n• Distinction: Do not confuse this with the 35% limit, which applies to government/public body securities."
+  },
+  {
+    "id": 71,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "What MINIMUM amount of fully paid up initial capital must a UCITS management company hold?",
+    "options": [
+      "EUR100000",
+      "EUR125.000,00",
+      "EUR150000",
+      "EUR175000"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The statutory minimum initial capital for a Management Company is €125,000.\n\n• Additional Rule: If the portfolio exceeds €250m, additional capital is required (0.02% of the excess), capped at €10m total."
+  },
+  {
+    "id": 72,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Where a UCITS management company authorised in the Republic wishes to establish a branch in another member state, the notification it has to submit to CySEC must include:",
+    "options": [
+      "the name of its bankers",
+      "a complaints procedure manual",
+      "address of the new branch",
+      "a business plan"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: When establishing a branch in another member state, the notification must include the address, the names of managers, the organizational structure, and a business plan setting out the envisaged activities."
+  },
+  {
+    "id": 73,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Where no transaction has occurred on the stock exchange on the day of the valuation of the assets of a UCITS, what price will be used?",
+    "options": [
+      "That for the previous trading day without adjustment",
+      "The latest trading price less an adjustment for management charges",
+      "The monthly average price without adjustment",
+      "The monthly average price plus an adjustment for management charges"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Valuation of listed securities is based on the closing price of the same day. If that is not possible (e.g., no trading or time zone differences), the rule specifies using the previous working day's closing price."
+  },
+  {
+    "id": 74,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Where the published subscription and redemption / repurchase price of a UCITS differs from the net asset value, this reflects the:",
+    "options": [
+      "cost of buying and selling units",
+      "difference in trading windows on alternative markets",
+      "commission due to the management company",
+      "use of bid and ask prices"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The subscription (entry) and redemption (exit) prices are calculated based on the NAV per unit, but they may differ from the pure NAV by the amount of commission/fees charged by the Management Company."
+  },
+  {
+    "id": 75,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Within what timescale, after the end of the relevant period, MUST the summarised statement of assets and expenses of a UCITS be published?",
+    "options": [
+      "10 days",
+      "15 days",
+      "1 month",
+      "2 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: For the first, second, and third quarters, a \"Summarised statement of assets and expenses\" must be published within 15 days of the end of the period.\n\n• Contrast: The Annual report is 4 months; the Half-yearly report is 2 months."
+  },
+  {
+    "id": 76,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "A member of staff of an AIFM is specifically mentioned in the AIF annual report, together with specific details of his remuneration. This is because he:",
+    "options": [
+      "earns over EUR50,000 before bonuses",
+      "can materially affect the AIF's risk profile",
+      "was appointed during the financial year being reported",
+      "transferred to this AIF from a competing firm"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The AIFM annual report must disclose the aggregate amount of remuneration broken down by senior management and members of staff whose actions have a material impact on the risk profile of the AIF.\n\n• Why A, C, D are wrong: These are not the specific regulatory criteria for mandatory individual or categorical remuneration disclosure in the annual report."
+  },
+  {
+    "id": 77,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "An AIFM must be able to reconstruct any transaction involving an AIF according to its:",
+    "options": [
+      "origin and time only",
+      "nature, place and time only",
+      "parties, nature and time only",
+      "origin, parties, nature, place and time"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Internal control procedures must ensure that each transaction involving the AIFs may be reconstructed according to its origin, the parties to it, its nature, and the time and place that the transaction was executed."
+  },
+  {
+    "id": 78,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "As well as the distribution, redemption and repurchase dates, on what other dates, as a MINIMUM, MUST the assets of an AIF be valued?",
+    "options": [
+      "Monthly",
+      "Quarterly",
+      "Whenever a charge is created over any of the assets",
+      "On the reference dates mentioned in the annual and half-yearly reports"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Assets of an AIF need to be valued at a fair price at least on the dates of distribution/redemption AND on the dates mentioned in the AIF's annual and half- yearly reports as the reference dates."
+  },
+  {
+    "id": 79,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "At LEAST how many natural persons of appropriate experience are required to manage an AIF?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The management and operations of an AIF need to be undertaken by at least two natural persons, both of whom need to be sufficiently experienced and specialised (\"Four-Eyes Principle\")."
+  },
+  {
+    "id": 80,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "CySEC may impose additional obligations on an AIFM authorised to market to investors in the Republic:",
+    "options": [
+      "without restriction",
+      "subject to the specific approval of the EU",
+      "provided they are no stricter than those of the EU",
+      "provided they are demonstrated to be in line with common market practice"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: While CySEC can impose additional obligations for marketing to retail investors, the regulations stipulate that these obligations may not be stricter than the EU rules and regulations."
+  },
+  {
+    "id": 81,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "If an AIF sells units in another collective fund managed by the same manager, what restriction will apply to remuneration the AIF manager would normally receive?",
+    "options": [
+      "It will be 25% of the normal amount",
+      "It will be 50% of the normal amount",
+      "It will be deferred for up to six months",
+      "It will not be levied at all"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: To prevent \"double charging,\" if an AIF invests in another collective investment scheme managed by the same (or connected) manager, the manager will not receive any remuneration or redemption fees for that investment."
+  },
+  {
+    "id": 82,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The MINIMUM required frequency for the valuation of assets and net asset value per unit of an AIF is once every:",
+    "options": [
+      "week",
+      "month",
+      "six months",
+      "year"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The unit NAV and asset valuation for an AIF must be calculated at least once a year. (Note: This is much less frequent than the bi-monthly requirement for UCITS)."
+  },
+  {
+    "id": 83,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The performance assessment criteria for the remuneration policy of an AIFM must be:",
+    "options": [
+      "registered with CySEC",
+      "based on a multi-year framework",
+      "verified by an independent third party",
+      "applied triennially in arrears"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: To discourage short-term risk-taking, performance assessment has to be set in a multi-year framework appropriate to the life cycle of the AIFs managed."
+  },
+  {
+    "id": 84,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The reference dates for the illustrative data regarding the valuation of assets of the AIF are defined:",
+    "options": [
+      "in the annual AIF report only",
+      "in the annual and half-yearly AIF reports",
+      "as the dates on which unit redemption takes place",
+      "as the dates on which distributions take place"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Assets must be valued on the reference dates specified in both the annual and half-yearly reports."
+  },
+  {
+    "id": 85,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The remuneration of which category(ies) of staff of an AIFM MUST be directly overseen by the company's remuneration committee?",
+    "options": [
+      "Board of directors only",
+      "Chief executive officer only",
+      "Senior risk and compliance officers only",
+      "All staff in control functions"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: To ensure the independence of control functions, the remuneration of senior officers in the risk management and compliance functions must be directly overseen by the remuneration committee. This prevents their pay from being influenced by the business units they are monitoring."
+  },
+  {
+    "id": 86,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The reporting requirements of CySEC regarding AIFs extend to:",
+    "options": [
+      "which types of AIF may be marketed to retail investors in the Republic only",
+      "what additional requirements have been imposed on AIFs only",
+      "both the types of AIF that may be marketed to retail investors in the Republic and what additional requirements have been imposed",
+      "both the additional requirements that have been imposed on AIFs and the extent to which these have been agreed with other member states"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: When allowing AIFs to be marketed to retail investors (who usually require more protection), CySEC must report to the EU authorities (ESMA/EC) exactly which types of AIFs are allowed and what additional requirements CySEC has imposed on them to ensure investor protection."
+  },
+  {
+    "id": 87,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "The required working relationship between the risk management department of an AIFM and the AIFM's operating units can be correctly described as:",
+    "options": [
+      "functionally segregated",
+      "vertically integrated",
+      "one where the risk management department manages the operating units",
+      "one where the risk management department reports to the operating units"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A fundamental rule for AIFMs is that the risk management function must be functionally and hierarchically separated (segregated) from the operating units (like portfolio management) to avoid conflicts of interest and ensure independent risk assessment."
+  },
+  {
+    "id": 88,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "What specific requirement applies regarding a transaction made between an AIF and its depositary?",
+    "options": [
+      "It must be sanctioned by CySEC",
+      "It must be overseen by the external manager",
+      "The details must be publicly disclosed the following business day",
+      "The assets must be valued by an independent expert"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Any transaction between an AIF and a related party (like its depositary, manager, or advisor) carries a high risk of conflict of interest regarding the price. Therefore, the law requires that the assets involved in such transactions be valued by an independent expert to ensure the price is fair."
+  },
+  {
+    "id": 89,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "When a transaction takes place between an AIF and its investment advisor, who is normally responsible for nominating an independent expert to value the assets involved?",
+    "options": [
+      "The depositary",
+      "The fund trustees",
+      "CySEC",
+      "The investment advisor"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The Depositary acts as the independent guardian of the fund's assets. For transactions involving the manager or advisor, the Depositary nominates the independent expert.\n\n• Note: If the transaction involved the Depositary itself, then the External Manager would nominate the expert."
+  },
+  {
+    "id": 90,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Where an AIFM is also authorised to undertake discretionary portfolio management services, it is only permitted to invest all or part of the client's portfolio in units of AIFs it manages if the:",
+    "options": [
+      "client is registered with CySEC",
+      "client gave approval in advance",
+      "AIFM can prove there is no conflict of interest",
+      "AIFM has disclosed this in its rules or instruments of incorporation"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Investing a client's discretionary portfolio into the firm's own funds creates a significant conflict of interest (double fees, propping up own funds). Therefore, it is prohibited unless the client has provided prior general approval (consent) for such investments."
+  },
+  {
+    "id": 91,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "Where an AIFM offers a capital guarantee from a credit institution as part of its authorisation application, the MAXIMUM permitted percentage of the total capital subject to this guarantee is:",
+    "options": [
+      "25%",
+      "30%",
+      "45%",
+      "50%"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: When an AIFM is required to hold additional capital (because its portfolio exceeds €250m), up to 50% of this additional own funds requirement may be provided in the form of a guarantee from a credit institution or insurance undertaking."
+  },
+  {
+    "id": 92,
+    "topic": "Инвестиционные фонды (UCITS/AIF)",
+    "question": "With regard to liquidity management, an AIFM with responsibility for multiple AIFs is required to maintain:",
+    "options": [
+      "a global liquidity management system and procedures sufficient to monitor the total liquidity risk of all AIFs",
+      "separate liquidity management systems and procedures for each AIF to ensure each has a compliant liquidity profile",
+      "a global liquidity management system and procedures for leveraged AIFs but separate systems for each unleveraged AIF",
+      "separate liquidity management systems and procedures for each leveraged AIF but a global system covering all unleveraged AIFs"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Liquidity risk must be managed specifically for the profile of each fund. The AIFM must employ an adequate liquidity management system and procedures for each AIF (except unleveraged closed-ended ones) to ensure the investment strategy, liquidity profile, and redemption policy are consistent."
+  },
+  {
+    "id": 93,
+    "topic": "Банковский надзор и CBC",
+    "question": "A person will require prior approval from the CBC if his voting rights in a bank are INCREASED from:",
+    "options": [
+      "4% to 6%",
+      "9% to 11%",
+      "28% to 32%",
+      "38% to 41%"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The Central Bank of Cyprus (CBC) requires prior approval for acquisitions or increases in qualifying holdings that reach or exceed specific thresholds: 20%, 30%, and 50%. Increasing from 28% to 32% crosses the 30% threshold."
+  },
+  {
+    "id": 94,
+    "topic": "Банковский надзор и CBC",
+    "question": "Data relating to confidential information obtained by the CBC in respect of supervision activities was recently made public. The legitimate defence used to justify this action was that:",
+    "options": [
+      "money laundering was involved",
+      "it was limited to statistical aggregates",
+      "the bank had a subsidiary operating outside the Republic",
+      "prior approval was obtained from CySEC"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: While supervisory information is confidential, the law allows for the disclosure of information if it is in summary or aggregate form (statistical aggregates) such that individual institutions cannot be identified."
+  },
+  {
+    "id": 95,
+    "topic": "Банковский надзор и CBC",
+    "question": "Following an inspection visit related to the ongoing investigation of an investment firm, CySEC obtained some information which was deemed confidential. Under what circumstances is it permitted to pass this information on to the CBC?",
+    "options": [
+      "Only if it relates to someone who resides outside the state",
+      "Only if prior approval is obtained from the European Securities and Markets Authority",
+      "Only if money laundering is involved or suspected",
+      "Only if it is handed over on the understanding that it is to be treated confidentially"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: CySEC and the Central Bank (CBC) are required to cooperate and exchange information. The fact that information is confidential does not prevent sharing it, provided the receiving authority agrees to treat it confidentially."
+  },
+  {
+    "id": 96,
+    "topic": "Банковский надзор и CBC",
+    "question": "Following concerns about its operations, the CBC requested that Bank X increase its share capital by 12% within the next 60 days. Despite doing so, the bank was in breach of the regulations in relation to this request because it failed to:",
+    "options": [
+      "register a recovery plan with CySEC",
+      "notify customers of this change",
+      "conduct a dividend audit",
+      "convene an extraordinary general meeting of shareholders"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: When the CBC demands a capital increase, the bank must immediately submit a recovery plan AND convene an extraordinary general meeting (EGM) of shareholders to approve the necessary measures. Failure to call the EGM is a specific breach punishable by fines on directors."
+  },
+  {
+    "id": 97,
+    "topic": "Банковский надзор и CBC",
+    "question": "To comply with regulations, the risk management function of a large bank MUST normally:",
+    "options": [
+      "operate on an independent basis",
+      "be led by a board director",
+      "report directly to the CBC",
+      "update its procedure manual at least every six months"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A fundamental governance requirement for credit institutions (and CIFs) is that the risk management function must be independent from the operational functions (business units) to ensure objective monitoring and avoid conflicts of interest.\n\n• Why B is wrong: While it reports to the board, it is usually led by a Chief Risk Officer (Senior Manager), not necessarily a voting Board Director in all cases, though they have access to the board.\n\n• Why C is wrong: It reports internally to the Management Body/Risk Committee, not directly to the external regulator (CBC) as a reporting line."
+  },
+  {
+    "id": 98,
+    "topic": "Банковский надзор и CBC",
+    "question": "What is the MINIMUM capital requirement for an ACI incorporated in the Republic?",
+    "options": [
+      "EUR5 million",
+      "EUR7 million",
+      "EUR10 million",
+      "EUR12 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The Business of Credit Institutions Law stipulates that the minimum initial capital (own funds) for an Authorized Credit Institution (ACI) incorporated in the Republic is €5 million."
+  },
+  {
+    "id": 99,
+    "topic": "Банковский надзор и CBC",
+    "question": "What is the MINIMUM capital requirement for banks which are incorporated in the Republic?",
+    "options": [
+      "EUR 1 million",
+      "EUR3 million",
+      "EUR5 million",
+      "EUR7 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: This reinforces the previous concept. A \"Bank\" is an Authorized Credit Institution (ACI). The minimum capital requirement is €5 million."
+  },
+  {
+    "id": 100,
+    "topic": "Банковский надзор и CBC",
+    "question": "Within what MAXIMUM period following the end of the financial year MUST banks submit a copy of their audited annual accounts to the CBC?",
+    "options": [
+      "6 weeks",
+      "10 weeks",
+      "2 months",
+      "4 months"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Every ACI must submit an electronic copy of its audited annual accounts to the Central Bank of Cyprus (CBC) within four months of the end of the financial year.\n\n• Note: Do not confuse this with the publication deadline, which is 6 months."
+  },
+  {
+    "id": 101,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "A new bank is currently being established in the Republic and both a compliance officer and an assistant compliance officer are to be appointed. In accordance with the regulations, who is responsible for appointing the assistant compliance officer?",
+    "options": [
+      "The chief executive only",
+      "The compliance officer",
+      "The board of directors",
+      "The senior managers"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The Board of Directors is responsible for appointing the Compliance Officer and, if applicable, their assistants. This ensures the function has the necessary authority and independence from senior management."
+  },
+  {
+    "id": 102,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "Additional due diligence should be conducted on clients:",
+    "options": [
+      "aged under 18",
+      "who make transactions in excess of EUR15,000",
+      "who hold a non-EU passport",
+      "who are acting on behalf of a listed company"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: For occasional transactions (where no business relationship exists), Customer Due Diligence (CDD) becomes mandatory if the transaction amounts to €15,000 or more (whether in a single operation or linked operations)."
+  },
+  {
+    "id": 103,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "An investment provider has accepted documents created and signed by John's wife and brother as the evidence of his identification and its verification. This indicates that the:",
+    "options": [
+      "value of the intended transaction is less than EUR15,000",
+      "investment is to be in fixed interest securities",
+      "original customer due diligence will be followed by additional due diligence carried out within 14 days",
+      "prevention and suppression of money laundering and terrorist financing regulations have been breached"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: This scenario implies that standard identification procedures (face-to- face or direct verification) were not fully completed by the client himself initially. In such exceptional cases (or high-risk scenarios where verification is delayed to not interrupt business), Enhanced Due Diligence measures apply, often requiring verification to be completed within a specific timeframe (e.g., 14 days) or restricting account use until full verification is complete."
+  },
+  {
+    "id": 104,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "As part of his money laundering monitoring requirements, a compliance officer has prepared a list of customers and their risk classification. To comply with the regulations, these records MUST include the:",
+    "options": [
+      "customers' dates of birth",
+      "customers' places of birth",
+      "dates that the relationships with the customers commenced",
+      "dates that due diligence was carried out on the customers"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The Compliance Officer must ensure the preparation and maintenance of customer lists categorized by risk level. These lists must include specific details, one of which is the date of the commencement of the business relationships.\n\n• Why A, B, D are less precise: While DOB/POB are part of KYC files, the specific requirement for the risk classification list maintained by the CO emphasizes tracking the relationship timeline (start date) to monitor risk exposure over time."
+  },
+  {
+    "id": 105,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "Enhanced customer due diligence measures must ALWAYS be taken in respect of which of the following customers?",
+    "options": [
+      "Face-to-face customers",
+      "Financial institutions outside of the EEA",
+      "Listed companies trading in a third country",
+      "Accounts in the name of companies whose shares are in bearer form"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Companies with bearer shares are considered higher risk because ownership can be transferred physically without record, obscuring the beneficial owner. Therefore, Enhanced Due Diligence (EDD) is required.\n\n• Why A is wrong: Face-to-face is standard/lower risk compared to non-face-to-face.\n\n• Why B is wrong: Being outside the EEA doesn't automatically trigger EDD unless it is a high-risk third country.\n\n• Why C is wrong: Listed companies are generally lower risk (often eligible for SDD)."
+  },
+  {
+    "id": 106,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "If a customer opening an account lives far away from the bank involved, then:",
+    "options": [
+      "simplified due diligence should apply",
+      "references should be obtained",
+      "this transaction should be treated as suspicious",
+      "this transaction should be registered with the CBC"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: A customer having an address at a significant distance from the bank without a clear rationale is a classic \"red flag\" or indicator of suspicious activity in Money Laundering typologies."
+  },
+  {
+    "id": 107,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "Max ended his business relationship with investment adviser X in June 2018 and immediately became a client of adviser Y. In accordance with the prevention and suppression of money laundering and terrorist financing regulations:",
+    "options": [
+      "X must pass all Max's files to Y immediately",
+      "Y must have a handover meeting with X before the end of July 2018",
+      "Y must carry out customer due diligence before July 2019",
+      "X must maintain Max's personal and transaction information until June 2023"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Obliged entities must keep records (customer ID and transaction data) for a period of five years following the end of the business relationship. (June 2018 + 5 years = June 2023)."
+  },
+  {
+    "id": 108,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "Max, an employee of company X, has been promoted to the role of compliance officer. In respect of the prevention of money laundering and terrorist financing activities within the company, Max's primary responsibility should be to:",
+    "options": [
+      "appoint a specialist assistant from outside the company",
+      "ensure that every member of staff receives the risk management and procedures manual",
+      "follow the policy principles set and approved by the board of directors",
+      "obtain disclaimer forms signed by all employees managing and/or monitoring customer transactions"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: One of the key duties of the Compliance Officer is to prepare the risk management and procedures manual regarding AML/TF and ensure it is communicated/implemented across the firm so employees know the rules .\n\n• Why C is slightly different: The Board sets the principles; the Compliance Officer designs and implements the procedures based on them. Distributing the manual is a concrete \"primary responsibility\" of execution."
+  },
+  {
+    "id": 112,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "The first point of contact for The Unit for Combating Money Laundering (MOKAS) within a firm is the:",
+    "options": [
+      "Chief Executive Officer",
+      "Compliance Officer",
+      "Head of Risk",
+      "Head of Internal Audit"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The Anti-Money Laundering Compliance Officer (AMLCO) is the designated person responsible for reporting suspicious transactions to MOKAS and acting as the primary liaison/point of contact between the firm and the Unit during investigations."
+  },
+  {
+    "id": 113,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "The initial deposit into new bank account X is a wire transfer from another country. New account Y is being funded by a large cash transaction. In respect of the prevention of money laundering and terrorist financing regulations:",
+    "options": [
+      "transaction X is more likely to involve money laundering than terrorist financing",
+      "transaction Y is more likely to involve terrorist financing than money laundering",
+      "both transactions should be treated by the bank as low risk because they involve transfers of cash",
+      "both transactions should be treated by the bank as suspicious in respect of both potential crimes"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Money Laundering (ML) typically involves moving large sums of illicit funds to disguise their origin (often using cross-border wire transfers during the Layering stage). Terrorist Financing (TF) often involves smaller amounts (to avoid detection) and the funds can come from legitimate sources. Therefore, a large international wire transfer is statistically more characteristic of ML than TF.\n\n• (Note: While large cash (Account Y) is also a red flag for ML (Placement), option A is the specific statement marked correct in this exam context)."
+  },
+  {
+    "id": 114,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "The need for financial organisations to adopt a risk-based approach to prevent money laundering and terrorist financing primarily relates to:",
+    "options": [
+      "the need to establish effective compliance procedures at all levels",
+      "the need to ensure consistency of procedures in all markets and territories",
+      "their ability to identify and focus on areas of greatest priority",
+      "their ability to respond in timely fashion to requests from MOKAS and CySEC"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The core purpose of the Risk-Based Approach (RBA) is efficiency and effectiveness. It allows firms to allocate their resources where they are most needed, focusing their effort on higher-risk areas (greatest priority) rather than treating every low-risk client with the same intense scrutiny."
+  },
+  {
+    "id": 115,
+    "topic": "ПОД/ФТ и проверка клиентов (AML/CDD)",
+    "question": "Which of the following customers opening a bank account would automatically qualify for 'simplified customer due diligence'?",
+    "options": [
+      "Ibrahim, a 28 year old civil servant",
+      "Savvina, a 36 year old police officer",
+      "Acme, a private company based in the Republic",
+      "XYZ, a company listed on the French Stock Exchange"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Public companies listed on a regulated market (like the French Stock Exchange) are subject to disclosure requirements that ensure transparency of ownership. Therefore, they are considered Lower Risk and qualify for Simplified Due Diligence (SDD).\n\n• Why A, B, C are wrong: Occupations alone (police/civil servant) do not trigger SDD. Private companies require standard due diligence to verify beneficial owners."
+  },
+  {
+    "id": 116,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "The rules for transacting derivatives on a regulated market specifically state that transactions should be submitted for clearing:",
+    "options": [
+      "within 60 minutes of receipt",
+      "within 12 hours of receipt",
+      "as quickly as technologically practicable",
+      "as quickly as compliance checks allow"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Under EMIR/MiFIR rules regarding cleared derivatives, trading venues and CCPs must have systems to ensure transactions are submitted and accepted for clearing as quickly as technologically practicable using automated systems to minimize counterparty risk during the gap between trade and clearing."
+  },
+  {
+    "id": 117,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "A CIF executed the transaction of a financial instrument on a regulated market at 11am. What is the deadline for reporting this transaction?",
+    "options": [
+      "Close of the same day",
+      "10am on the next working day",
+      "3pm on the next working day",
+      "Close of the next working day"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The standard transaction reporting deadline under MiFIR is T+1. Investment firms must report complete and accurate details of transactions to the competent authority (CySEC) no later than the close of the following working day."
+  },
+  {
+    "id": 118,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "A CIF recently carried out a financial transaction for one of its clients. For what MINIMUM period must the records of this transaction normally be retained?",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "7 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Under MiFID II/MiFIR, investment firms are required to keep records of all orders and transactions in financial instruments for a minimum period of 5 years."
+  },
+  {
+    "id": 119,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Derivatives trading is permitted to take place on a third country trading venue, but only if that venue is approved by which body?",
+    "options": [
+      "ESMA",
+      "EBA",
+      "IOSCO",
+      "EC"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The European Commission (EC) is the body responsible for adopting \"equivalence decisions.\" It determines if the legal and supervisory framework of a third country is equivalent to EU rules, thereby allowing trading on venues in that country to satisfy the trading obligation."
+  },
+  {
+    "id": 120,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If CySEC decides to temporarily suspend trading in a non-equity financial instrument due to poor liquidity, this suspension will be subject to a MAXIMUM initial period of:",
+    "options": [
+      "one week",
+      "one month",
+      "eight weeks",
+      "three months"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: A competent authority (like CySEC) can temporarily suspend transparency obligations (waivers) for a class of financial instruments if liquidity falls below a certain threshold. This suspension is valid for an initial period of three months."
+  },
+  {
+    "id": 124,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "The requirement for a transaction report to include reference to risk reduction, only applies in cases where the transaction:",
+    "options": [
+      "is in excess of a threshold size",
+      "relates to commodity derivatives",
+      "is conducted outside normal business hours",
+      "relates to sovereign debt"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: When reporting transactions in commodity derivatives, firms must indicate whether the transaction \"reduces risk\" (i.e., is for hedging purposes) in an objectively measurable way. This helps regulators distinguish between commercial hedging and financial speculation."
+  },
+  {
+    "id": 125,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "The transparency requirements applicable to systematic internalisers are waived if the sizes in which they deal:",
+    "options": [
+      "are above standard market size",
+      "are below standard market size",
+      "are more than double the minimum quote size",
+      "are less than three times the minimum quote size"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Systematic Internalisers (SIs) are generally required to make their quotes public. However, this transparency obligation is waived if they deal in sizes that are above standard market size. This is to protect liquidity providers from undue risk when handling very large orders."
+  },
+  {
+    "id": 126,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "What is the LATEST point for systematic internalisers to submit identifying reference data to CySEC?",
+    "options": [
+      "Before relevant trading commences",
+      "At the same time as relevant trading commences",
+      "One hour after relevant trading commences",
+      "By close of business on the day relevant trading commences"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: To ensure market oversight, reference data for financial instruments must be submitted to the competent authority (CySEC) before trading in that instrument commences."
+  },
+  {
+    "id": 127,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "A CIF has decided to carry out reverse stress testing as part of its ICAAP requirements. The starting point for this activity is to:",
+    "options": [
+      "identify the risk appetite of the firm",
+      "identify the circumstances that would render the firm's business model unviable",
+      "compile a register of risks that the firm is exposed to",
+      "compile a list of the exposure levels of its main competitors"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Reverse stress testing works backward. Instead of asking \"What happens if X occurs?\", it asks \"What scenarios would break the bank (make it unviable)?\" and then assesses how likely those scenarios are."
+  },
+  {
+    "id": 128,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "A CIF is considering its exposure to risks that may arise from the failure to process execution- only orders appropriately. In accordance with Pillar 2 of the Capital Requirements Directive and Basel Accord, this will normally be classed as:",
+    "options": [
+      "business risk",
+      "strategic risk",
+      "settlement risk",
+      "legal and compliance risk"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Legal and Compliance risk specifically includes risks arising from breaches of obligations, such as the failure to execute orders appropriately (e.g., execution-only services) or providing unsuitable advice."
+  },
+  {
+    "id": 129,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "A CIF suffers from strategic risk where it:",
+    "options": [
+      "takes actions which lead to sanctions by CySEC",
+      "needs to raise assets at short notice at high cost",
+      "becomes associated by any means with money laundering activity",
+      "responds too slowly to changes in its market sector"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Strategic Risk is defined as the risk arising from adverse business decisions, improper implementation of decisions, or lack of responsiveness to changes in the business environment.\n\n• Why A is wrong: This is Compliance Risk.\n\n• Why B is wrong: This is Liquidity Risk.\n\n• Why C is wrong: This is Reputational Risk."
+  },
+  {
+    "id": 130,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "As part of the planning stage of the SREP, CIFs will be required to:",
+    "options": [
+      "conduct a risk assessment",
+      "lodge a deposit payment",
+      "carry out desk-based analysis",
+      "submit a report to CySEC"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The first stage of the SREP (Planning) involves CySEC requesting the CIF to submit its ICAAP report for review."
+  },
+  {
+    "id": 131,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "As part of the SREP, CySEC are currently reviewing the outcome of inspection visits to a firm. This confirms that:",
+    "options": [
+      "the firm has been identified for additional monitoring",
+      "the ICAAP submission has been assessed",
+      "the regulator has completed the validation stage",
+      "the process has only recently started"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The review of inspection visits typically occurs after the initial desk- based review of the ICAAP report, often as part of the \"Review of Additional Information\" or concluding the \"Review and Assessment of ICAAP\" phase. It indicates the assessment is well underway or completed, moving towards finalizing supervisory measures. In the SREP stages, inspection results are used to validate or challenge the ICAAP assessment."
+  },
+  {
+    "id": 132,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "As part of the SREP, CySEC has just set a CIF's capital resource requirement. CySEC's next key stage in the process is:",
+    "options": [
+      "conducting the inspection visit",
+      "undertaking a desk based review",
+      "internal validation of the results",
+      "requesting additional information"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: After determining the supervisory measures (setting the capital requirement), the final stage of the SREP process is the SREP Validation, where CySEC internally validates the results of the entire evaluation before communicating them."
+  },
+  {
+    "id": 133,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Credit concentration risk:",
+    "options": [
+      "should be analysed on a local level and a consolidated basis",
+      "occurs as a result of credit risk mitigation techniques",
+      "is the result of poor credit quality",
+      "should increase if market volatility increases"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Credit Concentration Risk (large exposures to single borrowers or sectors) must be analyzed at both the local legal entity level (to protect the subsidiary) and on a consolidated basis (to protect the group). An unmanaged concentration at a subsidiary level can threaten the entity even if it looks small at the group level."
+  },
+  {
+    "id": 134,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "From a strategic perspective a CIF's ICAAP should be used to:",
+    "options": [
+      "form the basis of regular internal audit requirements",
+      "form the reporting needs of the annual report",
+      "plan capital needs for three to five years ahead",
+      "focus on Pillar 1 risk coverage for five to seven years ahead"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The ICAAP (Internal Capital Adequacy Assessment Process) is not just a compliance exercise; it is a strategic tool. One of its key principles is that it must be forward-looking, ensuring the firm has sufficient capital not just for today, but to support its business plan over the medium term (typically a 3 to 5 year horizon)."
+  },
+  {
+    "id": 135,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "In accordance with Pillar 1 of the Capital Requirements Directive and Basel Capital Accord, a CIF is dealing with its market risks. This will include the risk that:",
+    "options": [
+      "the firm incurs losses due to the failure of a counterparty",
+      "the firm has recruited poorly performing staff",
+      "the firm's costs rise due to an increase in interest rates",
+      "the firm's reputation is damaged following a scandal"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Market Risk (under Pillar 1) specifically includes the risk of losses arising from movements in market prices. This includes Interest Rate Risk, Foreign Exchange Risk, Equity Risk, and Commodity Risk.\n\n• Why A is wrong: This is Credit/Counterparty Risk.\n\n• Why B is wrong: This is Operational Risk (\"people\").\n\n• Why D is wrong: Reputational Risk is a Pillar 2 risk, not Pillar 1."
+  },
+  {
+    "id": 136,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "In what way does CySEC normally carry out the 'supervisory measures' stage of the SREP process?",
+    "options": [
+      "By setting capital resource requirements",
+      "By conducting inspection visits",
+      "By issuing a risk profile grading",
+      "By a desk-based analysis"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The \"Supervisory Measures\" stage is the output of the SREP. After assessing the firm's risks and ICAAP, CySEC determines the necessary actions. The primary measure is setting the specific capital resource requirement (often called the \"SREP add-on\" or Pillar 2 requirement) that the firm must hold above the minimum Pillar 1 requirement."
+  },
+  {
+    "id": 137,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The fundamental purpose of the SREP is to:",
+    "options": [
+      "advise CySEC on the methodology by which to assess CIF risk profiles",
+      "provide independent audit functions to assist CIFs in improving risk management",
+      "ensure CIFs maintain adequate capital to cover their material risk exposures",
+      "advise CIFs on how to manage risk domestically and non-domestically"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The Supervisory Review and Evaluation Process (SREP) is the regulator's tool to ensure that institutions have adequate arrangements, strategies, processes, and mechanisms, as well as sufficient capital and liquidity to ensure sound management and coverage of their risks."
+  },
+  {
+    "id": 138,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The ICAAP should form an integral part of a CIF's management processes for what primary purpose?",
+    "options": [
+      "To facilitate ongoing review of material risks",
+      "To facilitate ongoing dialogue with CySEC",
+      "To enable effective use of both qualitative and quantitative approaches",
+      "To enable prompt changes to its basis to be processed"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A core principle of ICAAP is that it should be embedded in the business (\"use test\"). It should be used by management to continuously monitor, assess, and mitigate the material risks the firm faces, rather than just being a report produced for the regulator."
+  },
+  {
+    "id": 139,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The ICAAP, is a set of processes, procedures and measures which are designed to:",
+    "options": [
+      "identify and measure risk",
+      "detail market exposure",
+      "ensure regulatory compliance",
+      "treat customers fairly"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The definition of ICAAP is the strategies and processes to assess (identify and measure) and maintain the amounts, types, and distribution of internal capital adequate to cover the nature and level of risks to which the firm is exposed."
+  },
+  {
+    "id": 140,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The MAIN purpose of the ICAAP process is to:",
+    "options": [
+      "establish CIF capital requirements against a measured risk profile",
+      "establish the volume of business a CIF is able to transact",
+      "enable the CIF to identify and cost suitable risk management systems",
+      "enable the CIF to comply with the SREP"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The ultimate output of the ICAAP is a number: the amount of internal capital the firm believes it needs to hold. This amount is determined by measuring the firm's specific risk profile."
+  },
+  {
+    "id": 141,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The outcome of the SREP for two CIFs indicates different subsequent periodic review periods. What is this MOST likely to reflect?",
+    "options": [
+      "Their Pillar 2 capital requirements",
+      "The dates of their previous reviews",
+      "The turnover of their businesses",
+      "Their respective risk profiles"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: CySEC applies a risk-based approach to supervision. The frequency and intensity of the SREP reviews depend on the \"size, systemic importance, nature, scale and complexity\" of the activities—in short, the risk profile. Higher-risk firms are reviewed more frequently than lower-risk firms."
+  },
+  {
+    "id": 142,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "The purpose of the SREP is to ensure:",
+    "options": [
+      "CIFs have sufficient capital",
+      "markets are fair and orderly",
+      "clients receive suitable advice",
+      "robust business continuity planning"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The Supervisory Review and Evaluation Process (SREP) comprises the processes and measures applied by CySEC to ensure that CIFs have sufficient capital to support all material risks to which their business exposes them."
+  },
+  {
+    "id": 143,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "What is the main DISADVANTAGE when using scenario analysis as a stress testing tool?",
+    "options": [
+      "It cannot use fully appropriate combinations of factors",
+      "It cannot accurately reflect real-life interrelationships between factors",
+      "It is only appropriate for total business failure situations",
+      "It requires a higher level of repeat testing than other methods"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: While Scenario Analysis allows testing simultaneous changes in risk factors, a key limitation is the difficulty in accurately modeling the complex interrelationships (correlations) between those factors as they would behave in a real- life crisis (e.g., liquidity often dries up exactly when credit risk spikes)."
+  },
+  {
+    "id": 144,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "What is the MAXIMUM net exposure an institution is allowed under the Capital Requirements Regulation of the EU? (Note: This question refers to the absolute monetary floor for inter-institution exposures)",
+    "options": [
+      "EUR50 million",
+      "EUR100 million",
+      "EUR150 million",
+      "EUR250 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Under the Large Exposure regime, if the client is an institution (bank), the exposure limit is the higher of 25% of eligible capital OR €150 million. Therefore, an institution is allowed a net exposure up to at least €150 million (provided it doesn't exceed 100% of eligible capital)."
+  },
+  {
+    "id": 145,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "What type of risk is known to be particularly exacerbated by high liquidity and volatility in the market place?",
+    "options": [
+      "Foreign exchange risk",
+      "Business risk",
+      "Credit concentration risk",
+      "Settlement risk"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Foreign Exchange Risk (the risk of loss from FX rate movements) is specifically noted in the syllabus as being significant due to the high liquidity and volatility of the FX market, which can lead to rapid and substantial losses."
+  },
+  {
+    "id": 146,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "When considering Pillar 1 of the Capital Requirements Directive and Basel Accord, one of the key differences between market risk and foreign exchange risk is that:",
+    "options": [
+      "only market risk is fully covered",
+      "only foreign exchange risk is fully covered",
+      "whilst both are fully covered, only market risk needs to be stress tested",
+      "whilst both are fully covered, only foreign exchange risk needs to be stress tested"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: In the classification of risks, Market Risk is a core Pillar 1 risk (fully covered by quantitative requirements). Foreign Exchange Risk is listed in the syllabus as a risk \"not fully covered in Pillar 1\" (along with Settlement, Residual, etc.) and thus requires additional assessment under Pillar 2/ICAAP to ensure full coverage."
+  },
+  {
+    "id": 147,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Where a CIF is exposed to the risk that it is unable to realise payments from clients in a timely manner, this is normally described as:",
+    "options": [
+      "securitisation risk",
+      "residual risk",
+      "market risk",
+      "credit concentration risk"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Residual Risk is defined as the risk that remains when credit risk mitigation techniques prove less effective than expected. This explicitly includes the \"delay or inability to realise payment from a client in a timely manner\" despite having documentation or collateral in place."
+  },
+  {
+    "id": 148,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Which of the following describes the large exposure limits under the EU Capital Requirements Regulation?",
+    "options": [
+      "Institutions may not incur net exposures of a value in excess of 10% of their eligible capital",
+      "Institutions may not incur net exposures of a value in excess of 20% of their eligible capital",
+      "Institutions may not incur net exposures of a value in excess of 25% of their eligible capital",
+      "Institutions may not incur net exposures of a value in excess of 50% of their eligible capital"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The general Large Exposure limit states that an institution's exposure to a client or group of connected clients shall not exceed 25% of its eligible capital."
+  },
+  {
+    "id": 149,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Which of the following statements is TRUE in relation to the Capital Requirements Directive?",
+    "options": [
+      "Settlement risk is not fully covered within Pillar 1",
+      "Credit risk is not fully covered within Pillar 1",
+      "Settlement risk is classed as a Pillar 2 risk",
+      "Credit risk is classed as a Pillar 2 risk"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: As per the classification in the syllabus, Settlement Risk is identified as one of the \"Risks not Fully Covered in Pillar 1\" (making it a candidate for Pillar 2 assessment), whereas Credit Risk is a primary Pillar 1 risk."
+  },
+  {
+    "id": 150,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Why does a CIF maintain a risk register?",
+    "options": [
+      "To contribute to a central CySEC database",
+      "To form the basis of its stress testing programme",
+      "To review its risk profile for regulatory purposes",
+      "To understand potential risk impact and severity"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The purpose of a Risk Register is to document and categorize all risks the firm is exposed to. Crucially, it includes an indication of the severity of the risk and the adverse impact it could have on the CIF if it remained unidentified."
+  },
+  {
+    "id": 151,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "Why might a CIF wish to review its ICAAP within a short space of time?",
+    "options": [
+      "To reflect changes in its operating environment",
+      "To correspond with staffing levels",
+      "To maximise cost efficiencies",
+      "To validate its business recovery planning"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: While the ICAAP must be reviewed at least annually, it must also be reviewed ad-hoc if there are significant changes to the firm's operations, strategy, or the operating environment (e.g., market crash, new regulation, merger) that affect its risk profile."
+  },
+  {
+    "id": 152,
+    "topic": "Капитал и риски (ICAAP/SREP)",
+    "question": "With respect to the Capital Requirements Regulation of the EU, if an institution has eligible capital of EUR800 million they are allowed a MAXIMUM net exposure of:",
+    "options": [
+      "EUR150 million",
+      "EUR160 million",
+      "EUR200 million",
+      "EUR800 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The Large Exposure limit for an institution is the higher of 25% of eligible capital OR €150 million (provided it doesn't exceed 100% of capital). ○ Calculation: €800m * 25% = €200 million. ○ Since €200m > €150m, the limit is €200m."
+  },
+  {
+    "id": 153,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "Which of the following MUST be publicly disclosed by a CCP?",
+    "options": [
+      "Costs and revenues for each of their services",
+      "Prices and fees for each of their services",
+      "Any breaches that constitute a threat to market confidence",
+      "Any breaches that might seriously jeopardise the financial markets"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: A CCP must publicly disclose the prices and fees for each service individually, including discounts and rebates, to ensure transparency for clearing members.\n\n• Why A is wrong: Costs and revenues are disclosed to CySEC, not necessarily to the public."
+  },
+  {
+    "id": 154,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "A CCP must inform CySEC of the:",
+    "options": [
+      "prices and fees of their services",
+      "risks associated with their services",
+      "costs and revenues of their services",
+      "communication protocols of their services"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: While prices/fees are public, the specific costs and revenues of the services must be accounted for separately and disclosed to the competent authority (CySEC)."
+  },
+  {
+    "id": 155,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "CCP's are required to make a number of public disclosures. Which of the following would potentially be excluded from that requirement?",
+    "options": [
+      "A disclosure that details the prices and fees for each of their services",
+      "A disclosure that details any discounts and rebates",
+      "A breach disclosure that would cause reputational damage to the parties involved",
+      "A breach disclosure that would cause disproportionate damage to the parties involved"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Generally, breaches by clearing members must be made public. However, an exemption exists if CySEC/ESMA considers that publication would cause disproportionate damage to the parties involved or threaten financial stability."
+  },
+  {
+    "id": 156,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "How frequently should a CCP calculate its liquidity requirement?",
+    "options": [
+      "At times when markets are liquid",
+      "Daily",
+      "Weekly",
+      "Monthly"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: CCPs must measure their potential liquidity needs on a daily basis, taking into account the liquidity risk generated by the default of the two largest clearing members."
+  },
+  {
+    "id": 157,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If a CCP has a liquidity requirement of EUR100 million, what is the MAXIMUM credit line it can utilise from a clearing member?",
+    "options": [
+      "EUR25 million",
+      "EUR50 million",
+      "EUR75 million",
+      "EUR100 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: A single clearing member (including its parent/subsidiaries) cannot provide more than 25% of the credit lines needed by the CCP. ○ Calculation: 25% of €100m = €25 million."
+  },
+  {
+    "id": 158,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "If a CCP needs to access credit to meet liquidity requirements, what is the MAXIMUM percentage it can borrow from a single clearing member?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: This tests the same rule as the previous card but asks for the percentage. The concentration limit for liquidity credit lines from a single member is 25%."
+  },
+  {
+    "id": 159,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "It is a regulatory requirement that a CCP must hold capital that is sufficient to:",
+    "options": [
+      "provide adequate protection of the CCP against reputational risk",
+      "ensure an orderly wind-down or restructuring of activities within 6 months",
+      "provide adequate protection of the CCP against legal risk",
+      "ensure an orderly wind-down or restructuring of activities within 1 year"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: EMIR stipulates that a Central Counterparty's (CCP) capital must be sufficient to provide adequate protection against credit, counterparty, market, operational, legal, and business risks that are not already covered by specific financial resources.\n\n• Why B & D are wrong: While capital must cover an orderly wind-down, the regulation refers to an \"appropriate time span,\" not a fixed 6-month or 1-year period in this specific context of capital sufficiency definitions."
+  },
+  {
+    "id": 160,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "It is a requirement that a CCP MUST hold capital that is:",
+    "options": [
+      "in excess of €10 million",
+      "sufficient to meet short term obligations",
+      "in excess of €15 million",
+      "sufficient to ensure an orderly wind-down or restructuring of activities"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Alongside covering operational risks, the capital requirements for a CCP are specifically designed to ensure it has enough resources to facilitate an orderly wind-down or restructuring of its activities if it were to fail."
+  },
+  {
+    "id": 161,
+    "topic": "Клиринг и рыночная инфраструктура",
+    "question": "What is the MINIMUM amount of capital a CCP MUST have in order to be authorised?",
+    "options": [
+      "EUR2.5 million",
+      "EUR5 million",
+      "EUR7.5 million",
+      "EUR10 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: EMIR sets a strict quantitative floor for the initial capital of a Central Counterparty at €7.5 million."
+  },
+  {
+    "id": 162,
+    "topic": "Восстановление и урегулирование",
+    "question": "As a MINIMUM, a CIF MUST review its recovery plan:",
+    "options": [
+      "quarterly",
+      "monthly",
+      "yearly",
+      "bi-annually"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Recovery plans are part of the governance arrangements and must be reviewed at least annually (or after any material change to the legal/organizational structure of the CIF)."
+  },
+  {
+    "id": 163,
+    "topic": "Восстановление и урегулирование",
+    "question": "CySEC may enter into bilateral information sharing resolutions with third countries providing that it has notified:",
+    "options": [
+      "the European Central Bank",
+      "the European Financial Stability Facility",
+      "the European Banking Authority",
+      "the European Systemic Risk Board"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: When CySEC enters into cooperation arrangements (MOUs) with third-country authorities regarding resolution planning, it is required to notify the European Banking Authority (EBA)."
+  },
+  {
+    "id": 164,
+    "topic": "Восстановление и урегулирование",
+    "question": "If a CIF has failed then:",
+    "options": [
+      "the CBC must notify the European Systemic Risk Board",
+      "CySEC must notify the European Securities and Markets Authority",
+      "the CBC must notify the European Securities and Markets Authority",
+      "CySEC must notify the European Systemic Risk Board"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: When CySEC determines that the conditions for resolution are met (i.e., the CIF is failing or likely to fail), it must notify several bodies, including the European Systemic Risk Board (ESRB), to ensure macro-prudential risks are monitored."
+  },
+  {
+    "id": 165,
+    "topic": "Восстановление и урегулирование",
+    "question": "In which scenario is CySEC entitled to require that members of the senior management of a CIF are removed?",
+    "options": [
+      "The CIF is about to infringe its own funds requirement",
+      "The CIF is a subsidiary receiving intra group support from its parent",
+      "The CIF fails to submit its recovery plan within the specified time-frame",
+      "The CIF is a subsidiary receiving intra group support from a fellow group subsidiary"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: This falls under Early Intervention powers. If a CIF's financial condition deteriorates (e.g., rapidly infringing or about to infringe own funds requirements), CySEC can demand the removal or replacement of senior management."
+  },
+  {
+    "id": 166,
+    "topic": "Восстановление и урегулирование",
+    "question": "In which scenario is CySEC is entitled to require that a CIF makes changes to its business strategy?",
+    "options": [
+      "If the CIF is a subsidiary receiving intra group support from its parent",
+      "If the CIF is about to infringe its own funds requirement",
+      "If the CIF is a subsidiary receiving intra group support from a fellow group subsidiary",
+      "If the CIF fails to submit its recovery plan within the specified timeframe"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Similar to the previous card, this is an Early Intervention measure. If the financial situation deteriorates significantly (infringing capital requirements), CySEC can require changes to the CIF's business strategy to address the problems."
+  },
+  {
+    "id": 167,
+    "topic": "Восстановление и урегулирование",
+    "question": "Institutions can only provide financial support to group entities in financial difficulties if:",
+    "options": [
+      "it is done as parent to subsidiary",
+      "if there is a financial agreement in place",
+      "it is done as subsidiary to subsidiary",
+      "it does not represent a risk for the whole group"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: While intra-group support is allowed (even without a prior agreement on a case-by-case basis), a fundamental condition is that the provision of the support must not jeopardize the liquidity or solvency of the entity providing the support. It must not create a threat to the financial stability of the whole group."
+  },
+  {
+    "id": 168,
+    "topic": "Восстановление и урегулирование",
+    "question": "Recovery planning requirements state that CIFs MUST maintain a recovery plan that is reviewed at least:",
+    "options": [
+      "every year",
+      "every 2 years",
+      "every 5 years",
+      "every 10 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Recovery plans are not static documents. To remain effective, they must be reviewed and updated at least annually or after any material change to the legal or organizational structure of the CIF"
+  },
+  {
+    "id": 169,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following acts as a consolidating supervisor with respect to cross-border cooperation?",
+    "options": [
+      "CySEC",
+      "ESMA",
+      "CBC",
+      "ECB"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: In the context of cross-border resolution for Investment Firms (CIFs), CySEC acts as the consolidating supervisor. In this capacity, it participates in Resolution Colleges and coordinates information exchange."
+  },
+  {
+    "id": 170,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following describes the resolution tool known as the \"the asset separation tool\"?",
+    "options": [
+      "Shares issued by an institution are transferred to a non-bridging institution",
+      "Rights are transferred to a bridge institution",
+      "An institution converts its debt into equity",
+      "An institution converts capital instruments into equity"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: According to the definitions provided in the slides, the \"Transfer of Assets\" tool (also referred to as the asset separation tool) is a mechanism to transfer assets, rights, or liabilities to a bridge institution."
+  },
+  {
+    "id": 171,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following statements is TRUE in relation to intra-group financial support?",
+    "options": [
+      "The group financial support agreement may cover any combination of entities that are part of the group",
+      "The group financial support agreement is only allowed to cover support between parent companies and subsidiaries",
+      "Each party to a group financial support agreement must act in the best interests of the wider group",
+      "Any calculations used within a group financial support agreement must be based on prevailing market prices"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The agreement is flexible. It can cover support from parent to subsidiary, subsidiary to parent, or subsidiary to subsidiary. It covers \"any combination of entities\".\n\n• Why C is wrong: Entities must act in their own best interest.\n\n• Why D is wrong: Calculations do not have to take into account anticipated temporary impacts on market prices."
+  },
+  {
+    "id": 172,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following statements is TRUE in relation to resolution tools?",
+    "options": [
+      "The CBC may grant permission for the establishment of a bridge institution",
+      "CySEC may grant permission for the establishment of a bridge institution",
+      "CySEC may use a bail-out mechanism",
+      "The CBC must carry out its assessments within one month"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: Specifically for the resolution of CIFs, CySEC has the power to grant permission for the establishment of a bridge institution (effectively waiving standard licensing requirements temporarily) so that assets can be transferred quickly and safely."
+  },
+  {
+    "id": 173,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following statements is TRUE in relation to resolution tools? In the event that CySEC has NOT completed required shareholder assessments in relation to a bail-in then:",
+    "options": [
+      "transfers can be made immediately but voting rights will be suspended during the assessment period",
+      "no transfers can be made but shareholders' voting rights remain intact",
+      "the CBC can insist that common tier 1 equity is written down and tier 2 equity is converted",
+      "the Investment Services and Activities and Regulated Markets Law can be temporarily relaxed so that assets can be separated"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: In a resolution scenario (like a bail-in where debt converts to shares), there isn't time for the usual slow regulatory approval of new shareholders. The transfer happens immediately to save the firm, but the voting rights of the new acquirers are suspended until CySEC completes its suitability assessment."
+  },
+  {
+    "id": 174,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following statements is TRUE in relation to the appointment of special administrators?",
+    "options": [
+      "A special administrator is appointed by the resolution authority for a period not exceeding 1 year",
+      "The resolution authority may only appoint 1 person",
+      "Their remuneration will be borne by the resolution authority",
+      "During their term, they have only restricted access to institutional data"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The Resolution Authority (Central Bank of Cyprus) appoints a special administrator to replace the management of a failing institution. The term is limited to one year (though it can be renewed in exceptional circumstances).\n\n• Why C is wrong: Remuneration is paid by the institution (the bank/CIF), not the authority.\n\n• Why D is wrong: Administrators have full access to all data and management powers."
+  },
+  {
+    "id": 175,
+    "topic": "Восстановление и урегулирование",
+    "question": "Which of the following would CySEC normally inform if it considers that a CIF is failing?",
+    "options": [
+      "The European Banking Authority",
+      "The European Central Bank",
+      "The European Systemic Risk Board",
+      "The European Financial Stability Facility"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: When CySEC determines that the conditions for resolution are met (a firm is failing), it must notify various bodies to ensure financial stability is monitored. One of the specific bodies listed in the regulation is the European Systemic Risk Board (ESRB)."
+  },
+  {
+    "id": 176,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "If a company has shares currently trading on a regulated market, what is the MAXIMUM amount of new equity that can be issued in a 12 month period WITHOUT triggering the requirement to issue a prospectus?",
+    "options": [
+      "5% of the same class of shares",
+      "10% of the same class of shares",
+      "5% of any class of shares",
+      "10% of any class of shares"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The Prospectus Law provides an exemption for the admission to trading of shares representing less than 10% of the number of shares of the same class already admitted to trading on the same regulated market over a period of 12 months.\n\n• (Note: While newer EU regulations raised this to 20%, your syllabus slides explicitly state 10%, so stick to 10% for the exam)."
+  },
+  {
+    "id": 177,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "It is a requirement to publish a prospectus for an offer of which of the following types of securities?",
+    "options": [
+      "Bostadsobligationer issued by credit institutions in Sweden",
+      "Units issued by closed-end collective investment scheme",
+      "Non-fungible shares of capital intended to give the holder property access",
+      "Non-equity securities issued manner by credit institutions"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The Prospectus Law generally exempts open-ended funds (like UCITS), but it expressly applies to units issued by closed-end collective investment undertakings.\n\n• Why the others are wrong: \"Bostadsobligationer\" (A), \"Non-fungible shares linked to property\" (C), and certain \"Non-equity securities by credit institutions\" (D) are all explicitly listed as exemptions in the law."
+  },
+  {
+    "id": 178,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Shares issued by the CBC:",
+    "options": [
+      "are exempt from the requirement to issue a prospectus",
+      "do not require a prospectus if the offer is less than EUR5 million over a period of 12 months",
+      "require a prospectus for offers in excess of 10% of the current issued share class",
+      "must always be accompanied by a prospectus"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: The Central Bank of Cyprus (CBC), along with the State and local authorities, is fully exempt from the scope of the Prospectus Law."
+  },
+  {
+    "id": 179,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Which of the following offers would require the publication of a prospectus?",
+    "options": [
+      "An offer of securities which is less than EUR 2 million over a period of 12 months",
+      "Shares issued for the capital of the central bank",
+      "Convertible securities issued continuously by credit institutions",
+      "Units issued by collective investment undertakings"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: While non-equity securities issued continuously by banks are often exempt (if under €75m), this exemption only applies if the securities are \"not subordinated, convertible or exchangeable\". Since these are convertible, the exemption is lost, and a prospectus is required.\n\n• Why A is wrong: Offers under €5m are exempt.\n\n• Why B is wrong: Central bank capital is exempt.\n\n• Why D is wrong: Collective investment undertakings (open-ended) are generally exempt."
+  },
+  {
+    "id": 180,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Holders of financial instruments must notify both the issuer and CySEC if the voting rights held:",
+    "options": [
+      "are 3% of total voting rights",
+      "reach 4% of total voting rights",
+      "exceed 60%",
+      "fall below 75%"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: The notification thresholds are 5%, 10%, 15%, 20%, 25%, 30%, 50%, and 75%. A shareholder must notify if their holding reaches, exceeds, or falls below any of these thresholds.\n\n• Why A & B are wrong: These are below the minimum 5% threshold.\n\n• Why C is wrong: 60% is not a designated threshold (the gap is between 50% and 75%)."
+  },
+  {
+    "id": 181,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "If a CIF hold shares on its trading book it is exempt from shareholder notification requirements as long as their holding does not exceed:",
+    "options": [
+      "5% of the total voting rights of the issuer",
+      "7.5% of the total voting rights of the issuer",
+      "10% of the total voting rights of the issuer",
+      "15% of the total voting rights of the issuer"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Under Transparency Laws, voting rights held in the trading book of a credit institution or investment firm are exempt from notification requirements, provided the holding does not exceed 5% and the voting rights are not exercised to intervene in the issuer's management."
+  },
+  {
+    "id": 182,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "In the first quarter of the year Bambos increased his shareholding in an equity from 2% to 4% of the total voting rights. In the second quarter he doubled it again to 8% and this pattern continued with a 16% holding by Q3 and a 32% shareholding by Q4. Which of the following statements is TRUE?",
+    "options": [
+      "A notification is required in Q1, Q2, Q3 and Q4",
+      "A notification is required in Q2, Q3 and Q4 only",
+      "A notification is required in Q3 and Q4 only",
+      "A notification is required in Q4 only"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: You must notify when crossing thresholds (5%, 10%, 15%, 20%, 25%, 30%, etc.). ○ Q1 (2% -> 4%): No threshold crossed. (No notification). ○ Q2 (4% -> 8%): Crossed 5%. (Notification required). ○ Q3 (8% -> 16%): Crossed 10% and 15%. (Notification required). ○ Q4 (16% -> 32%): Crossed 20%, 25%, 30%. (Notification required)."
+  },
+  {
+    "id": 183,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Issuer reporting requirements for the disclosure of ongoing information require changes to voting rights to be reported:",
+    "options": [
+      "monthly",
+      "quarterly",
+      "semi-annually",
+      "annually"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: An issuer must disclose the total number of voting rights and capital at the end of each calendar month during which an increase or decrease has occurred. This allows shareholders to calculate their percentage holdings accurately."
+  },
+  {
+    "id": 184,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Issuers of shares are obliged to inform shareholders of their right to:",
+    "options": [
+      "act as proxy",
+      "veto a proposal",
+      "participate in meetings",
+      "make a complaint"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Issuers must provide information to shareholders regarding the place, time, and agenda of meetings, and specifically inform them of their right to participate in those meetings."
+  },
+  {
+    "id": 185,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Issuers of shares must ensure that:",
+    "options": [
+      "the exercise of shareholder rights by proxy is prevented",
+      "basic facilities are available on demand to enable shareholders to exercise their rights",
+      "information is available online to enable overseas shareholders to exercise their rights in the Republic",
+      "the integrity and safety of data is preserved"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: When communicating information to holders of securities, issuers are explicitly required to ensure that the integrity and safety of data is preserved (e.g., preventing data corruption or unauthorized alteration during transmission)."
+  },
+  {
+    "id": 186,
+    "topic": "Проспекты и прозрачность эмитентов",
+    "question": "Reporting requirements for the disclosure of periodic information state that an issuer's annual financial report needs to be available to the public for at LEAST:",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Once published, annual (and half-yearly) financial reports must remain publicly available for a period of at least 10 years."
+  },
+  {
+    "id": 190,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "An employee of a company gained access to confidential information which he should have known was inside information, but assumed was not. This means that he:",
+    "options": [
+      "is not deemed to be in possession of inside information under any circumstances",
+      "is automatically deemed to be in possession of inside information",
+      "is only deemed to be in possession of inside information if it was acquired criminally",
+      "is only deemed to be in possession of inside information if it was acquired in the course of their employment"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: The prohibition on insider dealing applies to any person who possesses inside information under circumstances where they know, or ought to know, that it is inside information. Ignorance (\"assumed it was not\") is not a defense if a reasonable person in their position would have known."
+  },
+  {
+    "id": 191,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "An issuer established a list of persons outside the organisation who, in the course of acting for them, have acquired inside information. When should this list be provided to the regulator?",
+    "options": [
+      "At least once every six months",
+      "At least once every year",
+      "Only when there are more than three persons on the list",
+      "Only when requested by regulator"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: Issuers must maintain an insider list and keep it updated at all times. However, they only need to transmit this list to the competent authority (CySEC) upon request."
+  },
+  {
+    "id": 192,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "CySEC is most likely to allow the issuer of a financial instrument to delay the disclosure of inside information where:",
+    "options": [
+      "it may cause a disproportionate adjustment in the instrument price",
+      "it may influence the outcome of business negotiations",
+      "some of the information is known to have been leaked",
+      "members of staff are being investigated for violations"
+    ],
+    "correctIndex": 1,
+    "explanation": "• Why B is correct: One of the legitimate interests that may justify a delay in disclosure is if immediate publication would prejudice the issuer's legitimate interests, such as influencing the outcome of ongoing business negotiations (e.g., a merger or acquisition that isn't finalized).\n\n• Why C is wrong: If information is leaked, the issuer usually must disclose immediately to correct the asymmetry."
+  },
+  {
+    "id": 193,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "If an individual executing transactions reasonably suspects that a transaction may constitute market manipulation, they should immediately notify:",
+    "options": [
+      "the competent authority of the trading venue",
+      "the CBC",
+      "the competent authority in the member state in which they are registered",
+      "ESMA"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Persons professionally arranging or executing transactions must report suspicious orders and transactions (STORs) to the competent authority of the Member State where they are registered or have their head office (e.g., if a CySEC-regulated firm spots it, they report to CySEC)."
+  },
+  {
+    "id": 194,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "Information disseminated in order to give a misleading signal in relation to a financial instrument is known as:",
+    "options": [
+      "market manipulation",
+      "insider dealing",
+      "money laundering",
+      "product bias"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Market manipulation includes the dissemination of information through the media (including the internet) that gives false or misleading signals as to the supply, demand, or price of a financial instrument."
+  },
+  {
+    "id": 195,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "Joe is a manager within an issuing firm. Under what circumstances would he be obliged to report a transaction made by his cousin Ben?",
+    "options": [
+      "Joe has contributed to the costs of Ben's university education",
+      "Joe and Ben have equivalent roles in competing firms",
+      "Ben has been living in Joe's house for over a year",
+      "Ben has previously worked for Joe in another firm"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Managers (PDMRs) must report transactions of \"Closely Associated Persons\". A relative is considered closely associated if they have shared the same household for at least one year on the date of the transaction."
+  },
+  {
+    "id": 196,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "Persons who produce or disseminate an investment recommendation must disclose:",
+    "options": [
+      "how they are qualified to give a recommendation",
+      "how they are remunerated",
+      "any potential conflicts of interest",
+      "the firm's complaints policy"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: Persons producing investment recommendations (like analysts) must ensure information is objectively presented and, crucially, must disclose their interests or any conflicts of interest concerning the financial instruments to which that information relates ."
+  },
+  {
+    "id": 197,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "The issuer of a financial instrument wants to delay the disclosure of some inside information as it relates to potential insolvency proceedings. What action must the issuer therefore take to avoid breaching the regulations?",
+    "options": [
+      "Request a trading suspension",
+      "Submit a confidential release to the Cyprus Stock Exchange",
+      "Notify all known creditors of this situation",
+      "Seek approval from CySEC"
+    ],
+    "correctIndex": 3,
+    "explanation": "• Why D is correct: An issuer may delay public disclosure of inside information (such as insolvency) only if specific conditions are met (legitimate interest, no misleading of public, confidentiality assured). Crucially, to do this legitimately, they must inform the competent authority (CySEC) and provide a written explanation. For certain delays related to financial stability, the consent of the authority is explicitly required ."
+  },
+  {
+    "id": 198,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "The key significance of inside information is that making it public knowledge is:",
+    "options": [
+      "done by fraudulent means",
+      "done specifically for financial gain",
+      "likely to significantly influence the price of certain financial instruments",
+      "likely to disrupt the entire market"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: The definition of inside information hinges on the \"significant effect on prices\" test. Information is only \"inside information\" if, were it made public, it would be likely to have a significant effect on the prices of those financial instruments or related derivatives."
+  },
+  {
+    "id": 199,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "The requirement for the issuers of financial instruments to make inside information public as soon as possible only applies to financial instruments which are:",
+    "options": [
+      "listed within the Republic",
+      "traded on a regulated market",
+      "in an ongoing negotiation",
+      "derivatives"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: While MAR applies EU-wide, the specific obligation for an issuer to inform the public \"as soon as possible\" applies to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State (i.e., listed within the Republic in the context of CySEC supervision)."
+  },
+  {
+    "id": 200,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "Under what circumstances is a person in possession of inside information permitted to disclose it to another person?",
+    "options": [
+      "Only where required in the normal course of their business",
+      "Only where acting on the account of a third party",
+      "Only with the written authority of a director of the company",
+      "Only if it is clear that the other person already knows the information"
+    ],
+    "correctIndex": 0,
+    "explanation": "• Why A is correct: Unlawful disclosure arises when a person discloses inside information to any other person, except where the disclosure is made in the normal exercise of an employment, a profession or duties."
+  },
+  {
+    "id": 201,
+    "topic": "Злоупотребления на рынке и инсайдерская информация",
+    "question": "Where confidential data, if made public, would have a neutral effect on the price of its associated financial instrument, then this data:",
+    "options": [
+      "should only be released through official channels",
+      "is classed as sensitive information",
+      "will not fall into the definition of inside information",
+      "is not permitted to be released purely in verbal format"
+    ],
+    "correctIndex": 2,
+    "explanation": "• Why C is correct: As reinforced in previous questions, if information would have a neutral effect (no significant impact) on the price, it fails the key test for \"Inside Information\"."
+  }
+]
