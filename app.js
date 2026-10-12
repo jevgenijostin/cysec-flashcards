@@ -24,7 +24,7 @@ function home() {
   const topics = new Map();
   cards.forEach(card => topics.set(card.topic, (topics.get(card.topic) || 0) + 1));
   const summary = el('div', undefined, 'summary');
-  [[cards.length, 'карточек'], [topics.size, 'тем'], ['∞', 'повторений']].forEach(([n, label]) => {
+  [[cards.length, 'карточек'], [topics.size, 'тем']].forEach(([n, label]) => {
     const item = el('div'); item.append(el('strong', n), el('span', label)); summary.append(item);
   });
   const grid = el('div', undefined, 'topics');
