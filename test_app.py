@@ -8,7 +8,7 @@ BY_ID = {c['id']: c for c in CARDS}
 
 
 def current(page):
-    return int(page.locator('.card-number').inner_text().split()[-1])
+    return int(page.locator('.card-number').inner_text().split()[-1].lstrip('#'))
 
 
 with sync_playwright() as p:
@@ -16,7 +16,7 @@ with sync_playwright() as p:
     page = browser.new_page(viewport={'width': 390, 'height': 844}, device_scale_factor=1)
     errors = []
     page.on('pageerror', lambda error: errors.append(str(error)))
-    page.goto('http://localhost:8000')
+    page.goto('http://localhost:8123')
     page.locator('.topic').first.wait_for()
     assert page.locator('.topic').count() == 11
     assert page.locator('.summary strong').first.inner_text() == '190'
@@ -40,32 +40,32 @@ with sync_playwright() as p:
         assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
         page.locator('.primary').click()
     assert len(seen) == 190 and len(set(seen)) == 190 and seen[-1] == first
-    assert page.locator('h1').inner_text() == 'Готово!'
+    assert page.locator('h1').inner_text() == 'Done!'
     assert '191' in page.locator('.done').inner_text()
-    page.get_by_role('button', name='Повторить тему', exact=True).click()
+    page.get_by_role('button', name='Repeat this topic', exact=True).click()
     assert page.locator('progress').get_attribute('max') == '190'
     assert page.locator('progress').get_attribute('value') == '0'
-    page.get_by_role('button', name='← К темам').click()
-    page.get_by_role('button', name='Банковский надзор и CBC', exact=False).click()
+    page.get_by_role('button', name='← Topics').click()
+    page.get_by_role('button', name='Banking Supervision & CBC', exact=False).click()
     assert page.locator('progress').get_attribute('max') == '9'
     for _ in range(9):
         n = current(page)
-        assert BY_ID[n]['topic'] == 'Банковский надзор и CBC'
+        assert BY_ID[n]['topic'] == 'Banking Supervision & CBC'
         page.locator('.option').nth(BY_ID[n]['correctIndex']).click()
         page.locator('.primary').click()
-    page.get_by_role('button', name='Повторить тему', exact=True).click()
+    page.get_by_role('button', name='Repeat this topic', exact=True).click()
     assert page.locator('progress').get_attribute('max') == '9'
     page.set_viewport_size({'width': 320, 'height': 640})
     assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
     page.set_viewport_size({'width': 1280, 'height': 900})
-    page.get_by_role('button', name='← К темам').click()
+    page.get_by_role('button', name='← Topics').click()
     assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
     page.screenshot(path='test-results/home.png', full_page=True)
     page.route('**/data/cards.json', lambda route: route.fulfill(status=503, body='Unavailable'))
     page.reload()
-    page.get_by_role('button', name='Попробовать снова').wait_for()
+    page.get_by_role('button', name='Try again').wait_for()
     page.unroute('**/data/cards.json')
-    page.get_by_role('button', name='Попробовать снова').click()
+    page.get_by_role('button', name='Try again').click()
     page.locator('.all').wait_for()
     assert not errors, errors
     browser.close()

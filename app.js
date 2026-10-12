@@ -24,22 +24,22 @@ function home() {
   const topics = new Map();
   cards.forEach(card => topics.set(card.topic, (topics.get(card.topic) || 0) + 1));
   const summary = el('div', undefined, 'summary');
-  [[cards.length, 'карточек'], [topics.size, 'тем']].forEach(([n, label]) => {
+  [[cards.length, 'cards'], [topics.size, 'topics']].forEach(([n, label]) => {
     const item = el('div'); item.append(el('strong', n), el('span', label)); summary.append(item);
   });
   const grid = el('div', undefined, 'topics');
   function topicButton(topic, count) {
     const btn = button('', 'topic' + (topic === null ? ' all' : ''), () => start(topic));
-    const name = el('span', topic || 'Все темы', 'topic-name');
-    name.append(el('span', `Карточек: ${count}`, 'count'));
+    const name = el('span', topic || 'All topics', 'topic-name');
+    name.append(el('span', `Cards: ${count}`, 'count'));
     const arrow = el('span', '→', 'arrow'); arrow.setAttribute('aria-hidden', 'true');
     btn.append(name, arrow); return btn;
   }
   grid.append(topicButton(null, cards.length));
   topics.forEach((count, topic) => grid.append(topicButton(topic, count)));
-  screen(el('p', 'ВАЛЕРИЯ / CYSEC · CIF', 'eyebrow'), el('h1', 'Шаг за шагом.\nК экзамену.'),
-    el('p', 'Выберите тему и начните практику. Ошибки вернутся в конце очереди — у каждой карточки будет ещё один шанс.', 'intro muted'),
-    summary, grid, el('p', 'Вопросы и объяснения — на английском, как в исходном PDF. Прогресс сохраняется только до выхода из текущего занятия.', 'note'));
+  screen(el('h1', 'CySEC / CIF Flashcards'),
+    el('p', 'Pick a topic and start practicing. Wrong answers go to the back of the queue, so every card gets another chance.', 'intro muted'),
+    summary, grid, el('p', 'Progress is kept only in this browser tab for the current session - it is not saved anywhere, and resets on refresh or when you close the tab.', 'note'));
 }
 function start(topic) {
   selectedTopic = topic;
@@ -54,18 +54,18 @@ function study() {
   answered = false;
   const card = queue[0];
   const toolbar = el('div', undefined, 'toolbar');
-  toolbar.append(button('← К темам', 'back', home), el('span', 'Практика', 'badge'));
+  toolbar.append(button('← Topics', 'back', home), el('span', 'Practice', 'badge'));
   const labels = el('div', undefined, 'progress-label');
-  labels.append(el('span', `Выучено: ${mastered} из ${total}`), el('span', `Осталось: ${queue.length}`));
-  const progress = el('progress'); progress.max = total; progress.value = mastered; progress.setAttribute('aria-label', 'Выученные карточки');
+  labels.append(el('span', `Mastered: ${mastered} of ${total}`), el('span', `Remaining: ${queue.length}`));
+  const progress = el('progress'); progress.max = total; progress.value = mastered; progress.setAttribute('aria-label', 'Cards mastered');
   const panel = el('section', undefined, 'card');
-  const question = el('h2', card.question); question.lang = 'en';
-  panel.append(el('p', `ВОПРОС № ${card.id}`, 'card-number'), question);
+  const question = el('h2', card.question);
+  panel.append(el('p', `QUESTION #${card.id}`, 'card-number'), question);
   const options = el('div', undefined, 'options');
   const feedback = el('div'); feedback.setAttribute('role', 'status'); feedback.setAttribute('aria-live', 'polite');
   card.options.forEach((text, index) => {
     const btn = button('', 'option', () => answer(index));
-    const optionText = el('span', text); optionText.lang = 'en';
+    const optionText = el('span', text);
     btn.append(el('span', 'ABCD'[index], 'letter'), optionText); options.append(btn);
   });
   function answer(index) {
@@ -78,31 +78,31 @@ function study() {
       btn.disabled = true;
       if (i === card.correctIndex || i === index) {
         btn.classList.add(i === card.correctIndex ? 'correct' : 'wrong');
-        const label = el('span', i === card.correctIndex ? 'Правильный ответ' : 'Ваш ответ · неверно', 'answer-tag');
-        label.lang = 'ru'; btn.lastChild.append(label);
+        const label = el('span', i === card.correctIndex ? 'Correct answer' : 'Your answer · incorrect', 'answer-tag');
+        btn.lastChild.append(label);
       }
     });
     progress.value = mastered;
-    labels.firstChild.textContent = `Выучено: ${mastered} из ${total}`;
-    labels.lastChild.textContent = `Осталось: ${queue.length}`;
+    labels.firstChild.textContent = `Mastered: ${mastered} of ${total}`;
+    labels.lastChild.textContent = `Remaining: ${queue.length}`;
     feedback.className = 'feedback';
-    const explanation = el('p', card.explanation, 'explanation'); explanation.lang = 'en';
-    feedback.append(el('h3', correct ? 'Верно!' : 'Повторим ещё раз'),
-      el('p', correct ? 'Карточка выучена.' : 'Карточка вернётся в конце очереди.', 'muted'),
-      el('p', 'Объяснение', 'eyebrow'), explanation);
-    const next = button(queue.length ? 'Следующая карточка →' : 'Завершить занятие →', 'primary', study);
+    const explanation = el('p', card.explanation, 'explanation');
+    feedback.append(el('h3', correct ? 'Correct!' : "Let's try that again"),
+      el('p', correct ? 'Card mastered.' : 'This card will come back at the end of the queue.', 'muted'),
+      el('p', 'Explanation', 'eyebrow'), explanation);
+    const next = button(queue.length ? 'Next card →' : 'Finish session →', 'primary', study);
     panel.append(next); next.focus({preventScroll:true});
   }
   panel.append(options, feedback);
-  screen(toolbar, el('p', selectedTopic || 'Все темы', 'session-topic'), labels, progress, panel);
+  screen(toolbar, el('p', selectedTopic || 'All topics', 'session-topic'), labels, progress, panel);
 }
 function complete() {
   const section = el('section', undefined, 'done');
   const actions = el('div', undefined, 'actions');
-  actions.append(button('Повторить тему', 'primary', () => start(selectedTopic)), button('Вернуться к темам', 'secondary', home));
-  section.append(el('div', '✓', 'done-mark'), el('p', selectedTopic || 'Все темы', 'eyebrow'), el('h1', 'Готово!'),
-    el('p', `Все карточки выучены: ${total}. Ответов за занятие: ${attempts}.`, 'muted'),
-    el('p', 'Можно закрепить результат — начните заново в новом порядке.', 'muted'), actions);
+  actions.append(button('Repeat this topic', 'primary', () => start(selectedTopic)), button('Back to topics', 'secondary', home));
+  section.append(el('div', '✓', 'done-mark'), el('p', selectedTopic || 'All topics', 'eyebrow'), el('h1', 'Done!'),
+    el('p', `All cards mastered: ${total}. Answers this session: ${attempts}.`, 'muted'),
+    el('p', 'Want to reinforce it? Start again in a fresh order.', 'muted'), actions);
   screen(section);
 }
 async function load() {
@@ -121,7 +121,7 @@ async function load() {
     }
     cards = data; home();
   } catch (error) {
-    screen(el('h1', 'Не удалось загрузить карточки'), el('p', 'Проверьте соединение и попробуйте ещё раз.', 'muted'), button('Попробовать снова', 'primary', load));
+    screen(el('h1', 'Could not load the flashcards'), el('p', 'Check your connection and try again.', 'muted'), button('Try again', 'primary', load));
     console.error(error);
   }
 }

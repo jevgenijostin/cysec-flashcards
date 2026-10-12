@@ -12,11 +12,11 @@ ROOT = Path(__file__).resolve().parent
 # These cards are genuinely absent from this PDF, not extraction failures.
 MISSING = {56, 57, 109, 110, 111, 121, 122, 123, 187, 188, 189}
 TOPICS = [
-    "Надзор CySEC и деятельность CIF", "Работа с клиентами и наилучшее исполнение",
-    "ПОД/ФТ и проверка клиентов (AML/CDD)", "Капитал и риски (ICAAP/SREP)",
-    "Инвестиционные фонды (UCITS/AIF)", "Злоупотребления на рынке и инсайдерская информация",
-    "Восстановление и урегулирование", "Проспекты и прозрачность эмитентов",
-    "Клиринг и рыночная инфраструктура", "Банковский надзор и CBC",
+    "CySEC Supervision & CIF Operations", "Client Conduct & Best Execution",
+    "AML/CFT & Customer Due Diligence", "Capital & Risk (ICAAP/SREP)",
+    "Investment Funds (UCITS/AIF)", "Market Abuse & Inside Information",
+    "Recovery & Resolution", "Prospectus & Issuer Transparency",
+    "Clearing & Market Infrastructure", "Banking Supervision & CBC",
 ]
 
 
