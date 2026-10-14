@@ -19,7 +19,7 @@ with sync_playwright() as p:
     page.goto('http://localhost:8123')
     page.locator('.topic').first.wait_for()
     assert page.locator('.topic').count() == 11
-    assert page.locator('.summary strong').first.inner_text() == '190'
+    assert page.locator('.summary strong').first.inner_text() == '242'
     page.locator('.all').click()
     first = current(page)
     page.locator('.option').nth((BY_ID[first]['correctIndex'] + 1) % 4).click()
@@ -39,22 +39,22 @@ with sync_playwright() as p:
         assert page.locator('.explanation').inner_text() == BY_ID[n]['explanation']
         assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
         page.locator('.primary').click()
-    assert len(seen) == 190 and len(set(seen)) == 190 and seen[-1] == first
+    assert len(seen) == 242 and len(set(seen)) == 242 and seen[-1] == first
     assert page.locator('h1').inner_text() == 'Done!'
-    assert '191' in page.locator('.done').inner_text()
+    assert '243' in page.locator('.done').inner_text()
     page.get_by_role('button', name='Repeat this topic', exact=True).click()
-    assert page.locator('progress').get_attribute('max') == '190'
+    assert page.locator('progress').get_attribute('max') == '242'
     assert page.locator('progress').get_attribute('value') == '0'
     page.get_by_role('button', name='← Topics').click()
     page.get_by_role('button', name='Banking Supervision & CBC', exact=False).click()
-    assert page.locator('progress').get_attribute('max') == '9'
-    for _ in range(9):
+    assert page.locator('progress').get_attribute('max') == '13'
+    for _ in range(13):
         n = current(page)
         assert BY_ID[n]['topic'] == 'Banking Supervision & CBC'
         page.locator('.option').nth(BY_ID[n]['correctIndex']).click()
         page.locator('.primary').click()
     page.get_by_role('button', name='Repeat this topic', exact=True).click()
-    assert page.locator('progress').get_attribute('max') == '9'
+    assert page.locator('progress').get_attribute('max') == '13'
     page.set_viewport_size({'width': 320, 'height': 640})
     assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
     page.set_viewport_size({'width': 1280, 'height': 900})
@@ -69,4 +69,4 @@ with sync_playwright() as p:
     page.locator('.all').wait_for()
     assert not errors, errors
     browser.close()
-    print('PASS: 190 cards, wrong-answer requeue, completion, restart, topic filtering, responsive layout, load-error retry')
+    print('PASS: 242 cards, wrong-answer requeue, completion, restart, topic filtering, responsive layout, load-error retry')

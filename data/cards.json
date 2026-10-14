@@ -2468,5 +2468,681 @@
     ],
     "correctIndex": 2,
     "explanation": "• Why C is correct: As reinforced in previous questions, if information would have a neutral effect (no significant impact) on the price, it fails the key test for \"Inside Information\"."
+  },
+  {
+    "id": 202,
+    "topic": "CySEC Supervision & CIF Operations",
+    "question": "A CIF needs authorization, if it intends to provide only",
+    "options": [
+      "Investment Advice",
+      "Safekeeping",
+      "Investment Research",
+      "Granting credits"
+    ],
+    "correctIndex": 0,
+    "explanation": "Investment advice is a core investment service under MiFID II/Law 87(I)/2017 Annex I Section A, so providing it alone already triggers the CIF authorisation requirement. Safekeeping, investment research and granting credit are ancillary services (Section B) that don't by themselves require a CIF licence."
+  },
+  {
+    "id": 203,
+    "topic": "CySEC Supervision & CIF Operations",
+    "question": "In normal circumstances, what is the MAXIMUM number of non-executive directors allowed for members of the board of a CIF?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under the EBA/CySEC suitability rules for CIF board members, a director may combine either one executive + two non-executive directorships, or four non-executive directorships (directorships within the same group count as one) - so 4 is the ceiling for a purely non-executive combination."
+  },
+  {
+    "id": 204,
+    "topic": "CySEC Supervision & CIF Operations",
+    "question": "Which of the following is true regarding the Board Members",
+    "options": [
+      "Board members must not hold more than one executive and one non-executive directorships",
+      "Executive or non- executive directorships held in a group within EU count as single directorship",
+      "Members of the board of directors have to commit sufficient time to perform their duties",
+      "The chairmanof the board of directors of the CIF can also be the chief executive officer (CEO) of the same CIF"
+    ],
+    "correctIndex": 2,
+    "explanation": "MiFID II/CRD governance rules require every board member, executive or non-executive, to commit sufficient time to effectively perform their duties - this is assessed as part of the fit-and-proper/suitability process, unlike the other options which misstate directorship-combination and CEO/chair-separation rules."
+  },
+  {
+    "id": 205,
+    "topic": "CySEC Supervision & CIF Operations",
+    "question": "Which of the following applies to SME Growth Markets?",
+    "options": [
+      "Issuers without listed equity will be deemed an SME if, according to their last annual or consolidated accounts, the annual turnover exceeds € 50 million",
+      "Issuers whose shares have been admitted to trading for less than three years are deemed to be an SMEproviding their market capitalisationis below € 150 million",
+      "Issuers without listed equity will be deemed an SME if, according to their last annual or consolidated accounts, the total balance sheet exceeds € 43 million",
+      "A market may apply to be an SME growth market if at least 50% of the issuers admitted to trading are SMEs"
+    ],
+    "correctIndex": 3,
+    "explanation": "MiFID II Art. 33 sets the SME Growth Market qualification test at: at least 50% of the issuers admitted to trading on the venue must be SMEs. The other options misstate the turnover/balance-sheet SME definition thresholds used elsewhere in EU law."
+  },
+  {
+    "id": 206,
+    "topic": "Client Conduct & Best Execution",
+    "question": "When providing clients with information about financial instruments, firms MUST ensure that any indication of:",
+    "options": [
+      "future performance data must be in a prominent font",
+      "future performance needs to be based on negative and positive scenarios",
+      "past performance data is based on complete 5 year periods",
+      "past performance must cover at least the preceding 2 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "MiFID II/COBS marketing-communication rules require that any indication of future performance be based on reasonable assumptions supported by objective data, and must show both favourable and unfavourable (negative and positive) scenarios, not just an optimistic case."
+  },
+  {
+    "id": 207,
+    "topic": "Client Conduct & Best Execution",
+    "question": "When providing independent investment advice based on a selection of available financial instruments, firms are required to ensure:",
+    "options": [
+      "the number and variety of instruments considered is adequately representative of the market",
+      "there are no financial instruments issued by the firm or a closely linked entity",
+      "there are a wide variety of instruments under consideration",
+      "the selection criteria shall predominantly focus on costs and complexity"
+    ],
+    "correctIndex": 0,
+    "explanation": "For independent advice, MiFID II requires the firm to assess a sufficient range of financial instruments from different providers, adequately representative of what's available on the market, rather than a narrow or cost-only selection."
+  },
+  {
+    "id": 208,
+    "topic": "Client Conduct & Best Execution",
+    "question": "Which are the criteria for professional clients",
+    "options": [
+      "balance sheet at least € 20.000.000 and own funds at least € 2.000.000",
+      "balance sheet at least € 40.000.000 and net turnover at least € 20.000.000",
+      "balance sheet at least € 20.000.000 and net turnover at least € 10.000.000",
+      "net turnover at least € 20.000.000 and own funds at least € 2.000.000"
+    ],
+    "correctIndex": 0,
+    "explanation": "MiFID II Annex II's quantitative test for (elective) professional-client status requires meeting 2 of 3 criteria: balance sheet >= EUR 20m, net turnover >= EUR 40m, own funds >= EUR 2m. This option correctly pairs the balance-sheet and own-funds figures."
+  },
+  {
+    "id": 209,
+    "topic": "Client Conduct & Best Execution",
+    "question": "An investment firm once its authorisation is withdrawn how much time does it have to settle its obligations.",
+    "options": [
+      "1 month",
+      "2 months",
+      "3 months",
+      "4 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per the Investment Services and Activities Law 87(I)/2017, once a CIF's authorisation is withdrawn it is given a wind-down period of 3 months to settle outstanding client obligations before fully ceasing operations."
+  },
+  {
+    "id": 210,
+    "topic": "Client Conduct & Best Execution",
+    "question": "What are the execution venues",
+    "options": [
+      "Execution venues only include regulated markets",
+      "Execution venues include a regulated market, an MTF, an OTF, a systematic internaliser, or a market maker or other liquidity provider or an entity that performs a similar function in a third country to the functions performed by any of those",
+      "Execution venues only include a regulated market, an MTFand an OTF",
+      "There should be several execution venues appointed by CIFs"
+    ],
+    "correctIndex": 1,
+    "explanation": "MiFID II Art. 4(1)(24) defines execution venues broadly: a regulated market, MTF, OTF, systematic internaliser, market maker or other liquidity provider, or an equivalent third-country entity, not just regulated markets or a narrower subset."
+  },
+  {
+    "id": 211,
+    "topic": "Investment Funds (UCITS/AIF)",
+    "question": "Which is true regarding the obligations of a master UCITS:",
+    "options": [
+      "Master UCITS must have minimum 2 feeder UCITS",
+      "Master UCITS may not charge subscription, redemption or repurchase fees for the purchase or transfer of its units from the feeder UCITS",
+      "Master UCITS can raise capital from other investors",
+      "Master UCITS may charge subscription, redemption or repurchase fees for the purchase or transfer of its units from the feeder UCITS"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under the UCITS Directive's master-feeder rules, the master UCITS may not charge subscription, redemption or repurchase fees on units bought or sold by its feeder UCITS, protecting feeder investors from double-layer fee drag."
+  },
+  {
+    "id": 212,
+    "topic": "Investment Funds (UCITS/AIF)",
+    "question": "UCITS established in the republic marketing to other Member states: What information must be translated into the official language of the Member state?",
+    "options": [
+      "Prospectus",
+      "KIID",
+      "Financial Statements",
+      "All the relevant documentation"
+    ],
+    "correctIndex": 1,
+    "explanation": "When a UCITS markets cross-border, the Key Investor Information Document (KIID) must be translated into the official language(s) of each host Member State, since it's the core investor-facing disclosure document (the full prospectus has lighter translation requirements)."
+  },
+  {
+    "id": 213,
+    "topic": "Investment Funds (UCITS/AIF)",
+    "question": "The UCITS Management Company must submit annual accounts to CySEC within",
+    "options": [
+      "2 months from the year end",
+      "3 months from the year end",
+      "4 months from the year end",
+      "6 months from the year end"
+    ],
+    "correctIndex": 2,
+    "explanation": "The UCITS Management Company must file its annual accounts with CySEC within 4 months of the financial year end, in line with the UCITS Directive's annual-report deadline."
+  },
+  {
+    "id": 214,
+    "topic": "Investment Funds (UCITS/AIF)",
+    "question": "In the event that a depositary of the UCITS intends to resign from its duties, it must inform the management company or the UCITS itself, of its intention in writing, and at least how much time before their resignation?",
+    "options": [
+      "three months",
+      "one month",
+      "two months",
+      "one week"
+    ],
+    "correctIndex": 0,
+    "explanation": "A UCITS depositary that intends to resign must give at least 3 months' written notice to the management company/UCITS, to allow enough time to appoint a replacement depositary without disrupting fund operations."
+  },
+  {
+    "id": 215,
+    "topic": "Banking Supervision & CBC",
+    "question": "What limit should economic value of an ACI decline for CBC to take special measures?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "30%"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is the economic-value-decline threshold (per the source material) above which the Central Bank of Cyprus will step in with special supervisory measures against an ACI - worth double-checking the exact percentage against your course notes, as prudential thresholds like this get revised."
+  },
+  {
+    "id": 216,
+    "topic": "Banking Supervision & CBC",
+    "question": "Why has CBC fined the board of directors of ABC bank after requesting increase of capital?",
+    "options": [
+      "Because the bank needs to register recovery plan with CySEC",
+      "Because the dividends were not limited",
+      "Because the BoD didn't call for an EGM",
+      "Because the minimum capital adequacy ratio has already been violated"
+    ],
+    "correctIndex": 2,
+    "explanation": "The bank's board was fined because it failed to convene an Extraordinary General Meeting (EGM) despite the capital-increase request - a governance/procedural failure rather than a capital-ratio breach itself."
+  },
+  {
+    "id": 217,
+    "topic": "Banking Supervision & CBC",
+    "question": "When should ACIs incorporated in the Republic need to publish their balance sheet, profit and loss account, and their auditor’s report",
+    "options": [
+      "within six months of the end of the financial year",
+      "Immediately",
+      "within four months of the end of the financial year",
+      "within three months of the end of the financial year"
+    ],
+    "correctIndex": 0,
+    "explanation": "Per the source material, ACIs incorporated in the Republic must publish their balance sheet, P&L and auditor's report within six months of the financial year end."
+  },
+  {
+    "id": 218,
+    "topic": "Banking Supervision & CBC",
+    "question": "When should ACIs incorporated in the Republic need to submit their certified statement of its assets and liabilities to CBC?",
+    "options": [
+      "Within 30 days of the end of each month",
+      "Within 15 days of the end of each month",
+      "Within 6 months from the end of the period",
+      "Within 3 months from the end of the period"
+    ],
+    "correctIndex": 1,
+    "explanation": "Per the source material, ACIs must submit their certified statement of assets and liabilities to the Central Bank of Cyprus within 15 days of the end of each month, a monthly prudential reporting obligation."
+  },
+  {
+    "id": 219,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "Money laundering could involve handling the proceeds of which of the following crimes?",
+    "options": [
+      "Fraud and theft only",
+      "Theft and tax evasion only",
+      "Tax evasion and fraud only",
+      "Fraud, theft and tax evasion"
+    ],
+    "correctIndex": 3,
+    "explanation": "Money laundering can involve proceeds from any underlying (predicate) crime, not a limited list - fraud, theft and tax evasion are all examples of predicate offences whose proceeds can be laundered."
+  },
+  {
+    "id": 220,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "Simplified customer due diligence measures may be applied to which of the following customers?",
+    "options": [
+      "Trust accounts",
+      "Public authorities of EEA countries",
+      "Accounts in the name of companies whose shares are in bearer form",
+      "Client accounts in the name of a third person"
+    ],
+    "correctIndex": 1,
+    "explanation": "Simplified customer due diligence may be applied to lower-risk customers such as public authorities of EEA/EU member states, reflecting their lower money-laundering risk profile versus the other, higher-risk examples listed."
+  },
+  {
+    "id": 221,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "The degree to which Bank XYZ monitors the potential for money laundering varies between its customers. To comply with the regulations, the primary factor influencing this variation should be:",
+    "options": [
+      "the amount of investment involved",
+      "the level of risk posed",
+      "the nationality of the customer",
+      "the type of financial instrument required"
+    ],
+    "correctIndex": 1,
+    "explanation": "AML monitoring intensity must follow a risk-based approach - the level of money-laundering/terrorist-financing risk posed by the customer is the primary driver of how closely a firm monitors them, not investment size, nationality or instrument type alone."
+  },
+  {
+    "id": 222,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "Which one is considered to be a suspicious transaction?",
+    "options": [
+      "A client with initial wire deposit of a small sum",
+      "A client that lives at a significant distance from a bank",
+      "Related customers sharing same street",
+      "Frequent wire transactions"
+    ],
+    "correctIndex": 1,
+    "explanation": "A client living a significant distance from the bank, with no obvious business reason for banking there rather than somewhere local, is a classic red-flag pattern for suspicious-activity monitoring under AML procedures."
+  },
+  {
+    "id": 223,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "Which of the following is example of layering stage of Money Laundering?",
+    "options": [
+      "Transactions that involve buying and selling foreign currencies, shares or bonds in rapid succession, investing in CISs, or insurance-based investment products, or moving the money from one country to another.",
+      "Mixing of illegitimate funds with funds from legitimate cash- intensive businesses such as restaurants, hair salons, coffee shops, etc",
+      "Creating offshore private investment companies to place assets",
+      "Getting into financial arrangements or joint ventures"
+    ],
+    "correctIndex": 0,
+    "explanation": "Layering is the stage of money laundering where illicit funds are moved through complex transactions (rapid currency/securities trades, CIS investment, insurance-wrapped products, cross-border transfers) to obscure their origin, distinct from placement (mixing with legitimate cash businesses) or integration (offshore vehicles, joint ventures)."
+  },
+  {
+    "id": 224,
+    "topic": "AML/CFT & Customer Due Diligence",
+    "question": "The need for risk based approach relates to:",
+    "options": [
+      "Respond to MOKAS in a timely manner",
+      "Identify areas of greatest priority",
+      "Ensure consistency of procedures in all markets and territories",
+      "Establish effective compliance procedures at all levels"
+    ],
+    "correctIndex": 1,
+    "explanation": "A risk-based approach exists so that AML resources and controls are concentrated where the money-laundering/terrorist-financing risk is actually highest, i.e. to identify and prioritise the areas of greatest risk, rather than applying uniform effort everywhere."
+  },
+  {
+    "id": 225,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "Shares in XYZ are listed on a regulated market. To comply with regulations, and in relation to these shares, which of the following details MUST be made public through the trading system?",
+    "options": [
+      "Independent credit risk rating",
+      "Names of issuer's board of directors",
+      "Depth of trading interest",
+      "Price growth performance statistics"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pre-trade transparency rules for regulated-market shares require the trading system to publish current bid/offer prices and the depth of trading interest at those prices, not issuer governance details or rating/performance data."
+  },
+  {
+    "id": 226,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "The mandatory pre-trade information for investment firms operating a trading venue for equity instruments must facilitate which types of trading systems?",
+    "options": [
+      "Quote-driven and order book, but not hybrid trading",
+      "Quote-driven and order book, but not periodic auction trading",
+      "Order book and periodic auction, but not quote- driven trading",
+      "Order book, quote driven, hybrid and periodic auction trading"
+    ],
+    "correctIndex": 3,
+    "explanation": "MiFID II's pre-trade transparency regime for equity trading venues has to accommodate all the main trading-system types in use: order book, quote-driven, hybrid and periodic auction, not just a subset."
+  },
+  {
+    "id": 227,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "The Markets in Financial Instruments Regulation 2014 (MiFIR) includes product intervention powers covering which bodies?",
+    "options": [
+      "Competent authorities only",
+      "Competent authorities and the ESMA only",
+      "Competent authorities and the EBA only",
+      "Competent authorities, the ESMA and the EBA"
+    ],
+    "correctIndex": 3,
+    "explanation": "MiFIR's product intervention powers sit with national competent authorities, ESMA and the EBA (for structured deposits), all three bodies, not just competent authorities or competent authorities plus one of the two agencies."
+  },
+  {
+    "id": 228,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "What is the minimum quote size, that a Systematic Internalizer may decide to quote for a financial instrument traded on a trading venue?",
+    "options": [
+      "5%",
+      "6%",
+      "7%",
+      "10%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Under MiFIR's systematic internaliser regime, an SI quoting below the standard market size may do so down to a minimum quote size of 10% of that standard market size."
+  },
+  {
+    "id": 229,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "The MiFIR regulation establishes uniform requirements in relation to",
+    "options": [
+      "powers of EBA on position management controls and position limits",
+      "product intevention powers of competent authorities, ESMA and ESRB",
+      "product intevention powers of competent authorities, ESMA and EBA",
+      "reporting of transactions to ESMA"
+    ],
+    "correctIndex": 2,
+    "explanation": "MiFIR establishes uniform EU-wide rules for, among other things, the product intervention powers of national competent authorities, ESMA and the EBA."
+  },
+  {
+    "id": 230,
+    "topic": "Clearing & Market Infrastructure",
+    "question": "MiFIR applies to",
+    "options": [
+      "Investment firms",
+      "DRSPs",
+      "insurance firms",
+      "Competent Authorities"
+    ],
+    "correctIndex": 0,
+    "explanation": "MiFIR applies directly to investment firms (as well as market operators, data reporting services providers and certain third-country firms), not to insurance firms or competent authorities, who are the regulators applying it rather than the regulated entities."
+  },
+  {
+    "id": 231,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "The primary purpose of the SREP is to ensure that CIFs:",
+    "options": [
+      "have sufficient anti- manipulation measures in place",
+      "treat their customers with appropriate fairness",
+      "hold sufficient capital resources to support their material risks",
+      "compete with each other with suitable effectiveness"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Supervisory Review and Evaluation Process (SREP) exists primarily to assess whether a CIF holds sufficient capital (and liquidity) resources to cover the material risks in its business, beyond the bare Pillar 1 minimum."
+  },
+  {
+    "id": 232,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "What is the MAXIMUM net exposure an institution is allowed under the Capital Requirements Regulation of the EU?",
+    "options": [
+      "EUR50 million",
+      "EUR100 million",
+      "EUR150 million",
+      "EUR250 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "Per the source material, EUR150 million is the maximum net exposure figure referenced under the EU Capital Requirements Regulation in this context, worth cross-checking the exact large-exposures provision against your notes."
+  },
+  {
+    "id": 233,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "The total capital adequacy ratio of tier 1 and tier 2 is",
+    "options": [
+      "2.50%",
+      "4.50%",
+      "6%",
+      "8%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Under the Capital Requirements Regulation, the combined Pillar 1 minimum for Tier 1 plus Tier 2 own funds is 8% of risk-weighted assets (6% Tier 1 + 2% Tier 2)."
+  },
+  {
+    "id": 234,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "The capital conservation buffer is set at",
+    "options": [
+      "2.50%",
+      "4.50%",
+      "6%",
+      "8%"
+    ],
+    "correctIndex": 0,
+    "explanation": "The capital conservation buffer under CRD IV/CRR is set at 2.5% of risk-weighted assets, sitting on top of the 8% minimum total capital ratio."
+  },
+  {
+    "id": 235,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "During SREP when is communication between CySEC and CIF is held?",
+    "options": [
+      "During Planning Stage",
+      "During Validation Stage",
+      "Throughout the process",
+      "During Supervisory measures stage"
+    ],
+    "correctIndex": 2,
+    "explanation": "SREP is not a single one-off review - supervisory dialogue between CySEC and the CIF runs throughout the whole process (planning, assessment and follow-up), not just at one isolated stage."
+  },
+  {
+    "id": 236,
+    "topic": "Capital & Risk (ICAAP/SREP)",
+    "question": "Which of the following includes reputational risk?",
+    "options": [
+      "Legal and compliance risk",
+      "Business risk",
+      "Settlement risk",
+      "Securitization risk"
+    ],
+    "correctIndex": 3,
+    "explanation": "Reputational risk is typically classified under the broader 'business risk' category in prudential risk taxonomies, alongside strategic and earnings risk, rather than under legal/compliance, settlement or securitisation risk."
+  },
+  {
+    "id": 237,
+    "topic": "Recovery & Resolution",
+    "question": "What is qualifying holding?",
+    "options": [
+      "Shareholding ownership at least 10% of more",
+      "Shareholding ownership at least 15% of more?",
+      "Shareholding ownership at least 25% of more?",
+      "Shareholding ownership at least 35% of more?"
+    ],
+    "correctIndex": 0,
+    "explanation": "A qualifying holding under EU financial services law is defined as a direct or indirect holding representing 10% or more of the capital or voting rights of a firm (or one that otherwise allows significant influence)."
+  },
+  {
+    "id": 238,
+    "topic": "Recovery & Resolution",
+    "question": "A temporary administrator",
+    "options": [
+      "is appointed by CySEC for a period not exceeding one year in the event that the replacement of senior management is deemed insufficient",
+      "is appointed by the resolution authority for a maximum of two years",
+      "is paid by the resolution authority",
+      "is appointed by the resolution authority for a maximum of one year"
+    ],
+    "correctIndex": 0,
+    "explanation": "A temporary administrator can be appointed by CySEC for up to one year where simply replacing senior management isn't considered sufficient to address the firm's problems - this sits below full resolution-authority powers."
+  },
+  {
+    "id": 239,
+    "topic": "Recovery & Resolution",
+    "question": "Which of the following is true regarding CySEC exchange confidential information to other authorities?",
+    "options": [
+      "the information can be shared only in the understanding that will be treated confidentialy",
+      "EBA has approved the exchange",
+      "ESMA has approved the exchange",
+      "Central Bank of Cyprus has approved the exchange"
+    ],
+    "correctIndex": 0,
+    "explanation": "CySEC may only share confidential information with other authorities on the understanding that it will itself be treated as confidential by the recipient - this professional-secrecy safeguard applies regardless of which EU body is involved."
+  },
+  {
+    "id": 240,
+    "topic": "Recovery & Resolution",
+    "question": "CySEC will exchange confidential information with third-country authorities",
+    "options": [
+      "Provided that EBA as consented",
+      "if the confidential information is approved by ESMA",
+      "if the confidential information is approved by EBA",
+      "if the professional secrecy standards in the third country are at least equivalent to the EU standards and any personal data is governed by the applicable Union and national data protection law"
+    ],
+    "correctIndex": 3,
+    "explanation": "CySEC may exchange confidential information with third-country authorities only where that country's professional secrecy standards are at least equivalent to the EU's, and any personal data transferred remains governed by applicable EU/national data-protection law."
+  },
+  {
+    "id": 241,
+    "topic": "Prospectus & Issuer Transparency",
+    "question": "Why must a debt issuer designate a financial institution as its agent? To enable:",
+    "options": [
+      "holders to have a discretionary proxy",
+      "holders to sell the security",
+      "holders to exercise their financial rights",
+      "holders to participate if a meeting is announced without notice"
+    ],
+    "correctIndex": 2,
+    "explanation": "A debt issuer appoints a financial institution as its agent so that bondholders have a practical channel through which to exercise their financial rights (interest, redemption, etc.) under the securities."
+  },
+  {
+    "id": 242,
+    "topic": "Prospectus & Issuer Transparency",
+    "question": "When should the issuers of shares and debt securities need to disclose a half- yearly financial report?",
+    "options": [
+      "within four months after the end of the first six months of the financial year",
+      "as soon as possible, but at the latest within three months after the end of the first six months of the financial year",
+      "No obligation to disclose half-yearly financial report",
+      "Whenever CySEC requests"
+    ],
+    "correctIndex": 1,
+    "explanation": "Issuers of shares and debt securities must publish a half-yearly financial report as soon as possible, and at the latest within three months after the end of the first six months of the financial year, under the Transparency Directive/Law."
+  },
+  {
+    "id": 243,
+    "topic": "Market Abuse & Inside Information",
+    "question": "A person who disseminates information to the media must take into account:",
+    "options": [
+      "whether it will have a positive effect",
+      "accepted market practice",
+      "whether it is reasonable to do so",
+      "the freedom of the press"
+    ],
+    "correctIndex": 3,
+    "explanation": "Anyone disseminating information to the media must take into account the freedom of the press when assessing how that dissemination should be handled, alongside market abuse/disclosure obligations."
+  },
+  {
+    "id": 244,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Acceptable market practices in relation to the sale and purchase of financial instruments are:",
+    "options": [
+      "defined by the Central Bank of Cyprus",
+      "prescribed by the European Securities and Markets Authority",
+      "overseen by the Authority for the Supervision and Development of Co- operative Societies",
+      "regularly reviewed by the Cyprus Securities and Exchange Commission"
+    ],
+    "correctIndex": 1,
+    "explanation": "Accepted Market Practices are defined and prescribed at EU level by ESMA, which sets the framework competent authorities then apply nationally."
+  },
+  {
+    "id": 245,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Party A knows an inside information about shares that a client bought. Party A gives the information and asks to do the same to Party B. Party B proceeded with the purchase of the shares recommended by Party A. Who will be responsible in case that both parties are taken to court?",
+    "options": [
+      "Party A",
+      "Party B",
+      "Party A and Party B, jointly and in common",
+      "Party A and Party B, jointly and severally"
+    ],
+    "correctIndex": 3,
+    "explanation": "Where both the tipper (Party A, who misused inside information) and the tippee (Party B, who traded on it knowing its source) are prosecuted, they are held jointly and severally liable - each can be pursued for the full liability, not just a shared/common portion."
+  },
+  {
+    "id": 246,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Under the Market Abuse Regulation, financial instruments covered are:",
+    "options": [
+      "All instruments including commodities and related derivatives",
+      "Only shares",
+      "Only Financial Instruments and related derivatives",
+      "Only instruments traded in an SME Growth Market"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Market Abuse Regulation (MAR) has a broad scope: it covers all financial instruments, including commodities and related derivatives, not just shares or instruments traded on SME Growth Markets."
+  },
+  {
+    "id": 247,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Which of the following is true regarding market sounding",
+    "options": [
+      "Prior to disclosing the information, the market participant is not obligated to keep the information confidential",
+      "All records communicated to the participants shall need to be maintained indefinitely",
+      "Market sounding is the communication of information priorto the announcement of a transaction in order to test the interest of potential investors in a possible transaction",
+      "Once information that has been provided as part of a market sounding ceases to be inside information, the market participants are not required to inform all recipients of the information"
+    ],
+    "correctIndex": 2,
+    "explanation": "Market sounding is specifically defined as communicating information to one or more potential investors prior to the announcement of a transaction, in order to gauge their interest in a possible deal, before any public announcement is made."
+  },
+  {
+    "id": 248,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Which of the following is true regarding market manipulation?",
+    "options": [
+      "Market manipulation are misleading signals to the market with regard to supply, demand, or the price of an instrument",
+      "All records communicated to the participants shall need to be maintained indefinitely",
+      "Market sounding is the communication of information priorto the announcement of a transaction in order to test the interest of potential investors in a possible transaction",
+      "Once information that has been provided as part of a market sounding ceases to be inside information, the market participants are not required to inform all recipients of the information"
+    ],
+    "correctIndex": 0,
+    "explanation": "Market manipulation includes giving false or misleading signals to the market about the supply of, demand for, or price of a financial instrument - the other listed options actually describe market sounding concepts, not manipulation."
+  },
+  {
+    "id": 249,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Accepted market practices are reviewed",
+    "options": [
+      "every year by the competent authority",
+      "every two years by ESMA",
+      "every two years by the competent authority",
+      "every year by ESMA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Accepted Market Practices are formally reviewed by the relevant competent authority at least every two years, to ensure they remain appropriate."
+  },
+  {
+    "id": 250,
+    "topic": "Market Abuse & Inside Information",
+    "question": "The final decision on whether the ‘accepted market practice’ is appropriate and valid lies with",
+    "options": [
+      "each competent authority",
+      "ESMA",
+      "EC",
+      "CBC"
+    ],
+    "correctIndex": 1,
+    "explanation": "ESMA has the final say on whether an 'accepted market practice' proposed by a competent authority is appropriate and valid, as part of its EU-wide convergence role under MAR."
+  },
+  {
+    "id": 251,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Which of the following is an example of insider trading?",
+    "options": [
+      "An individual sells their shares in a company after reading a news article about an explosion at the company’s factory.",
+      "An individual buys a company’s shares because the company operates in an industry that is growing rapidly.",
+      "An employee sells shares of their company's stock because they know that the company is about to publicly announce that it is filing for bankruptcy.",
+      "A bank manager tells a customer that the interest rates for thirty-year mortgages have reached an all-time low."
+    ],
+    "correctIndex": 2,
+    "explanation": "Selling or trading on the basis of material non-public information you know because of your position (e.g. an employee who knows of an unannounced bankruptcy filing) is the textbook definition of insider trading - public news, general industry growth, or publicly known interest-rate levels are not inside information."
+  },
+  {
+    "id": 252,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Bank submits the insiders list to the competent authority",
+    "options": [
+      "When requested by cysec",
+      "Once per month",
+      "By 31 January each year",
+      "End of June and end of December"
+    ],
+    "correctIndex": 0,
+    "explanation": "Insider lists are maintained on an ongoing basis and only have to be submitted to the competent authority on request, they aren't filed on a fixed periodic schedule."
+  },
+  {
+    "id": 253,
+    "topic": "Market Abuse & Inside Information",
+    "question": "Joe is the father of Mathew, who is a CEO in Zern enterprise Ltd. , which is listed for trading in a European stock exchange. Joe bought a €5K worth of Zern enterprise Stock. When should he disclose the purchase to the competent authority?",
+    "options": [
+      "Within a working day.",
+      "Within a month",
+      "Never",
+      "Within 3 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "A single, standalone EUR 5K purchase by a closely associated person (like a PDMR's father) doesn't by itself meet the usual EUR 5,000-per-calendar-year cumulative notification threshold for managers' transactions, so per the source material no disclosure is triggered here - worth double-checking this one against your notes, as the threshold logic is easy to misapply."
   }
 ]
