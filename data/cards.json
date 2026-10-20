@@ -2,6 +2,7 @@
   {
     "id": 1,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "As part of its actions in governing the provision of investment services by authorised firms CySEC is responsible for ensuring:",
     "options": [
       "that all CIF authorisations, rejections and revocations are communicated to the European Central Bank",
@@ -15,6 +16,7 @@
   {
     "id": 2,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "CySEC discovered that a foreign firm which is NOT subject to the regulator's supervision is carrying out an act contrary to EC regulations. As well as notifying the competent authority of the relevant member state, what other action MUST the regulator take?",
     "options": [
       "Freeze any local assets held by the firm",
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "CySEC may legitimately refuse to cooperate with an investigation by another competent authority if it:",
     "options": [
       "involves the sharing of confidential information",
@@ -41,6 +44,7 @@
   {
     "id": 4,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "CySEC must ensure that any person acting on behalf of a CIF is:",
     "options": [
       "over the age of 21",
@@ -54,6 +58,7 @@
   {
     "id": 5,
     "topic": "Banking Supervision & CBC",
+    "chapter": 1,
     "question": "If there are regulatory concerns about the operation of a particular credit institution in Cyprus, which body will normally act as the designated contact point for the purpose of exchanging information?",
     "options": [
       "Central Bank of Cyprus",
@@ -67,6 +72,7 @@
   {
     "id": 6,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "Law 87(I)/2017 applies to CIFs and:",
     "options": [
       "pension funds",
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "Law 87(I)/2017 only applies to third-country firms if they:",
     "options": [
       "deal on their own account",
@@ -93,6 +100,7 @@
   {
     "id": 8,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "Once a CIF obtains authorisation from the regulator, in which other territories will the authorisation automatically be valid?",
     "options": [
       "Greece and Turkey only",
@@ -106,6 +114,7 @@
   {
     "id": 9,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 1,
     "question": "When competent authorities require access to data relating to financial instrument orders processed through trading firms, which body is responsible for facilitating this?",
     "options": [
       "ECB",
@@ -119,6 +128,7 @@
   {
     "id": 10,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "Which body has primary responsibility for maintaining a public register of persons acting on behalf of investment firms established in another member state but operating in Cyprus?",
     "options": [
       "European Securities and Markets Authority",
@@ -132,6 +142,7 @@
   {
     "id": 11,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "Which of the following are always exempt from the scope of Law 87(I)/2017?",
     "options": [
       "Cypriot investment firms",
@@ -145,6 +156,7 @@
   {
     "id": 12,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 2,
     "question": "A CIF can only treat a counterparty as an eligible counterparty if:",
     "options": [
       "the CIF ensures the arrangement is recorded on a public register",
@@ -158,6 +170,7 @@
   {
     "id": 13,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "A CIF must have a MINIMUM of how many directors among its management?",
     "options": [
       "One in all cases",
@@ -171,6 +184,7 @@
   {
     "id": 14,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "A CIF was authorised three years ago but has NOT provided any investment services or activities for the last six months. As a consequence, the firm's:",
     "options": [
       "capital adequacy requirements will be reduced",
@@ -184,6 +198,7 @@
   {
     "id": 15,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "A CIF's authorisation may be withdrawn in the event that they have NOT used their authorisation within:",
     "options": [
       "3 months of the date it was granted",
@@ -197,6 +212,7 @@
   {
     "id": 16,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "A regulated market is entitled to:",
     "options": [
       "impose higher fees on firms engaging in high-frequency trading",
@@ -210,6 +226,7 @@
   {
     "id": 17,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "As part of its actions in governing the provision of investment services by authorised firms, CySEC must ensure that:",
     "options": [
       "all shareholders are identified",
@@ -223,6 +240,7 @@
   {
     "id": 18,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "As part of their general organisational requirements all CIFs must:",
     "options": [
       "deliver true and fair financial reports in a timely manner",
@@ -236,6 +254,7 @@
   {
     "id": 19,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "CySEC will inform applicants to be authorised to provide professional investment services of their decision within:",
     "options": [
       "1 month of their application",
@@ -249,6 +268,7 @@
   {
     "id": 20,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 2,
     "question": "If a counterparty wants to be treated as an eligible counterparty it must:",
     "options": [
       "register this publicly",
@@ -262,6 +282,7 @@
   {
     "id": 21,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "If a management company temporarily ceases the activity for which its licence has been granted, CySEC MUST revoke this licence after what period of inactivity?",
     "options": [
       "6 months",
@@ -275,6 +296,7 @@
   {
     "id": 22,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "If a market operator makes an application for regulated market authorisation, CySEC must inform them of its decision within:",
     "options": [
       "3 months",
@@ -288,6 +310,7 @@
   {
     "id": 23,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "If a market operator of a regulated market wants to make changes to the ownership levels of persons with significant influence, CySEC MUST issue notification of its decision to permit or prohibit this within:",
     "options": [
       "1 month",
@@ -301,6 +324,7 @@
   {
     "id": 24,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "If authorisation is withdrawn from a regulated market, within what MAXIMUM period following receipt of the regulator's decision must the operator settle all obligations arising from the activities it may no longer perform?",
     "options": [
       "1 month",
@@ -314,6 +338,7 @@
   {
     "id": 25,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "If there is a suspicion that behaviour has occurred that may be prohibited by MiFID then:",
     "options": [
       "a CIF must establish it has happened before reporting it to CySEC",
@@ -327,6 +352,7 @@
   {
     "id": 26,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "In normal circumstances, what is the MAXIMUM number of non-executive directors allowed for members of the board of a CIF? (Note: This question refers to the number of directorships an individual can hold)",
     "options": [
       "2",
@@ -340,6 +366,7 @@
   {
     "id": 27,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "In relation to the management body, which of the following count as a single directorship?",
     "options": [
       "Non-executive directorships in commercial and non-commercial organisations",
@@ -353,6 +380,7 @@
   {
     "id": 28,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "Issuers whose shares have been admitted to trading for LESS than three years are deemed to be a small and medium sized enterprise (SME) providing their market capitalisation is below:",
     "options": [
       "EUR50 million",
@@ -366,6 +394,7 @@
   {
     "id": 29,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "The continuous CIF obligations require CIFs to regularly review:",
     "options": [
       "risk",
@@ -379,6 +408,7 @@
   {
     "id": 30,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "The responsibility for monitoring tied agents sits with the:",
     "options": [
       "Cypriot Investment Firms",
@@ -392,6 +422,7 @@
   {
     "id": 31,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "What is the MAXIMUM amount of time for approved reporting mechanisms (ARMs) to report transaction information?",
     "options": [
       "Within 15 minutes",
@@ -405,6 +436,7 @@
   {
     "id": 32,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "What is the MAXIMUM amount of time within which a consolidated tape provider MUST make published transactional information freely available?",
     "options": [
       "5 minutes",
@@ -418,6 +450,7 @@
   {
     "id": 33,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "Which of the following combinations of directorships would be acceptable for the board of directors of a CIF?",
     "options": [
       "1 executive and 3 non-executive directorships",
@@ -431,6 +464,7 @@
   {
     "id": 34,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "Which of the following is one of the criteria used to determine whether as issuer can be deemed to be an SME?",
     "options": [
       "Its total balance sheet does not exceed EUR50 million",
@@ -444,6 +478,7 @@
   {
     "id": 35,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "With respect to the effectiveness of the control environment, it is a regulatory requirement of the compliance function to issue a report to:",
     "options": [
       "CySEC on at least a monthly basis",
@@ -457,6 +492,7 @@
   {
     "id": 36,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "Financial instruments can be admitted to trading on multiple regulated markets if the issuer:",
     "options": [
       "has been informed",
@@ -470,6 +506,7 @@
   {
     "id": 37,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "How do regulated markets meet their obligation to maintain transparency?",
     "options": [
       "By limiting market access to participant CIFs",
@@ -483,6 +520,7 @@
   {
     "id": 38,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "If a regulated market permits direct electronic access then:",
     "options": [
       "suitability requirements no longer apply",
@@ -496,6 +534,7 @@
   {
     "id": 39,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 2,
     "question": "Regulated markets have membership obligations that require specific rules and procedures for:",
     "options": [
       "clearing and settlement",
@@ -509,6 +548,7 @@
   {
     "id": 40,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 2,
     "question": "Where there is a conflict of interest between a CIF and one of its clients, and the firm is unable to put arrangements in place to prevent the risk of damage to the client's interests, what specific action should the firm take to comply with the regulations?",
     "options": [
       "Make appropriate disclosures to the client",
@@ -522,6 +562,7 @@
   {
     "id": 41,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "The role of which member of a bank is subject to the specific regulatory requirement that their remuneration should be determined in a way that does NOT compromise their objectivity?",
     "options": [
       "Compliance officer",
@@ -535,6 +576,7 @@
   {
     "id": 42,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Where a CIF requires relevant personnel to perform multiple functions, what do organisational requirements oblige them to ensure?",
     "options": [
       "Each separate function continues to be performed soundly and professionally",
@@ -548,6 +590,7 @@
   {
     "id": 43,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "A bank is carefully reviewing the legitimacy of the free service it receives from a third party. The primary purpose of this review is likely to be to ensure compliance with the rules relating to:",
     "options": [
       "safeguarding of client assets",
@@ -561,6 +604,7 @@
   {
     "id": 44,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "A bank is checking for any linkage between the remuneration some employees receive from one activity and the revenues received from another activity. The primary purpose of this action is to ensure compliance with the rules relating to:",
     "options": [
       "market manipulation",
@@ -574,6 +618,7 @@
   {
     "id": 45,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "A financial institution's obligations regarding best execution relate to:",
     "options": [
       "obtaining the best price",
@@ -587,6 +632,7 @@
   {
     "id": 46,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "A firm MUST provide potential clients with comprehensive information about its:",
     "options": [
       "costs and charges",
@@ -600,6 +646,7 @@
   {
     "id": 47,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "CIF X recommended that a client purchase a particular product and instructed CIF Y to carry out the necessary transaction. Who will therefore be responsible for the appropriateness of the recommendation?",
     "options": [
       "Firm X only",
@@ -613,6 +660,7 @@
   {
     "id": 48,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Firms must pay particular attention to whether a client order involves a securities financing transaction in order to comply with:",
     "options": [
       "best execution obligations",
@@ -626,6 +674,7 @@
   {
     "id": 49,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "If a bank wishes to issue marketing material to retail clients regarding a fund established 25 years ago, any reference to past performance must cover at LEAST:",
     "options": [
       "3 years",
@@ -639,6 +688,7 @@
   {
     "id": 50,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "If a firm provides portfolio management services through an automated system in association with a third party provider then the:",
     "options": [
       "responsibility to undertake a suitability assessment remains with the investment firm",
@@ -652,6 +702,7 @@
   {
     "id": 51,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "If a firm receives an instruction to provide investment services on behalf of a client through another firm then it:",
     "options": [
       "must make its own suitability assessment",
@@ -665,6 +716,7 @@
   {
     "id": 52,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Under best execution requirements, firms:",
     "options": [
       "can apply different fees depending on the execution venue",
@@ -678,6 +730,7 @@
   {
     "id": 53,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Under client order handling rules, a firm may be allowed to aggregate client orders with own account transactions if:",
     "options": [
       "the client is a professional",
@@ -691,6 +744,7 @@
   {
     "id": 54,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Under the requirements regarding investment advice, firms:",
     "options": [
       "must provide a detailed explanation as to whether their investment advice qualifies as independent or non-independent",
@@ -704,6 +758,7 @@
   {
     "id": 55,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "When executing client orders, banks should normally:",
     "options": [
       "process the largest ones first",
@@ -717,6 +772,7 @@
   {
     "id": 58,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Where client information contains simulated past performance, this MUST:",
     "options": [
       "cover more than one financial index",
@@ -730,6 +786,7 @@
   {
     "id": 59,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 3,
     "question": "Which of the following conditions MUST be met for a CIF to enter into an outsourcing agreement?",
     "options": [
       "There is clear agreement about which areas of responsibility sit with the service provider",
@@ -743,6 +800,7 @@
   {
     "id": 60,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Which of the following is TRUE in respect of client assets?",
     "options": [
       "CySEC must be informed when funds are held in an omnibus account by a third party",
@@ -756,6 +814,7 @@
   {
     "id": 61,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 3,
     "question": "Why is it important for market operators to ensure their systems for order pairing execute transactions fairly?",
     "options": [
       "To maximise liquidity",
@@ -769,6 +828,7 @@
   {
     "id": 62,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Firms should review their conflicts of interest policy at least:",
     "options": [
       "every month",
@@ -782,6 +842,7 @@
   {
     "id": 63,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "A UCITS uses capital raised from the:",
     "options": [
       "public only",
@@ -795,6 +856,7 @@
   {
     "id": 64,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Although a management company manages a UCITS in its home state, CySEC has rejected the company's application to manage a UCITS in the Republic. This rejection is likely where the company:",
     "options": [
       "only has authority in its home state to manage a different type of UCITS",
@@ -808,6 +870,7 @@
   {
     "id": 65,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "If a management company from another member state operating within the Republic has refused to comply with a request from CySEC, and CySEC has stopped the company from undertaking any other activity within the Republic, CySEC MUST first have:",
     "options": [
       "appointed an alternative management company",
@@ -821,6 +884,7 @@
   {
     "id": 66,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "In order for an authorised UCITS from another member state to be able to market units in the Republic, CySEC:",
     "options": [
       "must have granted specific authorisation within the Republic",
@@ -834,6 +898,7 @@
   {
     "id": 67,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "In order to be able to raise capital from other investors, a master UCITS must have at LEAST how many feeder UCITS?",
     "options": [
       "1",
@@ -847,6 +912,7 @@
   {
     "id": 68,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "The depositary of a UCITS is permitted to delegate to a third party the function of ensuring that:",
     "options": [
       "units are correctly valued",
@@ -860,6 +926,7 @@
   {
     "id": 69,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "The MAXIMUM percentage limit for the investment of a UCITS assets in an OTC derivative transaction, when the counterparty is a credit institution, is:",
     "options": [
       "5%",
@@ -873,6 +940,7 @@
   {
     "id": 70,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "To what MAXIMUM percentage holding may the normal limit be raised, where bonds used as assets for a UCITS are issued by a regulated and supervised credit institution in a member state?",
     "options": [
       "25%",
@@ -886,6 +954,7 @@
   {
     "id": 71,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "What MINIMUM amount of fully paid up initial capital must a UCITS management company hold?",
     "options": [
       "EUR100000",
@@ -899,6 +968,7 @@
   {
     "id": 72,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Where a UCITS management company authorised in the Republic wishes to establish a branch in another member state, the notification it has to submit to CySEC must include:",
     "options": [
       "the name of its bankers",
@@ -912,6 +982,7 @@
   {
     "id": 73,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Where no transaction has occurred on the stock exchange on the day of the valuation of the assets of a UCITS, what price will be used?",
     "options": [
       "That for the previous trading day without adjustment",
@@ -925,6 +996,7 @@
   {
     "id": 74,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Where the published subscription and redemption / repurchase price of a UCITS differs from the net asset value, this reflects the:",
     "options": [
       "cost of buying and selling units",
@@ -938,6 +1010,7 @@
   {
     "id": 75,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Within what timescale, after the end of the relevant period, MUST the summarised statement of assets and expenses of a UCITS be published?",
     "options": [
       "10 days",
@@ -951,6 +1024,7 @@
   {
     "id": 76,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "A member of staff of an AIFM is specifically mentioned in the AIF annual report, together with specific details of his remuneration. This is because he:",
     "options": [
       "earns over EUR50,000 before bonuses",
@@ -964,6 +1038,7 @@
   {
     "id": 77,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "An AIFM must be able to reconstruct any transaction involving an AIF according to its:",
     "options": [
       "origin and time only",
@@ -977,6 +1052,7 @@
   {
     "id": 78,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "As well as the distribution, redemption and repurchase dates, on what other dates, as a MINIMUM, MUST the assets of an AIF be valued?",
     "options": [
       "Monthly",
@@ -990,6 +1066,7 @@
   {
     "id": 79,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "At LEAST how many natural persons of appropriate experience are required to manage an AIF?",
     "options": [
       "Two",
@@ -1003,6 +1080,7 @@
   {
     "id": 80,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "CySEC may impose additional obligations on an AIFM authorised to market to investors in the Republic:",
     "options": [
       "without restriction",
@@ -1016,6 +1094,7 @@
   {
     "id": 81,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "If an AIF sells units in another collective fund managed by the same manager, what restriction will apply to remuneration the AIF manager would normally receive?",
     "options": [
       "It will be 25% of the normal amount",
@@ -1029,6 +1108,7 @@
   {
     "id": 82,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The MINIMUM required frequency for the valuation of assets and net asset value per unit of an AIF is once every:",
     "options": [
       "week",
@@ -1042,6 +1122,7 @@
   {
     "id": 83,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The performance assessment criteria for the remuneration policy of an AIFM must be:",
     "options": [
       "registered with CySEC",
@@ -1055,6 +1136,7 @@
   {
     "id": 84,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The reference dates for the illustrative data regarding the valuation of assets of the AIF are defined:",
     "options": [
       "in the annual AIF report only",
@@ -1068,6 +1150,7 @@
   {
     "id": 85,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The remuneration of which category(ies) of staff of an AIFM MUST be directly overseen by the company's remuneration committee?",
     "options": [
       "Board of directors only",
@@ -1081,6 +1164,7 @@
   {
     "id": 86,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The reporting requirements of CySEC regarding AIFs extend to:",
     "options": [
       "which types of AIF may be marketed to retail investors in the Republic only",
@@ -1094,6 +1178,7 @@
   {
     "id": 87,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "The required working relationship between the risk management department of an AIFM and the AIFM's operating units can be correctly described as:",
     "options": [
       "functionally segregated",
@@ -1107,6 +1192,7 @@
   {
     "id": 88,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "What specific requirement applies regarding a transaction made between an AIF and its depositary?",
     "options": [
       "It must be sanctioned by CySEC",
@@ -1120,6 +1206,7 @@
   {
     "id": 89,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "When a transaction takes place between an AIF and its investment advisor, who is normally responsible for nominating an independent expert to value the assets involved?",
     "options": [
       "The depositary",
@@ -1133,6 +1220,7 @@
   {
     "id": 90,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "Where an AIFM is also authorised to undertake discretionary portfolio management services, it is only permitted to invest all or part of the client's portfolio in units of AIFs it manages if the:",
     "options": [
       "client is registered with CySEC",
@@ -1146,6 +1234,7 @@
   {
     "id": 91,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "Where an AIFM offers a capital guarantee from a credit institution as part of its authorisation application, the MAXIMUM permitted percentage of the total capital subject to this guarantee is:",
     "options": [
       "25%",
@@ -1159,6 +1248,7 @@
   {
     "id": 92,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 5,
     "question": "With regard to liquidity management, an AIFM with responsibility for multiple AIFs is required to maintain:",
     "options": [
       "a global liquidity management system and procedures sufficient to monitor the total liquidity risk of all AIFs",
@@ -1172,6 +1262,7 @@
   {
     "id": 93,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "A person will require prior approval from the CBC if his voting rights in a bank are INCREASED from:",
     "options": [
       "4% to 6%",
@@ -1185,6 +1276,7 @@
   {
     "id": 94,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "Data relating to confidential information obtained by the CBC in respect of supervision activities was recently made public. The legitimate defence used to justify this action was that:",
     "options": [
       "money laundering was involved",
@@ -1198,6 +1290,7 @@
   {
     "id": 95,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "Following an inspection visit related to the ongoing investigation of an investment firm, CySEC obtained some information which was deemed confidential. Under what circumstances is it permitted to pass this information on to the CBC?",
     "options": [
       "Only if it relates to someone who resides outside the state",
@@ -1211,6 +1304,7 @@
   {
     "id": 96,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "Following concerns about its operations, the CBC requested that Bank X increase its share capital by 12% within the next 60 days. Despite doing so, the bank was in breach of the regulations in relation to this request because it failed to:",
     "options": [
       "register a recovery plan with CySEC",
@@ -1224,6 +1318,7 @@
   {
     "id": 97,
     "topic": "Banking Supervision & CBC",
+    "chapter": 9,
     "question": "To comply with regulations, the risk management function of a large bank MUST normally:",
     "options": [
       "operate on an independent basis",
@@ -1237,6 +1332,7 @@
   {
     "id": 98,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "What is the MINIMUM capital requirement for an ACI incorporated in the Republic?",
     "options": [
       "EUR5 million",
@@ -1250,6 +1346,7 @@
   {
     "id": 99,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "What is the MINIMUM capital requirement for banks which are incorporated in the Republic?",
     "options": [
       "EUR 1 million",
@@ -1263,6 +1360,7 @@
   {
     "id": 100,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "Within what MAXIMUM period following the end of the financial year MUST banks submit a copy of their audited annual accounts to the CBC?",
     "options": [
       "6 weeks",
@@ -1276,6 +1374,7 @@
   {
     "id": 101,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "A new bank is currently being established in the Republic and both a compliance officer and an assistant compliance officer are to be appointed. In accordance with the regulations, who is responsible for appointing the assistant compliance officer?",
     "options": [
       "The chief executive only",
@@ -1289,6 +1388,7 @@
   {
     "id": 102,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Additional due diligence should be conducted on clients:",
     "options": [
       "aged under 18",
@@ -1302,6 +1402,7 @@
   {
     "id": 103,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "An investment provider has accepted documents created and signed by John's wife and brother as the evidence of his identification and its verification. This indicates that the:",
     "options": [
       "value of the intended transaction is less than EUR15,000",
@@ -1315,6 +1416,7 @@
   {
     "id": 104,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "As part of his money laundering monitoring requirements, a compliance officer has prepared a list of customers and their risk classification. To comply with the regulations, these records MUST include the:",
     "options": [
       "customers' dates of birth",
@@ -1328,6 +1430,7 @@
   {
     "id": 105,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Enhanced customer due diligence measures must ALWAYS be taken in respect of which of the following customers?",
     "options": [
       "Face-to-face customers",
@@ -1341,6 +1444,7 @@
   {
     "id": 106,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "If a customer opening an account lives far away from the bank involved, then:",
     "options": [
       "simplified due diligence should apply",
@@ -1354,6 +1458,7 @@
   {
     "id": 107,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Max ended his business relationship with investment adviser X in June 2018 and immediately became a client of adviser Y. In accordance with the prevention and suppression of money laundering and terrorist financing regulations:",
     "options": [
       "X must pass all Max's files to Y immediately",
@@ -1367,6 +1472,7 @@
   {
     "id": 108,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Max, an employee of company X, has been promoted to the role of compliance officer. In respect of the prevention of money laundering and terrorist financing activities within the company, Max's primary responsibility should be to:",
     "options": [
       "appoint a specialist assistant from outside the company",
@@ -1380,6 +1486,7 @@
   {
     "id": 112,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "The first point of contact for The Unit for Combating Money Laundering (MOKAS) within a firm is the:",
     "options": [
       "Chief Executive Officer",
@@ -1393,6 +1500,7 @@
   {
     "id": 113,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "The initial deposit into new bank account X is a wire transfer from another country. New account Y is being funded by a large cash transaction. In respect of the prevention of money laundering and terrorist financing regulations:",
     "options": [
       "transaction X is more likely to involve money laundering than terrorist financing",
@@ -1406,6 +1514,7 @@
   {
     "id": 114,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "The need for financial organisations to adopt a risk-based approach to prevent money laundering and terrorist financing primarily relates to:",
     "options": [
       "the need to establish effective compliance procedures at all levels",
@@ -1419,6 +1528,7 @@
   {
     "id": 115,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Which of the following customers opening a bank account would automatically qualify for 'simplified customer due diligence'?",
     "options": [
       "Ibrahim, a 28 year old civil servant",
@@ -1432,6 +1542,7 @@
   {
     "id": 116,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The rules for transacting derivatives on a regulated market specifically state that transactions should be submitted for clearing:",
     "options": [
       "within 60 minutes of receipt",
@@ -1445,6 +1556,7 @@
   {
     "id": 117,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "A CIF executed the transaction of a financial instrument on a regulated market at 11am. What is the deadline for reporting this transaction?",
     "options": [
       "Close of the same day",
@@ -1458,6 +1570,7 @@
   {
     "id": 118,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "A CIF recently carried out a financial transaction for one of its clients. For what MINIMUM period must the records of this transaction normally be retained?",
     "options": [
       "1 year",
@@ -1471,6 +1584,7 @@
   {
     "id": 119,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "Derivatives trading is permitted to take place on a third country trading venue, but only if that venue is approved by which body?",
     "options": [
       "ESMA",
@@ -1484,6 +1598,7 @@
   {
     "id": 120,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "If CySEC decides to temporarily suspend trading in a non-equity financial instrument due to poor liquidity, this suspension will be subject to a MAXIMUM initial period of:",
     "options": [
       "one week",
@@ -1497,6 +1612,7 @@
   {
     "id": 124,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The requirement for a transaction report to include reference to risk reduction, only applies in cases where the transaction:",
     "options": [
       "is in excess of a threshold size",
@@ -1510,6 +1626,7 @@
   {
     "id": 125,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The transparency requirements applicable to systematic internalisers are waived if the sizes in which they deal:",
     "options": [
       "are above standard market size",
@@ -1523,6 +1640,7 @@
   {
     "id": 126,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "What is the LATEST point for systematic internalisers to submit identifying reference data to CySEC?",
     "options": [
       "Before relevant trading commences",
@@ -1536,6 +1654,7 @@
   {
     "id": 127,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "A CIF has decided to carry out reverse stress testing as part of its ICAAP requirements. The starting point for this activity is to:",
     "options": [
       "identify the risk appetite of the firm",
@@ -1549,6 +1668,7 @@
   {
     "id": 128,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "A CIF is considering its exposure to risks that may arise from the failure to process execution- only orders appropriately. In accordance with Pillar 2 of the Capital Requirements Directive and Basel Accord, this will normally be classed as:",
     "options": [
       "business risk",
@@ -1562,6 +1682,7 @@
   {
     "id": 129,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "A CIF suffers from strategic risk where it:",
     "options": [
       "takes actions which lead to sanctions by CySEC",
@@ -1575,6 +1696,7 @@
   {
     "id": 130,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "As part of the planning stage of the SREP, CIFs will be required to:",
     "options": [
       "conduct a risk assessment",
@@ -1588,6 +1710,7 @@
   {
     "id": 131,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "As part of the SREP, CySEC are currently reviewing the outcome of inspection visits to a firm. This confirms that:",
     "options": [
       "the firm has been identified for additional monitoring",
@@ -1601,6 +1724,7 @@
   {
     "id": 132,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "As part of the SREP, CySEC has just set a CIF's capital resource requirement. CySEC's next key stage in the process is:",
     "options": [
       "conducting the inspection visit",
@@ -1614,6 +1738,7 @@
   {
     "id": 133,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Credit concentration risk:",
     "options": [
       "should be analysed on a local level and a consolidated basis",
@@ -1627,6 +1752,7 @@
   {
     "id": 134,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "From a strategic perspective a CIF's ICAAP should be used to:",
     "options": [
       "form the basis of regular internal audit requirements",
@@ -1640,6 +1766,7 @@
   {
     "id": 135,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "In accordance with Pillar 1 of the Capital Requirements Directive and Basel Capital Accord, a CIF is dealing with its market risks. This will include the risk that:",
     "options": [
       "the firm incurs losses due to the failure of a counterparty",
@@ -1653,6 +1780,7 @@
   {
     "id": 136,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "In what way does CySEC normally carry out the 'supervisory measures' stage of the SREP process?",
     "options": [
       "By setting capital resource requirements",
@@ -1666,6 +1794,7 @@
   {
     "id": 137,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The fundamental purpose of the SREP is to:",
     "options": [
       "advise CySEC on the methodology by which to assess CIF risk profiles",
@@ -1679,6 +1808,7 @@
   {
     "id": 138,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The ICAAP should form an integral part of a CIF's management processes for what primary purpose?",
     "options": [
       "To facilitate ongoing review of material risks",
@@ -1692,6 +1822,7 @@
   {
     "id": 139,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The ICAAP, is a set of processes, procedures and measures which are designed to:",
     "options": [
       "identify and measure risk",
@@ -1705,6 +1836,7 @@
   {
     "id": 140,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The MAIN purpose of the ICAAP process is to:",
     "options": [
       "establish CIF capital requirements against a measured risk profile",
@@ -1718,6 +1850,7 @@
   {
     "id": 141,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The outcome of the SREP for two CIFs indicates different subsequent periodic review periods. What is this MOST likely to reflect?",
     "options": [
       "Their Pillar 2 capital requirements",
@@ -1731,6 +1864,7 @@
   {
     "id": 142,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The purpose of the SREP is to ensure:",
     "options": [
       "CIFs have sufficient capital",
@@ -1744,6 +1878,7 @@
   {
     "id": 143,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "What is the main DISADVANTAGE when using scenario analysis as a stress testing tool?",
     "options": [
       "It cannot use fully appropriate combinations of factors",
@@ -1757,6 +1892,7 @@
   {
     "id": 144,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "What is the MAXIMUM net exposure an institution is allowed under the Capital Requirements Regulation of the EU? (Note: This question refers to the absolute monetary floor for inter-institution exposures)",
     "options": [
       "EUR50 million",
@@ -1770,6 +1906,7 @@
   {
     "id": 145,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "What type of risk is known to be particularly exacerbated by high liquidity and volatility in the market place?",
     "options": [
       "Foreign exchange risk",
@@ -1783,6 +1920,7 @@
   {
     "id": 146,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "When considering Pillar 1 of the Capital Requirements Directive and Basel Accord, one of the key differences between market risk and foreign exchange risk is that:",
     "options": [
       "only market risk is fully covered",
@@ -1796,6 +1934,7 @@
   {
     "id": 147,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Where a CIF is exposed to the risk that it is unable to realise payments from clients in a timely manner, this is normally described as:",
     "options": [
       "securitisation risk",
@@ -1809,6 +1948,7 @@
   {
     "id": 148,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Which of the following describes the large exposure limits under the EU Capital Requirements Regulation?",
     "options": [
       "Institutions may not incur net exposures of a value in excess of 10% of their eligible capital",
@@ -1822,6 +1962,7 @@
   {
     "id": 149,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Which of the following statements is TRUE in relation to the Capital Requirements Directive?",
     "options": [
       "Settlement risk is not fully covered within Pillar 1",
@@ -1835,6 +1976,7 @@
   {
     "id": 150,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Why does a CIF maintain a risk register?",
     "options": [
       "To contribute to a central CySEC database",
@@ -1848,6 +1990,7 @@
   {
     "id": 151,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Why might a CIF wish to review its ICAAP within a short space of time?",
     "options": [
       "To reflect changes in its operating environment",
@@ -1861,6 +2004,7 @@
   {
     "id": 152,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "With respect to the Capital Requirements Regulation of the EU, if an institution has eligible capital of EUR800 million they are allowed a MAXIMUM net exposure of:",
     "options": [
       "EUR150 million",
@@ -1874,6 +2018,7 @@
   {
     "id": 153,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "Which of the following MUST be publicly disclosed by a CCP?",
     "options": [
       "Costs and revenues for each of their services",
@@ -1887,6 +2032,7 @@
   {
     "id": 154,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "A CCP must inform CySEC of the:",
     "options": [
       "prices and fees of their services",
@@ -1900,6 +2046,7 @@
   {
     "id": 155,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "CCP's are required to make a number of public disclosures. Which of the following would potentially be excluded from that requirement?",
     "options": [
       "A disclosure that details the prices and fees for each of their services",
@@ -1913,6 +2060,7 @@
   {
     "id": 156,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "How frequently should a CCP calculate its liquidity requirement?",
     "options": [
       "At times when markets are liquid",
@@ -1926,6 +2074,7 @@
   {
     "id": 157,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "If a CCP has a liquidity requirement of EUR100 million, what is the MAXIMUM credit line it can utilise from a clearing member?",
     "options": [
       "EUR25 million",
@@ -1939,6 +2088,7 @@
   {
     "id": 158,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "If a CCP needs to access credit to meet liquidity requirements, what is the MAXIMUM percentage it can borrow from a single clearing member?",
     "options": [
       "10%",
@@ -1952,6 +2102,7 @@
   {
     "id": 159,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "It is a regulatory requirement that a CCP must hold capital that is sufficient to:",
     "options": [
       "provide adequate protection of the CCP against reputational risk",
@@ -1965,6 +2116,7 @@
   {
     "id": 160,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "It is a requirement that a CCP MUST hold capital that is:",
     "options": [
       "in excess of €10 million",
@@ -1978,6 +2130,7 @@
   {
     "id": 161,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 10,
     "question": "What is the MINIMUM amount of capital a CCP MUST have in order to be authorised?",
     "options": [
       "EUR2.5 million",
@@ -1991,6 +2144,7 @@
   {
     "id": 162,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "As a MINIMUM, a CIF MUST review its recovery plan:",
     "options": [
       "quarterly",
@@ -2004,6 +2158,7 @@
   {
     "id": 163,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "CySEC may enter into bilateral information sharing resolutions with third countries providing that it has notified:",
     "options": [
       "the European Central Bank",
@@ -2017,6 +2172,7 @@
   {
     "id": 164,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "If a CIF has failed then:",
     "options": [
       "the CBC must notify the European Systemic Risk Board",
@@ -2030,6 +2186,7 @@
   {
     "id": 165,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "In which scenario is CySEC entitled to require that members of the senior management of a CIF are removed?",
     "options": [
       "The CIF is about to infringe its own funds requirement",
@@ -2043,6 +2200,7 @@
   {
     "id": 166,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "In which scenario is CySEC is entitled to require that a CIF makes changes to its business strategy?",
     "options": [
       "If the CIF is a subsidiary receiving intra group support from its parent",
@@ -2056,6 +2214,7 @@
   {
     "id": 167,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Institutions can only provide financial support to group entities in financial difficulties if:",
     "options": [
       "it is done as parent to subsidiary",
@@ -2069,6 +2228,7 @@
   {
     "id": 168,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Recovery planning requirements state that CIFs MUST maintain a recovery plan that is reviewed at least:",
     "options": [
       "every year",
@@ -2082,6 +2242,7 @@
   {
     "id": 169,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following acts as a consolidating supervisor with respect to cross-border cooperation?",
     "options": [
       "CySEC",
@@ -2095,6 +2256,7 @@
   {
     "id": 170,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following describes the resolution tool known as the \"the asset separation tool\"?",
     "options": [
       "Shares issued by an institution are transferred to a non-bridging institution",
@@ -2108,6 +2270,7 @@
   {
     "id": 171,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following statements is TRUE in relation to intra-group financial support?",
     "options": [
       "The group financial support agreement may cover any combination of entities that are part of the group",
@@ -2121,6 +2284,7 @@
   {
     "id": 172,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following statements is TRUE in relation to resolution tools?",
     "options": [
       "The CBC may grant permission for the establishment of a bridge institution",
@@ -2134,6 +2298,7 @@
   {
     "id": 173,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following statements is TRUE in relation to resolution tools? In the event that CySEC has NOT completed required shareholder assessments in relation to a bail-in then:",
     "options": [
       "transfers can be made immediately but voting rights will be suspended during the assessment period",
@@ -2147,6 +2312,7 @@
   {
     "id": 174,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following statements is TRUE in relation to the appointment of special administrators?",
     "options": [
       "A special administrator is appointed by the resolution authority for a period not exceeding 1 year",
@@ -2160,6 +2326,7 @@
   {
     "id": 175,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following would CySEC normally inform if it considers that a CIF is failing?",
     "options": [
       "The European Banking Authority",
@@ -2173,6 +2340,7 @@
   {
     "id": 176,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 12,
     "question": "If a company has shares currently trading on a regulated market, what is the MAXIMUM amount of new equity that can be issued in a 12 month period WITHOUT triggering the requirement to issue a prospectus?",
     "options": [
       "5% of the same class of shares",
@@ -2186,6 +2354,7 @@
   {
     "id": 177,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 12,
     "question": "It is a requirement to publish a prospectus for an offer of which of the following types of securities?",
     "options": [
       "Bostadsobligationer issued by credit institutions in Sweden",
@@ -2199,6 +2368,7 @@
   {
     "id": 178,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 12,
     "question": "Shares issued by the CBC:",
     "options": [
       "are exempt from the requirement to issue a prospectus",
@@ -2212,6 +2382,7 @@
   {
     "id": 179,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 12,
     "question": "Which of the following offers would require the publication of a prospectus?",
     "options": [
       "An offer of securities which is less than EUR 2 million over a period of 12 months",
@@ -2225,6 +2396,7 @@
   {
     "id": 180,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Holders of financial instruments must notify both the issuer and CySEC if the voting rights held:",
     "options": [
       "are 3% of total voting rights",
@@ -2238,6 +2410,7 @@
   {
     "id": 181,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "If a CIF hold shares on its trading book it is exempt from shareholder notification requirements as long as their holding does not exceed:",
     "options": [
       "5% of the total voting rights of the issuer",
@@ -2251,6 +2424,7 @@
   {
     "id": 182,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "In the first quarter of the year Bambos increased his shareholding in an equity from 2% to 4% of the total voting rights. In the second quarter he doubled it again to 8% and this pattern continued with a 16% holding by Q3 and a 32% shareholding by Q4. Which of the following statements is TRUE?",
     "options": [
       "A notification is required in Q1, Q2, Q3 and Q4",
@@ -2264,6 +2438,7 @@
   {
     "id": 183,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Issuer reporting requirements for the disclosure of ongoing information require changes to voting rights to be reported:",
     "options": [
       "monthly",
@@ -2277,6 +2452,7 @@
   {
     "id": 184,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Issuers of shares are obliged to inform shareholders of their right to:",
     "options": [
       "act as proxy",
@@ -2290,6 +2466,7 @@
   {
     "id": 185,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Issuers of shares must ensure that:",
     "options": [
       "the exercise of shareholder rights by proxy is prevented",
@@ -2303,6 +2480,7 @@
   {
     "id": 186,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Reporting requirements for the disclosure of periodic information state that an issuer's annual financial report needs to be available to the public for at LEAST:",
     "options": [
       "1 year",
@@ -2316,6 +2494,7 @@
   {
     "id": 190,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "An employee of a company gained access to confidential information which he should have known was inside information, but assumed was not. This means that he:",
     "options": [
       "is not deemed to be in possession of inside information under any circumstances",
@@ -2329,6 +2508,7 @@
   {
     "id": 191,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "An issuer established a list of persons outside the organisation who, in the course of acting for them, have acquired inside information. When should this list be provided to the regulator?",
     "options": [
       "At least once every six months",
@@ -2342,6 +2522,7 @@
   {
     "id": 192,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "CySEC is most likely to allow the issuer of a financial instrument to delay the disclosure of inside information where:",
     "options": [
       "it may cause a disproportionate adjustment in the instrument price",
@@ -2355,6 +2536,7 @@
   {
     "id": 193,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "If an individual executing transactions reasonably suspects that a transaction may constitute market manipulation, they should immediately notify:",
     "options": [
       "the competent authority of the trading venue",
@@ -2368,6 +2550,7 @@
   {
     "id": 194,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Information disseminated in order to give a misleading signal in relation to a financial instrument is known as:",
     "options": [
       "market manipulation",
@@ -2381,6 +2564,7 @@
   {
     "id": 195,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Joe is a manager within an issuing firm. Under what circumstances would he be obliged to report a transaction made by his cousin Ben?",
     "options": [
       "Joe has contributed to the costs of Ben's university education",
@@ -2394,6 +2578,7 @@
   {
     "id": 196,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Persons who produce or disseminate an investment recommendation must disclose:",
     "options": [
       "how they are qualified to give a recommendation",
@@ -2407,6 +2592,7 @@
   {
     "id": 197,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "The issuer of a financial instrument wants to delay the disclosure of some inside information as it relates to potential insolvency proceedings. What action must the issuer therefore take to avoid breaching the regulations?",
     "options": [
       "Request a trading suspension",
@@ -2420,6 +2606,7 @@
   {
     "id": 198,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "The key significance of inside information is that making it public knowledge is:",
     "options": [
       "done by fraudulent means",
@@ -2433,6 +2620,7 @@
   {
     "id": 199,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "The requirement for the issuers of financial instruments to make inside information public as soon as possible only applies to financial instruments which are:",
     "options": [
       "listed within the Republic",
@@ -2446,6 +2634,7 @@
   {
     "id": 200,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Under what circumstances is a person in possession of inside information permitted to disclose it to another person?",
     "options": [
       "Only where required in the normal course of their business",
@@ -2459,6 +2648,7 @@
   {
     "id": 201,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Where confidential data, if made public, would have a neutral effect on the price of its associated financial instrument, then this data:",
     "options": [
       "should only be released through official channels",
@@ -2472,6 +2662,7 @@
   {
     "id": 202,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 1,
     "question": "A CIF needs authorization, if it intends to provide only",
     "options": [
       "Investment Advice",
@@ -2485,6 +2676,7 @@
   {
     "id": 203,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "In normal circumstances, what is the MAXIMUM number of non-executive directors allowed for members of the board of a CIF?",
     "options": [
       "2",
@@ -2498,6 +2690,7 @@
   {
     "id": 204,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "Which of the following is true regarding the Board Members",
     "options": [
       "Board members must not hold more than one executive and one non-executive directorships",
@@ -2511,6 +2704,7 @@
   {
     "id": 205,
     "topic": "CySEC Supervision & CIF Operations",
+    "chapter": 2,
     "question": "Which of the following applies to SME Growth Markets?",
     "options": [
       "Issuers without listed equity will be deemed an SME if, according to their last annual or consolidated accounts, the annual turnover exceeds € 50 million",
@@ -2524,6 +2718,7 @@
   {
     "id": 206,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "When providing clients with information about financial instruments, firms MUST ensure that any indication of:",
     "options": [
       "future performance data must be in a prominent font",
@@ -2537,6 +2732,7 @@
   {
     "id": 207,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "When providing independent investment advice based on a selection of available financial instruments, firms are required to ensure:",
     "options": [
       "the number and variety of instruments considered is adequately representative of the market",
@@ -2550,6 +2746,7 @@
   {
     "id": 208,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "Which are the criteria for professional clients",
     "options": [
       "balance sheet at least € 20.000.000 and own funds at least € 2.000.000",
@@ -2563,6 +2760,7 @@
   {
     "id": 209,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "An investment firm once its authorisation is withdrawn how much time does it have to settle its obligations.",
     "options": [
       "1 month",
@@ -2576,6 +2774,7 @@
   {
     "id": 210,
     "topic": "Client Conduct & Best Execution",
+    "chapter": 3,
     "question": "What are the execution venues",
     "options": [
       "Execution venues only include regulated markets",
@@ -2589,6 +2788,7 @@
   {
     "id": 211,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "Which is true regarding the obligations of a master UCITS:",
     "options": [
       "Master UCITS must have minimum 2 feeder UCITS",
@@ -2602,6 +2802,7 @@
   {
     "id": 212,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "UCITS established in the republic marketing to other Member states: What information must be translated into the official language of the Member state?",
     "options": [
       "Prospectus",
@@ -2615,6 +2816,7 @@
   {
     "id": 213,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "The UCITS Management Company must submit annual accounts to CySEC within",
     "options": [
       "2 months from the year end",
@@ -2628,6 +2830,7 @@
   {
     "id": 214,
     "topic": "Investment Funds (UCITS/AIF)",
+    "chapter": 4,
     "question": "In the event that a depositary of the UCITS intends to resign from its duties, it must inform the management company or the UCITS itself, of its intention in writing, and at least how much time before their resignation?",
     "options": [
       "three months",
@@ -2641,6 +2844,7 @@
   {
     "id": 215,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "What limit should economic value of an ACI decline for CBC to take special measures?",
     "options": [
       "10%",
@@ -2654,6 +2858,7 @@
   {
     "id": 216,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "Why has CBC fined the board of directors of ABC bank after requesting increase of capital?",
     "options": [
       "Because the bank needs to register recovery plan with CySEC",
@@ -2667,6 +2872,7 @@
   {
     "id": 217,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "When should ACIs incorporated in the Republic need to publish their balance sheet, profit and loss account, and their auditor’s report",
     "options": [
       "within six months of the end of the financial year",
@@ -2680,6 +2886,7 @@
   {
     "id": 218,
     "topic": "Banking Supervision & CBC",
+    "chapter": 6,
     "question": "When should ACIs incorporated in the Republic need to submit their certified statement of its assets and liabilities to CBC?",
     "options": [
       "Within 30 days of the end of each month",
@@ -2693,6 +2900,7 @@
   {
     "id": 219,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Money laundering could involve handling the proceeds of which of the following crimes?",
     "options": [
       "Fraud and theft only",
@@ -2706,6 +2914,7 @@
   {
     "id": 220,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Simplified customer due diligence measures may be applied to which of the following customers?",
     "options": [
       "Trust accounts",
@@ -2719,6 +2928,7 @@
   {
     "id": 221,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "The degree to which Bank XYZ monitors the potential for money laundering varies between its customers. To comply with the regulations, the primary factor influencing this variation should be:",
     "options": [
       "the amount of investment involved",
@@ -2732,6 +2942,7 @@
   {
     "id": 222,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Which one is considered to be a suspicious transaction?",
     "options": [
       "A client with initial wire deposit of a small sum",
@@ -2745,6 +2956,7 @@
   {
     "id": 223,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "Which of the following is example of layering stage of Money Laundering?",
     "options": [
       "Transactions that involve buying and selling foreign currencies, shares or bonds in rapid succession, investing in CISs, or insurance-based investment products, or moving the money from one country to another.",
@@ -2758,6 +2970,7 @@
   {
     "id": 224,
     "topic": "AML/CFT & Customer Due Diligence",
+    "chapter": 7,
     "question": "The need for risk based approach relates to:",
     "options": [
       "Respond to MOKAS in a timely manner",
@@ -2771,6 +2984,7 @@
   {
     "id": 225,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "Shares in XYZ are listed on a regulated market. To comply with regulations, and in relation to these shares, which of the following details MUST be made public through the trading system?",
     "options": [
       "Independent credit risk rating",
@@ -2784,6 +2998,7 @@
   {
     "id": 226,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The mandatory pre-trade information for investment firms operating a trading venue for equity instruments must facilitate which types of trading systems?",
     "options": [
       "Quote-driven and order book, but not hybrid trading",
@@ -2797,6 +3012,7 @@
   {
     "id": 227,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The Markets in Financial Instruments Regulation 2014 (MiFIR) includes product intervention powers covering which bodies?",
     "options": [
       "Competent authorities only",
@@ -2810,6 +3026,7 @@
   {
     "id": 228,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "What is the minimum quote size, that a Systematic Internalizer may decide to quote for a financial instrument traded on a trading venue?",
     "options": [
       "5%",
@@ -2823,6 +3040,7 @@
   {
     "id": 229,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "The MiFIR regulation establishes uniform requirements in relation to",
     "options": [
       "powers of EBA on position management controls and position limits",
@@ -2836,6 +3054,7 @@
   {
     "id": 230,
     "topic": "Clearing & Market Infrastructure",
+    "chapter": 8,
     "question": "MiFIR applies to",
     "options": [
       "Investment firms",
@@ -2849,6 +3068,7 @@
   {
     "id": 231,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The primary purpose of the SREP is to ensure that CIFs:",
     "options": [
       "have sufficient anti- manipulation measures in place",
@@ -2862,6 +3082,7 @@
   {
     "id": 232,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "What is the MAXIMUM net exposure an institution is allowed under the Capital Requirements Regulation of the EU?",
     "options": [
       "EUR50 million",
@@ -2875,6 +3096,7 @@
   {
     "id": 233,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The total capital adequacy ratio of tier 1 and tier 2 is",
     "options": [
       "2.50%",
@@ -2888,6 +3110,7 @@
   {
     "id": 234,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "The capital conservation buffer is set at",
     "options": [
       "2.50%",
@@ -2901,6 +3124,7 @@
   {
     "id": 235,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "During SREP when is communication between CySEC and CIF is held?",
     "options": [
       "During Planning Stage",
@@ -2914,6 +3138,7 @@
   {
     "id": 236,
     "topic": "Capital & Risk (ICAAP/SREP)",
+    "chapter": 9,
     "question": "Which of the following includes reputational risk?",
     "options": [
       "Legal and compliance risk",
@@ -2927,6 +3152,7 @@
   {
     "id": 237,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "What is qualifying holding?",
     "options": [
       "Shareholding ownership at least 10% of more",
@@ -2940,6 +3166,7 @@
   {
     "id": 238,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "A temporary administrator",
     "options": [
       "is appointed by CySEC for a period not exceeding one year in the event that the replacement of senior management is deemed insufficient",
@@ -2953,6 +3180,7 @@
   {
     "id": 239,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "Which of the following is true regarding CySEC exchange confidential information to other authorities?",
     "options": [
       "the information can be shared only in the understanding that will be treated confidentialy",
@@ -2966,6 +3194,7 @@
   {
     "id": 240,
     "topic": "Recovery & Resolution",
+    "chapter": 11,
     "question": "CySEC will exchange confidential information with third-country authorities",
     "options": [
       "Provided that EBA as consented",
@@ -2979,6 +3208,7 @@
   {
     "id": 241,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "Why must a debt issuer designate a financial institution as its agent? To enable:",
     "options": [
       "holders to have a discretionary proxy",
@@ -2992,6 +3222,7 @@
   {
     "id": 242,
     "topic": "Prospectus & Issuer Transparency",
+    "chapter": 13,
     "question": "When should the issuers of shares and debt securities need to disclose a half- yearly financial report?",
     "options": [
       "within four months after the end of the first six months of the financial year",
@@ -3005,6 +3236,7 @@
   {
     "id": 243,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "A person who disseminates information to the media must take into account:",
     "options": [
       "whether it will have a positive effect",
@@ -3018,6 +3250,7 @@
   {
     "id": 244,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Acceptable market practices in relation to the sale and purchase of financial instruments are:",
     "options": [
       "defined by the Central Bank of Cyprus",
@@ -3031,6 +3264,7 @@
   {
     "id": 245,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Party A knows an inside information about shares that a client bought. Party A gives the information and asks to do the same to Party B. Party B proceeded with the purchase of the shares recommended by Party A. Who will be responsible in case that both parties are taken to court?",
     "options": [
       "Party A",
@@ -3044,6 +3278,7 @@
   {
     "id": 246,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Under the Market Abuse Regulation, financial instruments covered are:",
     "options": [
       "All instruments including commodities and related derivatives",
@@ -3057,6 +3292,7 @@
   {
     "id": 247,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Which of the following is true regarding market sounding",
     "options": [
       "Prior to disclosing the information, the market participant is not obligated to keep the information confidential",
@@ -3070,6 +3306,7 @@
   {
     "id": 248,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Which of the following is true regarding market manipulation?",
     "options": [
       "Market manipulation are misleading signals to the market with regard to supply, demand, or the price of an instrument",
@@ -3083,6 +3320,7 @@
   {
     "id": 249,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Accepted market practices are reviewed",
     "options": [
       "every year by the competent authority",
@@ -3096,6 +3334,7 @@
   {
     "id": 250,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "The final decision on whether the ‘accepted market practice’ is appropriate and valid lies with",
     "options": [
       "each competent authority",
@@ -3109,6 +3348,7 @@
   {
     "id": 251,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Which of the following is an example of insider trading?",
     "options": [
       "An individual sells their shares in a company after reading a news article about an explosion at the company’s factory.",
@@ -3122,6 +3362,7 @@
   {
     "id": 252,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Bank submits the insiders list to the competent authority",
     "options": [
       "When requested by cysec",
@@ -3135,6 +3376,7 @@
   {
     "id": 253,
     "topic": "Market Abuse & Inside Information",
+    "chapter": 14,
     "question": "Joe is the father of Mathew, who is a CEO in Zern enterprise Ltd. , which is listed for trading in a European stock exchange. Joe bought a €5K worth of Zern enterprise Stock. When should he disclose the purchase to the competent authority?",
     "options": [
       "Within a working day.",

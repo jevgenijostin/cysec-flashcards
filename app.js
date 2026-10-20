@@ -22,21 +22,29 @@ function screen(...nodes) {
 function home() {
   queue = [];
   const topics = new Map();
-  cards.forEach(card => topics.set(card.topic, (topics.get(card.topic) || 0) + 1));
+  cards.forEach(card => {
+    const entry = topics.get(card.topic) || { count: 0, chapters: new Set() };
+    entry.count++; entry.chapters.add(card.chapter); topics.set(card.topic, entry);
+  });
   const summary = el('div', undefined, 'summary');
   [[cards.length, 'cards'], [topics.size, 'topics']].forEach(([n, label]) => {
     const item = el('div'); item.append(el('strong', n), el('span', label)); summary.append(item);
   });
   const grid = el('div', undefined, 'topics');
-  function topicButton(topic, count) {
+  function chapterLabel(chapters) {
+    const sorted = [...chapters].sort((a, b) => a - b);
+    return sorted.length === 1 ? `Chapter ${sorted[0]}` : `Chapters ${sorted[0]}-${sorted[sorted.length - 1]}`;
+  }
+  function topicButton(topic, count, chapters) {
     const btn = button('', 'topic' + (topic === null ? ' all' : ''), () => start(topic));
     const name = el('span', topic || 'All topics', 'topic-name');
     name.append(el('span', `Cards: ${count}`, 'count'));
+    if (chapters) name.append(el('span', chapterLabel(chapters), 'count'));
     const arrow = el('span', '→', 'arrow'); arrow.setAttribute('aria-hidden', 'true');
     btn.append(name, arrow); return btn;
   }
   grid.append(topicButton(null, cards.length));
-  topics.forEach((count, topic) => grid.append(topicButton(topic, count)));
+  topics.forEach((entry, topic) => grid.append(topicButton(topic, entry.count, entry.chapters)));
   screen(el('h1', 'CySEC / CIF Flashcards'),
     el('p', 'Pick a topic and start practicing. Wrong answers go to the back of the queue, so every card gets another chance.', 'intro muted'),
     summary, grid, el('p', 'Progress is kept only in this browser tab for the current session - it is not saved anywhere, and resets on refresh or when you close the tab.', 'note'));
@@ -60,7 +68,7 @@ function study() {
   const progress = el('progress'); progress.max = total; progress.value = mastered; progress.setAttribute('aria-label', 'Cards mastered');
   const panel = el('section', undefined, 'card');
   const question = el('h2', card.question);
-  panel.append(el('p', `QUESTION #${card.id}`, 'card-number'), question);
+  panel.append(el('p', `QUESTION #${card.id} · Chapter ${card.chapter}`, 'card-number'), question);
   const options = el('div', undefined, 'options');
   const feedback = el('div'); feedback.setAttribute('role', 'status'); feedback.setAttribute('aria-live', 'polite');
   card.options.forEach((text, index) => {
@@ -114,6 +122,7 @@ async function load() {
     if (!Array.isArray(data) || !data.length) throw new Error('Empty deck');
     for (const c of data) {
       if (!Number.isInteger(c.id) || c.id < 1 || ids.has(c.id) || typeof c.topic !== 'string' || !c.topic.trim() ||
+          !Number.isInteger(c.chapter) || c.chapter < 1 ||
           typeof c.question !== 'string' || !c.question.trim() || typeof c.explanation !== 'string' || !c.explanation.trim() ||
           !Array.isArray(c.options) || c.options.length !== 4 || !c.options.every(o => typeof o === 'string' && o.trim()) ||
           !Number.isInteger(c.correctIndex) || c.correctIndex < 0 || c.correctIndex > 3) throw new Error('Invalid card');

@@ -48,6 +48,7 @@ The app's data source is `data/cards.json`, an array of objects:
 {
   "id": 56,
   "topic": "Client Conduct & Best Execution",
+  "chapter": 3,
   "question": "Exact question text from the recovered source",
   "options": ["Option A", "Option B", "Option C", "Option D"],
   "correctIndex": 0,
@@ -56,7 +57,9 @@ The app's data source is `data/cards.json`, an array of objects:
 ```
 
 This is an example of the shape, not a recovered card. `correctIndex` is the 0-3
-index (A-D); `id` must be a unique positive integer. There must be exactly four
+index (A-D); `id` must be a unique positive integer; `chapter` is the chapter number
+from the source's official numbering (shown per-question on the study screen, and
+as a range under each topic on the home screen). There must be exactly four
 options. Pick the topic by the question's actual subject, not by words that appear
 in a wrong answer; use one of the existing topic names exactly. The current PDF's
 assignment logic lives in `topic_for` in `extract_cards.py`.

@@ -8,7 +8,7 @@ BY_ID = {c['id']: c for c in CARDS}
 
 
 def current(page):
-    return int(page.locator('.card-number').inner_text().split()[-1].lstrip('#'))
+    return int(page.locator('.card-number').inner_text().split()[1].lstrip('#'))
 
 
 with sync_playwright() as p:
